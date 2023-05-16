@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: "IWBDA: International Workshop on Biodesign Automation" # Website name
-baseURL: 'https://www.iwbdaconf.org/2023/' # Website URL
+baseURL: 'https://www.iwbdaconf.org/' # Website URL
 
 ############################
 ## LANGUAGE

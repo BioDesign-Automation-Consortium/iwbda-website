@@ -5,14 +5,14 @@
 
 main:
   - name: Home
-    url: '#about'
+    url: '2023#about'
     weight: 10
   - name: Organising Committee
     url: 'committee'
     weight: 20
-
-# Link to a PDF of your resume/CV from the menu.
-# To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
-#  - name: CV
-#    url: uploads/resume.pdf
-#    weight: 70
+  - name: Previous Years
+    url: 'previous-years'
+    weight: 30
+  - name: Special Issues
+    url: 'special-issues'
+    weight: 40

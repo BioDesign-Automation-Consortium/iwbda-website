@@ -1,0 +1,146 @@
+Monday, July 27
+
+8:00 - 9:00 : Keynote Address (Room 124)
+
+Opening Remarks
+  Douglas Densmore, Marc Riedel, and Soha Hassoun
+
+Keynote Address
+  Drew Endy
+
+
+9:00 - 10:30 : Session 1 - Models and Algorithms (Chair: Jaijeet
+Roychowdhury, Room 124)
+
+Synthesizing Sequential Register-Based Computation with Biochemistry
+  Adam Shea, Brian Fett, Marc Riedel, and Keshab Parhi
+
+DOMINANT-EDGE PATHWAY: A Weighted Graph Algorithm for Identifying
+Dominant Metabolic Pathways
+  Ehasn Ullah, Kyongbum Lee, and Soha Hassoun
+
+Simplified Biochemical Models using Factor Graphs
+  Chris Winstead and Chris Myers
+
+Computer-Aided Synthetic Biology: How Multiscale Models can Rationalize
+the Design of Synthetic Gene Networks
+  Vassilis Sotiropoulos, Jonathan Tomshine, Katherine Volzing,
+  Poonam Srivastava, and Yiannis Kaznessis
+
+
+10:50 - 11:30 : Session 2: Experimental Biology (Chair: Ron Weiss,
+Room 124)
+
+Automated Design of Synthetic Ribosome Binding Sites to Control
+Protein Production
+  Howard Salis, Ethan Mirsky, and Christopher Voigt
+
+Programmed Control of Cellular Function: An in-cell Disease Prevention
+Device
+  Sangram Bagh, Mahuya Mandal, and David McMillen
+
+
+11:30 - 12:00 : Morning Poster Session (Rm 125)
+
+An Adaptive Data Structure for Biological System Design
+  Douglas Densmore, Bing Xia, Josh Kittleson, Timothy Ham, and J.
+  Christopher Anderson
+
+Applying Circuit Topological Analysis Techniques to Networks in
+Systems Biology
+  Sherief Reda
+
+A Rigorous Approach to the Design of Oligonucleotides for PCR-based
+Gene Synthesis
+  P.J.  Steiner
+
+Bridging Synthetic Biology Models and Experiments using PoBoL
+  Michal Galdzicki, Deepak Chandran, Herbert Sauro, Daniel Cook,
+  and John Gennari
+
+Contamination Aware Droplet Routing for Digital Microfluidic Biochips
+  Tsung-Wei Huang and Tsung-Yi Ho
+
+Designing Single-Duplex DNA Nanostructures by Abstraction
+  Shogo Hamada and Satoshi Murata
+
+From Electronic to Biological Design Automation: Building the Bridge
+  Giuseppe Nicosia
+
+
+12:00 - 1:30 : Lunch
+
+
+1:30 - 2:15 : Keynote Address (Room 124)
+
+Keynote Address
+  Ron Weiss
+
+
+2:15 - 3:40 : Session 3 - Tools and Parts (Chair: Herbert Sauro,
+Room 124)
+
+Design Tools for Synthetic Virology
+  Dimitris Papamichail and Steven Skiena
+
+A Framework for Modeling Modular DNA Parts: Towards the Predictable
+Design of Synthetic Systems
+  Ty Thomson
+
+Synthetic Biology: A New Application Area for Design Automation
+Research
+  Chris Myers, Nathan Barker, Kevin Jones, Hiroyuki Kuwahara, Curtis
+  Madsen, Nam-Phuong Nguyen, and Chris Winstead
+
+GenoCAD
+  Matthew William Lux, Yizhi Cai, and Jean Peccoud
+
+Bridging Synthetic Biology Design and Experiments using PoBoL
+  Deepak Chandran, Michal Galdzicki, and Alec Nielsen
+
+
+3:50 - 4:30 : Session 4 - Languages and Standardization (Chair:
+Yiannis Kaznessis, Room 124)
+
+Towards a High-Level Programming Language for Standardizing and
+Automating Biology Protocols
+  Vaishnavi Ananthanarayanan and William Thies
+
+BioBrick Open Language: A Keystone for Efficient Development and
+Communication of Standard Biological Parts
+  Ceasar Rodriguez, Doug Densmore, and Drew Endy
+
+
+4:30 - 5:00 : Afternoon Poster Session (Rm 125)
+
+Genetic Edge Detection
+  Jeff Tabor
+
+JBEI Registry: Towards a Distributed Web of Registries
+  Timothy Ham, Zinovii Dmytriv, Paul Adams, and Jay Keasling
+
+Overcoming Abstraction Barriers in Synthetic Biology Systems
+  Austin Che
+
+PoBoL in the Lab: Structured Organization of Biological Samples for
+Laboratory Management and Automation
+  Alec Nielsen, Deepak Chandran, Michal Galdzicki, Sean Sleight,
+  Herbert Sauro, Daniel Cook, and John Gennari
+
+TinkerCell: a CAD application for Synthetic Biology
+  Deepak Chandran, Frank Bergmann, and Herbert M.  Sauro
+
+Toward Automatic Design of DNA Logic Gates and Devices
+  Ibuki Kawamata, Fumiaki Tanaka, and Masami Hagiya
+
+Workflow Design for Synthetic Biology Using Clotho and Kepler
+  Douglas Densmore, Thien Nguyen, and J.  Christopher Anderson
+
+
+5:00 - 5:50 : Panel Session (Moderator: Douglas Densmore, Rm 124)
+
+Panel Discussion
+  Lou Scheffer (HHMI and Cadence), Kevin Clancy (Invitrogen), Claes
+  Gustafsson (DNA 2.0), and Ron Weiss (MIT)
+
+
