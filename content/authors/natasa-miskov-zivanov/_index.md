@@ -15,7 +15,7 @@ names:
 superuser: false
 
 # Role/position
-role: Program Committee Chair
+role: Program Chair
 
 # Organizations/Affiliations
 organizations:

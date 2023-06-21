@@ -11,7 +11,7 @@
 {{end}}
 
 {{ $person_page_path := (printf "/authors/%s" $author) }}
-{{ $person_page := site.GetPage "/authors/IWBDA-2023" }}
+{{ $person_page := site.GetPage "/authors/biodesignweek-2023" }}
 {{ if not $person_page }}
   {{ warnf "Could not find an author page at `%s`. Please check the value of `author` in your About widget and create an associated author page if one does not already exist. See https://sourcethemes.com/academic/docs/page-builder/#about " $person_page_path }}
 {{end}}
@@ -33,14 +33,7 @@
 
     <div class="row">
       <div class="col-12 col-lg-4">
-        <!-- Conference date -->
-        <h2 style="color:rgb(141, 199, 66)">Conference Date</h2>
-        <b>{{ $person.conf_date }}</b>
-  
-        <!-- Conference Location -->
-        <h2 style="color:rgb(141, 199, 66)">Conference Location</h2>
-        <b>{{ $person.conf_location }}</b>
-  
+        
         <!-- Important Dates -->
         {{ with $person.important_dates }}
           <h2 style="color:rgb(141, 199, 66)">Important Dates</h2>
@@ -54,14 +47,6 @@
         <!-- Important Links -->
         {{ with $person.important_links }}
           <h2 style="color:rgb(141, 199, 66)">Important Links</h2>
-          {{ range . }}
-            <div class="description"><a href={{ .link }} style="color:rgb(31, 100, 107)">{{ .name | markdownify | emojify }}</a></div>
-          {{ end }}
-        {{ end }}
-
-        <!-- Important Links -->
-        {{ with $person.contact }}
-          <h2 style="color:rgb(141, 199, 66)">Contact</h2>
           {{ range . }}
             <div class="description"><a href={{ .link }} style="color:rgb(31, 100, 107)">{{ .name | markdownify | emojify }}</a></div>
           {{ end }}
@@ -109,7 +94,6 @@
             {{ end }}
           </ul>
         {{ end }}
-
       </div>
     </div>
 
