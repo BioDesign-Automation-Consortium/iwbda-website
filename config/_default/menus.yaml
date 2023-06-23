@@ -8,10 +8,10 @@ main:
     url: '2023'
     weight: 10
   - name: Call for Papers
-    url: '2023#cfp'
+    url: '2023/#cfp'
     weight: 12
   - name: Call for Workshops
-    url: '2023#cfw'
+    url: '2023/#cfw'
     weight: 14
   - name: Organising Committee
     url: 'committee'

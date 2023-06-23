@@ -70,5 +70,5 @@ Introducing **Bio Design Week**, a new annual event to bring people together to 
 Bio Design Week offers a forum for cross-disciplinary discussion, with the aim of seeding and fostering collaboration between the biological and the design automation research communities.
 
 
-Bio Design Week and IWBDA are organized by the non-profit Bio-Design Automation Consortium (BDAC). The Nona Works Hackathon is organized by the Nona Foundation. BDAC and the Nona Foundation are both officially recognized 501(c)(3) tax exempt organizations.
+Bio Design Week and IWBDA are organized by the non-profit [Bio-Design Automation Consortium (BDAC)](https://www.bio-design-automation.org). The Nona Works Hackathon is organized by the [Nona Research Foundation](https://www.nonasoftware.com/). BDAC and the Nona Research Foundation are both officially recognized 501(c)(3) tax exempt organizations.
 
