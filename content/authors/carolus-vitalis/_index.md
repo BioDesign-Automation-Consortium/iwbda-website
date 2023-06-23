@@ -1,29 +1,29 @@
 ---
 # Display name
-title: Prashant Vaidyanathan
+title: Carolus Vitalis
 
 # Username (this should match the folder name)
 authors:
-- Prashant Vaidyanathan
+- Carolus Vitalis
 
 #Author Names (alternative spellings etc)
 names:
-- Prashant Vaidyanathan
+- Carolus Vitalis
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Co-Web Chair
+role: Workshop Chair
 
 # Organizations/Affiliations
 organizations:
-- name: Oxford Biomedica
+- name: University of Colorado Boulder
   url: ""
 
 #Order to show in compared to other authors when using people section
 #Use 1 for PI, 100 for Current Postdocs, 200 for current phds, 300 for current masters, 400 for current undergrads, 800 for alum postdocs, 810 for alum phds, 820 for alum masters, and 830 for alum undergrads, 900 for tools, 1000 for projects, 900 for tools, 1000 for projects
-weight: 5
+weight: 4
 
 #Utah or CU
 #university: CU
@@ -123,4 +123,4 @@ user_groups:
 # - SynBioHub Plugins Tool
 ---
 
-Dr. Prashant Vaidyanathan received his Ph.D. in Computer Engineering from Boston University in 2019. He is currently the Group Lead for Data Architecture at Oxford Biomedica in Oxford, UK.
+Carolus Vitalis received his degree in Molecular Biotechnology Engineering from the University of Chile in 2022. He is currently pursuing a Doctorate in Biomedical Engineering and Interdisciplinary Quantitative Biology Certification at the University of Colorado Boulder. He served as the president of the Chilean National Association of Biotechnology Engineering Students (ANEIB) from 2021-2023.

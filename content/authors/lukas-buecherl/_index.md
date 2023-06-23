@@ -1,29 +1,29 @@
 ---
 # Display name
-title: Prashant Vaidyanathan
+title: Lukas Buecherl
 
 # Username (this should match the folder name)
 authors:
-- Prashant Vaidyanathan
+- Lukas Buecherl
 
 #Author Names (alternative spellings etc)
 names:
-- Prashant Vaidyanathan
+- Lukas Buecherl
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Co-Web Chair
+role: Diversity Chair
 
 # Organizations/Affiliations
 organizations:
-- name: Oxford Biomedica
+- name: University of Colorado Boulder
   url: ""
 
 #Order to show in compared to other authors when using people section
 #Use 1 for PI, 100 for Current Postdocs, 200 for current phds, 300 for current masters, 400 for current undergrads, 800 for alum postdocs, 810 for alum phds, 820 for alum masters, and 830 for alum undergrads, 900 for tools, 1000 for projects, 900 for tools, 1000 for projects
-weight: 5
+weight: 4
 
 #Utah or CU
 #university: CU
@@ -123,4 +123,4 @@ user_groups:
 # - SynBioHub Plugins Tool
 ---
 
-Dr. Prashant Vaidyanathan received his Ph.D. in Computer Engineering from Boston University in 2019. He is currently the Group Lead for Data Architecture at Oxford Biomedica in Oxford, UK.
+Lukas Buecherl is a Ph.D. student specializing in genetic circuit design at the University of Colorado Boulder. Working under the supervision of Dr. Chris Myers in the Genetic Logic Lab, Lukas is currently in his 4th year of study. His research focuses on synthetic biology, particularly the prediction of genetic circuit behavior in silico. Throughout his Ph.D., Lukas has contributed to various synthetic biology software tools including iBioSim, SBOLCanvas, SynBioSuite, and SynBioHub. His primary focus revolves around analyzing the behavior of genetic circuits, employing stochastic simulation methods such as Gillespie's stochastic simulation algorithm and stochastic model checking.
