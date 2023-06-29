@@ -39,7 +39,7 @@ sections:
 
         Upload your proposals using [this link](https://tinyurl.com/BioDesignWeekWorkshops).
 
-        <b>Workshop proposal deadline:</b> June 30th 2023
+        <b>Workshop proposal deadline:</b> July 30th 2023
 
     design:
       columns: '2'
