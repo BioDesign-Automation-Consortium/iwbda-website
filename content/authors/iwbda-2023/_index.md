@@ -12,7 +12,7 @@ important_dates:
  - name: Abstract submission - Early deadline
    date: June 23, 2023
  - name: Abstract submission - Regular deadline
-   date: July 14, 2023
+   date: ~~July 14, 2023~~ July 31, 2023
  - name: Workshop proposal - submission deadline
    date: July 30, 2023
 #   date: ~~August 26, 2022~~ September 10, 2022
