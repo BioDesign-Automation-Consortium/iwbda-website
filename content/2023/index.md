@@ -55,6 +55,7 @@ sections:
     content:
       title: Organising Committee
       user_groups:
-      - Chairs
+      - IWBDA
+      - NonaWorks23
 
 ---

@@ -1,29 +1,28 @@
 ---
 # Display name
-title: Traci Haddock
-
+title: Alex Barutis
 # Username (this should match the folder name)
 authors:
-- Traci Haddock
+- Alex Barutis
 
 #Author Names (alternative spellings etc)
 names:
-- Traci Haddock
+- Alex Barutis
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: General Chair, Co-Finance Chair
+role: Communications Chair
 
 # Organizations/Affiliations
 organizations:
-- name: Asimov
+- name: 
   url: ""
 
 #Order to show in compared to other authors when using people section
 #Use 1 for PI, 100 for Current Postdocs, 200 for current phds, 300 for current masters, 400 for current undergrads, 800 for alum postdocs, 810 for alum phds, 820 for alum masters, and 830 for alum undergrads, 900 for tools, 1000 for projects, 900 for tools, 1000 for projects
-weight: 1
+weight: 4
 
 #Utah or CU
 #university: CU
@@ -112,7 +111,7 @@ social:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- IWBDA
+- NonaWorks23
 
 # # #any user groups to display on the page
 # display_groups:
@@ -123,4 +122,4 @@ user_groups:
 # - SynBioHub Plugins Tool
 ---
 
-Dr. Traci Haddock-Angelli earned her doctorate in marine microbiology from the University of Rhode Island in 2010. She is currently the Director of Community at Asimov.
+A senior studying Biomedical Engineering, Alex is interested in exploring Synthetic Biology applications in larger scale systems with further goals including tissue engineering and iPSC research. These are aspects of Bioengineering he hopes to further pursue in graduate studies in the future. Outside of school, he enjoys music, tennis, and cooking.

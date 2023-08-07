@@ -1,29 +1,28 @@
 ---
 # Display name
-title: Traci Haddock
-
+title: Sai Samineni
 # Username (this should match the folder name)
 authors:
-- Traci Haddock
+- Sai Samineni
 
 #Author Names (alternative spellings etc)
 names:
-- Traci Haddock
+- Sai Samineni
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: General Chair, Co-Finance Chair
+role: Outreach and Funding Chair
 
 # Organizations/Affiliations
 organizations:
-- name: Asimov
+- name: 
   url: ""
 
 #Order to show in compared to other authors when using people section
 #Use 1 for PI, 100 for Current Postdocs, 200 for current phds, 300 for current masters, 400 for current undergrads, 800 for alum postdocs, 810 for alum phds, 820 for alum masters, and 830 for alum undergrads, 900 for tools, 1000 for projects, 900 for tools, 1000 for projects
-weight: 1
+weight: 2
 
 #Utah or CU
 #university: CU
@@ -112,7 +111,7 @@ social:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- IWBDA
+- NonaWorks23
 
 # # #any user groups to display on the page
 # display_groups:
@@ -123,4 +122,4 @@ user_groups:
 # - SynBioHub Plugins Tool
 ---
 
-Dr. Traci Haddock-Angelli earned her doctorate in marine microbiology from the University of Rhode Island in 2010. She is currently the Director of Community at Asimov.
+Increasing the representation of students in STEM from BIPOC, minority, veteran, parenting, and/or other fellow diverse communities is a lifelong passion of Sai's. In addition to innovating software tools to advance and improve data support to fellow synthetic biologists, Sai serves as the Board Member of the CU Engineering Excellence Fund which invests in student projects. Outside of the lab, much of the downtime is spent in discovery and tinkering by their ever curious four year old. 

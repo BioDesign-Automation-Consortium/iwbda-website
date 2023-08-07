@@ -13,7 +13,7 @@ subtitle = ""
 [content]
   # Choose which groups/teams of users to display.
   #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
-  user_groups = ["Chairs", "Past Organisers", "BioDesign Automation Consortium"]
+  user_groups = ["IWBDA", "NonaWorks23", "Past Organisers", "BioDesign Automation Consortium"]
 
 [design]
   # Show user's social networking links? (true/false)

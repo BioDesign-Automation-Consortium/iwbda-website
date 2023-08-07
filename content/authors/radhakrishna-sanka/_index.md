@@ -1,24 +1,24 @@
 ---
 # Display name
-title: Traci Haddock
+title: Radhakrishna Sanka
 
 # Username (this should match the folder name)
 authors:
-- Traci Haddock
+- Radhakrishna Sanka
 
 #Author Names (alternative spellings etc)
 names:
-- Traci Haddock
+- Radhakrishna Sanka
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: General Chair, Co-Finance Chair
+role: Technical Chair
 
 # Organizations/Affiliations
 organizations:
-- name: Asimov
+- name: 
   url: ""
 
 #Order to show in compared to other authors when using people section
@@ -112,7 +112,7 @@ social:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- IWBDA
+- NonaWorks23
 
 # # #any user groups to display on the page
 # display_groups:
@@ -123,4 +123,4 @@ user_groups:
 # - SynBioHub Plugins Tool
 ---
 
-Dr. Traci Haddock-Angelli earned her doctorate in marine microbiology from the University of Rhode Island in 2010. She is currently the Director of Community at Asimov.
+As a staunch advocate of Open Source development, Krishna works with collaborators from his PhD granting institution Boston University and bridges the gap to open source community development of synthetic biology tools as a member of the Nona Works Research Foundation. In his downtime, Krishna also mentors iGEM students, tinkers with microfluidics and novel hardware, and thinks about ways to improve our climate and planet.
