@@ -4,17 +4,25 @@ title: IWBDA 2023
 # Is this the primary user of the site?
 superuser: false
 
-conf_date: September 11-15 September 2023
+conf_date: 11-14 September, 2023
 
 conf_location: Boston, Massachusetts, USA
 
 important_dates:
+ - name: IWBDA
+   date: September 12-14, 2023
+ - name: Workshops
+   date: September 11-14, 2023
+ - name: Nona Works
+   date: September 11-14, 2023
+ - name: Late breaking lightning talks submission
+   date: August 23, 2023
+ - name: Workshop proposal - submission deadline
+   date: ~~July 30, 2023~~ August 23, 2023
  - name: Abstract submission - Early deadline
    date: June 23, 2023
  - name: Abstract submission - Regular deadline
    date: ~~July 14, 2023~~ July 31, 2023
- - name: Workshop proposal - submission deadline
-   date: July 30, 2023
 #   date: ~~August 26, 2022~~ September 10, 2022
 # - name: Forum abstract submission deadline
 #   date: ~~August 26, 2022~~ September 30, 2022
@@ -26,6 +34,8 @@ important_links:
   link: https://easychair.org/my/conference?conf=iwbda23
 - name: Workshop Proposal Submission
   link: https://tinyurl.com/BioDesignWeekWorkshops
+- name: Conference Logistics
+  link: /2023/#logistics
 
 contact:
 - name: Traci Haddock
@@ -74,8 +84,19 @@ user_groups:
 ---
 
 <!--<img src="/images/iwbda2023/IWBDA2023_logo.png" alt="demo" class="img-responsive">-->
+
+<b>Now Open:</b> Submissions for our late breaking lightning talks for IWBDA!
+
+Submit a short abstract between 100-200 words in length to be considered for our late breaking lightning talks. You may also include up to one figure, but it’s not a requirement.
+Abstracts must be submitted through the [IWBDA EasyChair](https://easychair.org/my/conference?conf=iwbda23). Submissions cannot exceed 200 words (or 1 page if figure is included). 
+
+If you do not have an EasyChair account, please create one by following the instructions specified [here](https://easychair.org/help/account_creation). Please check [Submission Guidelines](/2023/#submission-guidelines) for additional details including submission format.
+
+Submissions are due by Wednesday, August 23.
+
+
 # Call for Papers
-Join us for the 15th annual IWBDA meeting, in Boston, September 11-15, 2023. This year, IWBDA will take place during [Bio Design Week](#biodesignweek) and will include presentation and poster talks selected from submitted abstracts, Birds of a Feather discussions, and breakout sessions on selected topics. We aim to bring together academic researchers and industry partners to push the field of bio-design automation for synthetic biology forward.
+Join us for the 15th annual IWBDA meeting, in Boston, September 11-14, 2023. This year, IWBDA will take place during [Bio Design Week](#biodesignweek) and will include presentation and poster talks selected from submitted abstracts, Birds of a Feather discussions, and breakout sessions on selected topics. We aim to bring together academic researchers and industry partners to push the field of bio-design automation for synthetic biology forward.
 
 The field of biology is still lagging behind the industry when it comes to implementation and adoption of computational and digital solutions. This is primarily because it is extremely difficult to offer a one-size-fits-all solution to engineer biology. Some BDA solutions serve as templates for a larger problem, but, to make it usable in a practical setting, the solutions often have to be redesigned for bespoke biological workflows. Without understanding the requirements of the broader synthetic biology community, it is hard to design a solution that can have a wider impact. 
 

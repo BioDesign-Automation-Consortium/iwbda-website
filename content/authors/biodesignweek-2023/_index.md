@@ -4,7 +4,7 @@ title: Bio Design Week
 # Is this the primary user of the site?
 superuser: false
 
-#conf_date: September 11-15 September 2023
+conf_date: September 11-14 September 2023
 
 #conf_location: Boston, Massachusetts, USA
 

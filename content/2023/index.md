@@ -13,6 +13,27 @@ sections:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: IWBDA-2023
   - block: markdown
+    id: logistics
+    content:
+      title: Conference Logistics
+      text: |- 
+        # Location Details
+        Bio-Design Week will be held at two main venues:
+          - Boston University’s Center for Computing & Data Sciences, 665 Commonwealth Ave, Boston, MA 02215
+          - Asimov, 201 Brookline Avenue, Boston, MA 02215
+        # Hotels
+        Hotels close to Boston University and Asimov during Bio-Design Week may be more expensive than usual due to a Red Sox-Yankees series happening during the same week. We recommend looking at hotels along the MBTA’s Green Line (B) or within a reasonable walking distance to Boston University. There are options over in the Longwood Medical area (~25 minute walk or ~15 min by public transportation). Hotels in Cambridge may also be less expensive, but would require a longer commute.
+        # Parking
+        If you require on-site parking, please let us know so we can explore some options to accommodate you. Please email [Traci](mailto:traci@asimov.com) with the specific dates that you would need parking.
+        # Student funding
+        We are working on securing funding for students traveling to Bio-Design Week from schools within the United States. Stay tuned for more information. This funding will be available to undergraduate and graduate students, and is intended to partially cover your travel expenses for your flights or train tickets, and/or your accommodations.
+        # Registration is coming soon!
+        Registration for Bio-Design Week will open next week (week of August 21st). Tickets will include access to IWBDA, community-driven workshops, and social events.
+ 
+    design:
+      columns: '2'
+
+  - block: markdown
     id: submission-guidelines
     content:
       title: Submission Guidelines
@@ -43,6 +64,11 @@ sections:
 
     design:
       columns: '2'
+  - block: people
+    content:
+      title: Keynote Speakers
+      user_groups:
+      - Speakers
   - block: biodesignweek
     # block: about.biography
     id: biodesignweek
