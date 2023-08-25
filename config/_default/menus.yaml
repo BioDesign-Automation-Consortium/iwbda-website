@@ -6,22 +6,28 @@
 main:
   - name: Home
     url: '2023'
+    weight: 5
+  - name: Agenda
+    url: '/2023/#agenda'
     weight: 10
+  - name: Keynote
+    url: '/2023/#keynote'
+    weight: 15
   - name: Logistics
     url: '/2023/#logistics'
-    weight: 11
-  - name: Call for Papers
-    url: '2023/#cfp'
-    weight: 12
-  - name: Call for Workshops
-    url: '2023/#cfw'
-    weight: 14
+    weight: 20
+  #- name: Call for Papers
+  #  url: '2023/#cfp'
+  #  weight: 30
+  #- name: Call for Workshops
+  #  url: '2023/#cfw'
+  #  weight: 40
   - name: Organising Committee
     url: 'committee'
-    weight: 20
+    weight: 50
   - name: Previous Years
     url: 'previous-years'
-    weight: 30
+    weight: 60
   - name: Special Issues
     url: 'special-issues'
-    weight: 40
+    weight: 70

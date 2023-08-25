@@ -30,10 +30,12 @@ important_dates:
 #  date: September 9, 2022
 
 important_links:
-- name: Abstract Submission
-  link: https://easychair.org/my/conference?conf=iwbda23
-- name: Workshop Proposal Submission
-  link: https://tinyurl.com/BioDesignWeekWorkshops
+#- name: Abstract Submission
+#  link: https://easychair.org/my/conference?conf=iwbda23
+#- name: Workshop Proposal Submission
+#  link: https://tinyurl.com/BioDesignWeekWorkshops
+- name: Agenda
+  link: /2023/#agenda
 - name: Conference Logistics
   link: /2023/#logistics
 
