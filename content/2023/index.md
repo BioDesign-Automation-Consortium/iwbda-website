@@ -16,9 +16,18 @@ sections:
   - block: people
     id: keynote
     content:
-      title: Keynote Speakers
+      title: Keynote Speaker
       user_groups:
       - Speakers
+
+  - block: markdown
+    id: registration
+    content:
+      title: Registration
+      text: |- 
+        <link rel="stylesheet" type="text/css" href="https://www.brownpapertickets.com/widget_v671.css" /> <DIV ID="bpt_eventbody"><CENTER><BR><BR>Brown Paper Tickets Ticket Widget Loading...<BR><BR><A HREF="https://www.brownpapertickets.com/event/6126340">Click Here</A> to visit the Brown Paper Tickets event page.</CENTER><BR><BR></DIV> <script src="https://www.brownpapertickets.com/eventwidget.js?event=6126340&nodescription=1&notitle=1" type="text/javascript" language="javascript"></script> <script src="https://www.brownpapertickets.com/widget_v671.js?event=6126340" type="text/javascript" language="javascript"></script>
+    design:
+      columns: '2'
 
   - block: markdown
     id: logistics

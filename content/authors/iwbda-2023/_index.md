@@ -17,23 +17,20 @@ important_dates:
    date: September 11-14, 2023
  - name: Late breaking lightning talks submission
    date: August 23, 2023
- - name: Workshop proposal - submission deadline
-   date: ~~July 30, 2023~~ August 23, 2023
- - name: Abstract submission - Early deadline
-   date: June 23, 2023
- - name: Abstract submission - Regular deadline
-   date: ~~July 14, 2023~~ July 31, 2023
-#   date: ~~August 26, 2022~~ September 10, 2022
-# - name: Forum abstract submission deadline
-#   date: ~~August 26, 2022~~ September 30, 2022
-# - name: Initial notification of acceptance (and then ongoing)
-#  date: September 9, 2022
+# - name: Workshop proposal - submission deadline
+#   date: ~~July 30, 2023~~ August 23, 2023
+# - name: Abstract submission - Early deadline
+#   date: June 23, 2023
+# - name: Abstract submission - Regular deadline
+#   date: ~~July 14, 2023~~ July 31, 2023
 
 important_links:
 #- name: Abstract Submission
 #  link: https://easychair.org/my/conference?conf=iwbda23
 #- name: Workshop Proposal Submission
 #  link: https://tinyurl.com/BioDesignWeekWorkshops
+- name: Registration
+  link: /2023/#registration
 - name: Agenda
   link: /2023/#agenda
 - name: Conference Logistics
@@ -84,8 +81,11 @@ user_groups:
 - Current Event
 
 ---
+![IWBDA 2023 Logo](iwbda2023_logo.png)
 
-<!--<img src="/images/iwbda2023/IWBDA2023_logo.png" alt="demo" class="img-responsive">-->
+# Announcements
+
+<b>Registration Now Open:</b> Register using [this link](/2023/#registration)! 
 
 <b>Now Open:</b> Submissions for our late breaking lightning talks for IWBDA!
 

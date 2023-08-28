@@ -7,6 +7,9 @@ main:
   - name: Home
     url: '2023'
     weight: 5
+  - name: Registration
+    url: '/2023/#registration'
+    weight: 10
   - name: Agenda
     url: '/2023/#agenda'
     weight: 10
