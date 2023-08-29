@@ -15,8 +15,8 @@ important_dates:
    date: September 11-14, 2023
  - name: Nona Works
    date: September 11-14, 2023
- - name: Late breaking lightning talks submission
-   date: August 23, 2023
+# - name: Late breaking lightning talks submission
+#   date: August 23, 2023
 # - name: Workshop proposal - submission deadline
 #   date: ~~July 30, 2023~~ August 23, 2023
 # - name: Abstract submission - Early deadline
@@ -85,8 +85,10 @@ user_groups:
 
 # Announcements
 
-<b>Registration Now Open:</b> Register using [this link](/2023/#registration)! 
+Registration for Bio-Design Week is now open! Please note that registration includes entry to the Monday workshops and IWBDA sessions.
+Register using [this link](/2023/#registration)! 
 
+<!--
 <b>Now Open:</b> Submissions for our late breaking lightning talks for IWBDA!
 
 Submit a short abstract between 100-200 words in length to be considered for our late breaking lightning talks. You may also include up to one figure, but it’s not a requirement.
@@ -95,7 +97,7 @@ Abstracts must be submitted through the [IWBDA EasyChair](https://easychair.org/
 If you do not have an EasyChair account, please create one by following the instructions specified [here](https://easychair.org/help/account_creation). Please check [Submission Guidelines](/2023/#submission-guidelines) for additional details including submission format.
 
 Submissions are due by Wednesday, August 23.
-
+-->
 
 # Call for Papers
 Join us for the 15th annual IWBDA meeting, in Boston, September 11-14, 2023. This year, IWBDA will take place during [Bio Design Week](#biodesignweek) and will include presentation and poster talks selected from submitted abstracts, Birds of a Feather discussions, and breakout sessions on selected topics. We aim to bring together academic researchers and industry partners to push the field of bio-design automation for synthetic biology forward.
