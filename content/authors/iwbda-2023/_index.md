@@ -15,6 +15,8 @@ important_dates:
    date: September 11-14, 2023
  - name: Nona Works
    date: September 11-14, 2023
+ - name: Special Issue Submission Deadline
+   date: April 30, 2024
 # - name: Late breaking lightning talks submission
 #   date: August 23, 2023
 # - name: Workshop proposal - submission deadline
@@ -35,6 +37,10 @@ important_links:
   link: /2023/#agenda
 - name: Conference Logistics
   link: /2023/#logistics
+- name: Nona Works 2023
+  link: https://www.nonasoftware.org/nonaworks23
+- name: SBOL Workshops Registration
+  link: https://forms.gle/7TA6kgqx54Pg3Rz77
 
 contact:
 - name: Traci Haddock

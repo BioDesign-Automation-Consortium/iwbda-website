@@ -42,10 +42,6 @@ sections:
         Hotels close to Boston University and Asimov during Bio-Design Week may be more expensive than usual due to a Red Sox-Yankees series happening during the same week. We recommend looking at hotels along the MBTA’s Green Line (B) or within a reasonable walking distance to Boston University. There are options over in the Longwood Medical area (~25 minute walk or ~15 min by public transportation). Hotels in Cambridge may also be less expensive, but would require a longer commute.
         # Parking
         If you require on-site parking, please let us know so we can explore some options to accommodate you. Please email [Traci](mailto:traci@asimov.com) with the specific dates that you would need parking.
-        # Student funding
-        We are working on securing funding for students traveling to Bio-Design Week from schools within the United States. Stay tuned for more information. This funding will be available to undergraduate and graduate students, and is intended to partially cover your travel expenses for your flights or train tickets, and/or your accommodations.
-        # Registration is coming soon!
-        Registration for Bio-Design Week will open next week (week of August 21st). Tickets will include access to IWBDA, community-driven workshops, and social events.
  
     design:
       columns: '2'
@@ -55,7 +51,7 @@ sections:
       title: Agenda
       text: |- 
         # Bio-Design Week - September 11-14, 2023
-
+        
         ## Monday, September 11 - 665 Commonwealth Avenue, 17th Floor
         
         - **08:00-09:00** Registration and breakfast
@@ -117,16 +113,20 @@ sections:
         
         - **11:40-13:00** Lunch
         
-        - **13:00-13:30** Invited Talk: Kernel and Simulator 
-        - **13:30-14:30** Discussion session: Topic TBD
-        - **14:30-15:00** Coffee break
-        - **15:00-15:30** Discussion summary
-        - **15:30-16:30** IWBDA Talks: Automating Evolution
-            - 15:30-15:50 **Long-term evolution of bacteria for maximal growth rate.** Antoine Vigouroux and Johan Paulsson. 
-            - 15:50-16:10 **Engineering Continuous Directed Evolution with Single Cell Optogenetic Selection and Microfluidics.** Jess James, Sebastian Towers, Idris Kempf, Jingyu Wang, Jakob Foerster and Harrison Steel. 
-            - 16:10-16:30 **An Automated Platform for Accelerating Adaptive Laboratory Evolution.** Marco Corrao and Harrison Steel. 
+        - **13:00-13:40** Invited Talks
+        	- 13:00-13:20 **Kernel: Evolving Genetic Design.** Kevin LeShane
+        	- 13:20-13:40 **A Genetic Construct Simulator for Faster Design** Alina Ferdman 
+        - **13:40-14:45** Discussion session: Growing our Community
+        - **14:45-15:15** Coffee break
+        - **15:15-15:45** Discussion summary
+        - **15:45-16:45** IWBDA Talks: Automating Evolution
+            - 15:45-16:05 **Long-term evolution of bacteria for maximal growth rate.** Antoine Vigouroux and Johan Paulsson. 
+            - 16:05-16:25 **Engineering Continuous Directed Evolution with Single Cell Optogenetic Selection and Microfluidics.** Jess James, Sebastian Towers, Idris Kempf, Jingyu Wang, Jakob Foerster and Harrison Steel. 
+            - 16:25-16:45 **An Automated Platform for Accelerating Adaptive Laboratory Evolution.** Marco Corrao and Harrison Steel. 
         
-        - **16:30-17:00** Late breaking lightning talks
+        - 16:45-16:50 *Late breaking lightning talk*
+            - **Biology that starts at a computer.** Dave Vance 
+        - **16:50-17:00** Break and travel to the reception
         - **17:00-19:30** Networking Reception sponsored by Asimov
         
         ## Thursday, September 14 - 665 Commonwealth Ave, 17th Floor
@@ -145,18 +145,28 @@ sections:
                 - **Using Machine Learning to Infer RNA Velocity Fields.** Taos Transue and Payton Thomas. 
         
         - **12:30-13:30** Lunch and Nona Works Voting
-        - **13:30-14:30** Discussion Session: Topic TBD
-        - **14:30-15:25** IWBDA Talks: Improving Workflows through Software
-            - 14:30-14:50 **A Report on SynBio Data Management Practices.** Carolus Vitalis, Sai Samineni, Chris Myers and Pedro Fontanarrosa. 
-            - 14:50-15:10 **Software for Synthetic Biology Workflows: How to Improve Your Productivity and Impact.** Chris J. Myers, Lukas Buecherl, Daniel Fang, Pedro Fontanarrosa, William Mo, Sai P. Samineni, Gonzalo Vidal, Carolus Vitalis, Guillermo Yanez-Feliu and Timothy J. Rudge. 
-            - 15:10-15:25 *Lightning Talks:* 
+        - **13:30-14:25** IWBDA Talks: Improving Workflows through Software
+            - 13:30-13:50 **A Report on SynBio Data Management Practices.** Carolus Vitalis, Sai Samineni, Chris Myers and Pedro Fontanarrosa. 
+            - 13:50-14:10 **Software for Synthetic Biology Workflows: How to Improve Your Productivity and Impact.** Chris J. Myers, Lukas Buecherl, Daniel Fang, Pedro Fontanarrosa, William Mo, Sai P. Samineni, Gonzalo Vidal, Carolus Vitalis, Guillermo Yanez-Feliu and Timothy J. Rudge. 
+            - 14:10-14:25 *Lightning Talks:* 
                 - **DBTL Engineering cycle automation: Improving basic parts characterization in the Learn stage by Automation of the Test stage.** Yadira Boada, Anna Pushkareva, Harold Díaz-Iza, Andrés Arboleda-García, Jesús Picó and Alejandro Vignoni. 
                 - **PUDU: Simple Liquid Handling Robot Control for Synthetic Biology Workflows.** Gonzalo Andrés Vidal Peña, Carolus Vitalis, Matt Burridge, Lukas Buecherl, David Markham, Chris Myers and Timothy Rudge. 
                 - **A fully in-silico workflow for treating colon cancer with engineered cells: a study case.** Cristobal Hofmann, Francisco Salcedo and Martin Gutierrez. 
         
-        - **15:25-15:45** Awards and Closing Remarks
+        - **14:25-14:45** Awards and Closing Remarks
 
 
+
+  - block: markdown
+    id: special-issue-2023
+    content: 
+      title: Virtual Special Issue
+      text: |- 
+        ACS Synthetic Biology would like to invite all IWBDA attendees to submit their original work to the journal to appear in the “IWBDA 2023” Virtual Special Issue. Any article type is welcome. The submission deadline is April 30, 2024. 
+        
+        If you wish to be part of this special collection, please see the [ACS Synthetic Biology Invitation for further information and instructions](/special-issues/2023/).
+    design:
+      columns: '2'
 
 
   - block: markdown
