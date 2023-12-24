@@ -89,6 +89,10 @@ user_groups:
 ---
 ![IWBDA 2023 Logo](iwbda2023_logo.png)
 
+# Proceedings
+
+Proceedings available now! Click {{<staticref "uploads/IWBDA2023Proceedings.pdf" "newtab">}} here to download the proceedings.{{</staticref>}}
+
 # Announcements
 
 Registration for Bio-Design Week is now open! Please note that registration includes entry to the Monday workshops and IWBDA sessions.
