@@ -5,7 +5,7 @@ date: 2022-10-24
 type: landing
 
 sections:
-  - block: newabout
+  - block: newabout23
     # block: about.biography
     id: cfp
     content:
@@ -18,7 +18,7 @@ sections:
     content:
       title: Keynote Speaker
       user_groups:
-      - Speakers
+      - 2023 Speakers
 
   - block: markdown
     id: registration
@@ -213,7 +213,7 @@ sections:
     content:
       title: Organising Committee
       user_groups:
-      - IWBDA
+      - IWBDA 2023
       - NonaWorks23
 
 ---

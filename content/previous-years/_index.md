@@ -8,6 +8,7 @@ type: page
 ---
 
 <div class="image-grid">
+  {{< image_link url="http://www.iwbdaconf.org/2023/" image="../2023/iwbda2023_logo.png" >}}
   {{< image_link url="http://www.iwbdaconf.org/2022/" image="../2022/images/IWBDA2022_small.png" >}}
   {{< image_link url="http://www.iwbdaconf.org/2021/" image="../2021/images/IWBDA2021_small.png" >}}
   {{< image_link url="http://www.iwbdaconf.org/2020/" image="../2020/images/IWBDA2020-small.png" >}}
