@@ -1,0 +1,83 @@
+body {
+  font-family: 'Open Sans', Arial, sans-serif;
+}
+h1,
+h2,
+h3,
+h4 {
+  color: #000;
+  font-family: 'Exo', sans-serif;
+  font-weight: normal;
+}
+#strip {
+  background: #0000cc;
+  height: 5px;
+  width: 100%;
+}
+#logo {
+  padding-top: 10px;
+}
+#logo h4 {
+  margin-top: 20px;
+}
+#logo a.brand {
+  color: #000;
+}
+#logo a.brand:hover {
+  text-decoration: none;
+}
+#nav .nav-pills > li {
+  margin-right: 20px;
+}
+#nav .nav-pills > li > a {
+  color: #333;
+  padding: 0;
+}
+#nav .nav-pills > li > a:hover {
+  color: #0000cc;
+  background: #fff;
+}
+#nav .nav-pills > .active > a,
+#nav .nav-pills > .active > a:hover {
+  color: #0000cc;
+  background-color: #fff;
+  font-weight: bold;
+}
+#content {
+  margin-top: 25px;
+}
+#content h4 {
+  color: #0000cc;
+}
+#content div.row {
+  margin-top: 20px;
+}
+.center {
+  text-align: center;
+}
+div.spread3evenly > div {
+    display: inline-block;
+    *display: inline; /* For IE7 */
+    zoom: 1; /* Trigger hasLayout */
+    width: 33%;
+    text-align: center;
+}
+
+div.spread2evenly > div {
+    display: inline-block;
+    *display: inline; /* For IE7 */
+    zoom: 1; /* Trigger hasLayout */
+    width: 49%;
+    text-align: center;
+}
+
+.speaker { 
+  /*font-family:arial; 
+  font-size: 6px; */
+  font-weight:bold;
+}
+
+th.session {
+color: #010101;
+text-align: left;
+}

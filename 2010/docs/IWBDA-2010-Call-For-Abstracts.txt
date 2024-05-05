@@ -1,0 +1,106 @@
+Call for Abstracts 
+
+The 2nd International Workshop on Bio-Design Automation 
+June 14 - 15, 2010
+Part of the Design Automation Conference
+Anaheim Convention Center 
+Anaheim, California
+
+Workshop Website:
+http://www.biodesignautomation.org 
+
+The International Workshop on Bio-Design Automation (IWBDA) at DAC brings together researchers from the synthetic biology, systems biology, and design automation communities. The focus is on concepts, methodologies, and software tools to enable the computational analysis of biological systems and the synthesis of novel biological functions. 
+
+Still in its early stages, the field of synthetic biology has been driven by experimental expertise; much of its success has been attributable to the skill of the researchers in specific domains of biology. There has been a concerted effort to assemble repositories of standardized components. However, creating and integrating synthetic components remains an ad hoc process. The field has now reached a stage where it calls for computer-aided design tools. The electronic design automation (EDA) community has unique expertise to contribute to this endeavor.  This workshop offers a forum for cross-disciplinary discussion, with the aim of seeding collaboration between the research communities. 
+
+Topics of interest include:
+- Design methodologies for synthetic biology. 
+- Standardization of biological components.
+- Automated assembly techniques.
+- Computer-aided modeling and abstraction techniques. 
+- Engineering methods inspired by biology.
+
+The workshop will be held at the Anaheim Convention Center on June 14 - 15, 2010, as part of the Design Automation Conference, the premier conference in EDA with over 10,000 attendees. Registration information will be posted on the workshop webpage: http://www.biodesignautomation.org 
+
+For questions, please email info@biodesignautomation.org
+
+-------------------------------------------------------------------------------
+Abstract Submission
+
+Abstracts should be at least 500 words but not more than 1000 words in length; they may contain up to two figures; they should be in PDF form, up to 2 pages in length, with 1-inch margins and at least 10-point font size; they should indicate whether the submission is for a poster presentation, an oral presentation, or both; they should list the full names, affiliations and contact information of all authors.
+
+Abstracts will be reviewed by the Program Committee. Those that are selected for oral and poster presentations will distributed to workshop participants and posted on the workshop website. 
+
+Abstracts should be submitted by April 5th at: http://www.easychair.org/conferences/?conf=iwbda10 (Abstracts submitted after April 5 will still be considered, until the presentation schedule is finalized, but may not receive full consideration.)
+
+-------------------------------------------------------------------------------
+IWBDA Collection in PLoS ONE
+
+New for 2010: Through a partnership with the Public Library of Science (PLoS), selected papers based on accepted abstracts will be published as a special collection of the interdisciplinary open access journal PLoS ONE (http://www.plosone.org). Authors of selected abstracts will be invited to submit a complete manuscript for publication in PLoS ONE. Submitted manuscripts will be reviewed according to PLoS ONE standard editorial policies http://www.plosone.org/static/authors.action
+
+----------------------------------------------------------------------------
+Executive Committee                    
+
+General Chair: 
+Marc Riedel, University of Minnesota
+
+General Secretary: 
+Douglas Densmore, Joint BioEnergy Institute
+
+Program Chair: 
+Ron Weiss, MIT
+
+Publication Chair: 
+Jean Peccoud, Virginia Tech
+
+Industry Liaison Chair: 
+Andreas Kuehlmann, Cadence Research Labs
+
+Finance Chair: 
+David Thorsley, University of Washington
+
+DAC Liaison & Publicity Chair: 
+Soha Hassoun, Tufts University        
+
+----------------------------------------------------------------------------
+Program Committee
+
+J. Christopher Anderson, UC Berkeley
+Adam Arkin, UC Berkeley
+Jacob Beal, BBN Technologies
+Kevin Clancy, Invitrogen
+Domitilla Del Vecchio, University of Michigan
+Douglas Densmore, Joint BioEnergy Institute
+Hanna El-Samad, UCSF
+Drew Endy, Stanford University
+Soha Hassoun, Tufts University
+Alfonso Jaramillo, Ecole Polytechnique
+Yannis Kaznessis, University of Minnesota
+Eric Klavins, University of Washington
+Heinz Koeppl, EPFL
+Tanja Kortemme, UCSF
+Andreas Kuehlmann, Cadence Research Labs
+Chris Myers, University of Utah
+Jean Peccoud, Virgina Tech 
+Andrew Phillips, Microsoft Research
+Marc Riedel, University of Minnesota
+Howard Salis, Penn State University
+Herbert Sauro, University of Washington
+David Thorsley, University of Washington
+Christopher Voigt, UCSF
+Ron Weiss, MIT
+Erik Winfree, Caltech
+Chris Winstead, Utah State University
+                
+----------------------------------------------------------------------------
+Key Dates
+
+Call for participation published: March 1, 2010
+Abstract submission deadline: April 5, 2010
+(Abstracts submitted after April 5 will still be considered, until the presentation schedule is finalized, but may not receive full consideration.)
+Abstract acceptance notification: April 26, 2010 
+(Acceptance notification may be given later for abstracts submitted after April 5.)
+Workshop: June 14 & 15, 2010
+
+
+----------------------------------------------------------------------------
