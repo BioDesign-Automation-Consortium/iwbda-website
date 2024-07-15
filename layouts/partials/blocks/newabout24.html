@@ -27,23 +27,23 @@
   <div class="container">
     <div class="row">
       <div class="col-12 col-lg-4">
-        <h1 style="color:rgb(85, 85, 28)">{{ $person.title }}</h1>
+        <h1 style="color:rgb(10, 19, 60)">{{ $person.title }}</h1>
       </div>
     </div>
 
     <div class="row">
       <div class="col-12 col-lg-4">
         <!-- Conference date -->
-        <h2 style="color:rgb(215, 164, 70)">Conference Date</h2>
+        <h2 style="color:rgb(69, 96, 125)">Conference Date</h2>
         <b>{{ $person.conf_date }}</b>
   
         <!-- Conference Location -->
-        <h2 style="color:rgb(215, 164, 70)">Conference Location</h2>
+        <h2 style="color:rgb(69, 96, 125)">Conference Location</h2>
         <b>{{ $person.conf_location }}</b>
   
         <!-- Important Dates -->
         {{ with $person.important_dates }}
-          <h2 style="color:rgb(215, 164, 70)">Important Dates</h2>
+          <h2 style="color:rgb(69, 96, 125)">Important Dates</h2>
           {{ range . }}
             <div>{{ .name | markdownify | emojify }}</div>
             <b>{{ .date | markdownify | emojify }}</b>
@@ -53,7 +53,7 @@
   
         <!-- Important Links -->
         {{ with $person.important_links }}
-          <h2 style="color:rgb(215, 164, 70)">Important Links</h2>
+          <h2 style="color:rgb(69, 96, 125)">Important Links</h2>
           {{ range . }}
             <div class="description"><a href={{ .link }} style="color:rgb(31, 100, 107)">{{ .name | markdownify | emojify }}</a></div>
           {{ end }}
@@ -61,7 +61,7 @@
 
         <!-- Important Links -->
         {{ with $person.contact }}
-          <h2 style="color:rgb(215, 164, 70)">Contact</h2>
+          <h2 style="color:rgb(69, 96, 125)">Contact</h2>
           {{ range . }}
             <div class="description"><a href={{ .link }} style="color:rgb(31, 100, 107)">{{ .name | markdownify | emojify }}</a></div>
           {{ end }}
@@ -77,9 +77,9 @@
         {{ with $person.information }}
           {{ range .}}
             {{ if .link }}
-              <h2><a href={{ .link }} target="_blank" rel="noopener"><span style="color:rgb(215, 164, 70)">{{ .name }}</span> <i class="fas fa-chevron-right" aria-hidden="true"></i></a></h2>
+              <h2><a href={{ .link }} target="_blank" rel="noopener"><span style="color:rgb(69, 96, 125)">{{ .name }}</span> <i class="fas fa-chevron-right" aria-hidden="true"></i></a></h2>
             {{ else }}
-              <h2 style="color:rgb(215, 164, 70)"><b>{{ .name }}</b></h2>
+              <h2 style="color:rgb(69, 96, 125)"><b>{{ .name }}</b></h2>
             {{ end }}
   
             {{ .description }}
@@ -88,7 +88,7 @@
   
         <!-- Topics of interest -->
         {{ with $person.topics }}
-          <h2 style="color:rgb(215, 164, 70)">Topics of Interest</h2>
+          <h2 style="color:rgb(69, 96, 125)">Topics of Interest</h2>
           <ul>
             {{ range . }}
             <li>
@@ -100,7 +100,7 @@
         
         <!-- Featured Theme -->
         {{ with $person.featuredtheme }}
-          <h2 style="color:rgb(215, 164, 70)">Featured Theme</h2>
+          <h2 style="color:rgb(69, 96, 125)">Featured Theme</h2>
           <ul>
             {{ range . }}
             <li>
