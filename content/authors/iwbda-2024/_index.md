@@ -104,7 +104,7 @@ Submissions are due by Wednesday, August 23.
 -->
 
 # Call for Papers
-Join us for the 16th annual IWBDA meeting, in Boston, September 16-20, 2024. This year, IWBDA will take place during [Bio Innovation Week](https://biodesign-automation-consortium.github.io/Bio-Innovation-Week/) and will include presentation and poster talks selected from submitted abstracts, Birds of a Feather discussions, and breakout sessions on selected topics. We aim to bring together academic researchers and industry partners to push the field of bio-design automation for synthetic biology forward.
+Join us for the 16th annual IWBDA meeting, in Boston, November 16-19, 2024. This year, IWBDA will take place during [Bio Innovation Week](https://biodesign-automation-consortium.github.io/Bio-Innovation-Week/) and will include presentation and poster talks selected from submitted abstracts, Birds of a Feather discussions, and breakout sessions on selected topics. We aim to bring together academic researchers and industry partners to push the field of bio-design automation for synthetic biology forward.
 
 The field of biology is still lagging behind the industry when it comes to implementation and adoption of computational and digital solutions. This is primarily because it is extremely difficult to offer a one-size-fits-all solution to engineer biology. Some BDA solutions serve as templates for a larger problem, but, to make it usable in a practical setting, the solutions often have to be redesigned for bespoke biological workflows. Without understanding the requirements of the broader synthetic biology community, it is hard to design a solution that can have a wider impact. 
 
