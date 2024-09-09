@@ -19,18 +19,18 @@ main:
     #- name: Agenda
     #  url: '/2023/#agenda'
     #  weight: 30
-    #- name: Call for Papers
-    #  url: '2023/#cfp'
-    #  weight: 30
-    #- name: Call for Workshops
-    #  url: '2023/#cfw'
-    #  weight: 40
+    - name: Submission Guidelines
+      url: '#submission'
+      weight: 30
+    - name: Call for Workshops
+      url: '#cfw'
+      weight: 40
     #- name: 2023 Special Issue
     #  url: '2023/#special-issue-2023'
     #  weight: 40
-    #- name: Organising Committee
-    #  url: '2023-committee'
-    #  weight: 50
+    - name: Organising Committee
+      url: '#organising'
+      weight: 50
     #  identifier: iwbda2023oc
     - name: Previous Years
       url: 'previous-years'

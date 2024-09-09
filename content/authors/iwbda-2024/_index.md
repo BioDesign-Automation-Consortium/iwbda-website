@@ -9,9 +9,13 @@ conf_date: 16-19 November, 2024
 conf_location: Boston, Massachusetts, USA
 
 
-#important_dates:
-# - name: IWBDA
-#   date: September 12-14, 2023
+important_dates:
+ - name: Abstract Submission
+   date: September 29, 2024
+ - name: Workshop Submission
+   date: September 29, 2024
+ - name: Notice of Acceptance
+   date: October 15, 2024
 # - name: Workshops
 #   date: September 11-14, 2023
 # - name: Nona Works
@@ -64,18 +68,17 @@ conf_location: Boston, Massachusetts, USA
 #  description: The COMBINE 2022 meeting is organised by Dagmar Waltemath and Matthias König.
 #  link: ../people/
 
-#topics:
-#- Design methodologies for synthetic biology
-#- Standardization of biological components
-#- Biosecurity in lab automation processes
-#- Biopreparedness through bio-design automation
-#- Artificial intelligence and machine learning in synthetic biology
-#- Computer aided design tools and automation for engineering biology
-#- Biofoundries and their impact on synthetic biology
-#- Formalized protocol capture
-#- Design Build Test Case studies
-#- Synthetic Biology education and outreach
-#- Impact of Large Language Models in Bio Design
+topics:
+- Design methodologies for synthetic biology
+- Standardization of biological components
+- Biosecurity in lab automation processes
+- Biopreparedness through bio-design automation
+- Artificial intelligence and machine learning in synthetic biology
+- Computer aided design tools and automation for engineering biology
+- Biofoundries and their impact on synthetic biology
+- Formalized protocol capture
+- Design Build Test Case studies
+- Synthetic Biology education and outreach
 
 #featuredtheme:
 #- Biosecurity
