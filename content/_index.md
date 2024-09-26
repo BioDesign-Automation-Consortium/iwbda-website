@@ -45,12 +45,12 @@ sections:
     content:
       title: Agenda
       text: |- 
-          # Bio-Design Week - November 16-19, 2024
+          # Bio Innovation Week - November 16-19, 2024
 
           ## Saturday, November 16 - 610 Commonwealth Avenue, CILSE 101
 
           - **08:30-09:00** Registration and light breakfast
-          - **09:00-09:10** Welcome and kick-off of Bio-Design Week
+          - **09:00-09:10** Welcome and kick-off of Bio Innovation Week
           - **09:10-10:10** Keynote
           - **10:10-10:40** Coffee break
           - **10:40-12:00** 
