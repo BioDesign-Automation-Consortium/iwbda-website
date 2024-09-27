@@ -11,9 +11,9 @@ conf_location: Boston, Massachusetts, USA
 
 important_dates:
  - name: Abstract Submission
-   date: September 29, 2024
+   date: ~~September 29, 2024~~ October 13, 2024
  - name: Workshop Submission
-   date: September 29, 2024
+   date: ~~September 29, 2024~~ October 13, 2024
  - name: Notice of Acceptance
    date: October 15, 2024
 # - name: Workshops
