@@ -10,9 +10,9 @@ main:
     #- name: Keynote
     #  url: '/2023/#keynote'
     #  weight: 10
-    #- name: Registration
-    #  url: '/2023/#registration'
-    #  weight: 15
+    - name: Registration
+      url: '#registration'
+      weight: 15
     #- name: Logistics
     #  url: '/2023/#logistics'
     #  weight: 20

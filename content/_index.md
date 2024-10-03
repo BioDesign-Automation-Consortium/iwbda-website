@@ -29,7 +29,16 @@ sections:
         We encourage abstracts for posters and/or talks at IWBDA 2023 on ongoing research that may be submitted as a full journal paper later. We are currently in talks with ACS Synthetic Biology to set up a special issue on bio-design automation for such extended journal submissions.
     design:
       columns: '2'   
-  
+
+  - block: markdown
+    id: registration
+    content:
+      title: Registration
+      text: |- 
+        <link rel="stylesheet" type="text/css" href="https://www.brownpapertickets.com/widget_v671.css" /> <DIV ID="bpt_eventbody"><CENTER><BR><BR>Brown Paper Tickets Ticket Widget Loading...<BR><BR><A HREF="https://www.brownpapertickets.com/event/6463652">Click Here</A> to visit the Brown Paper Tickets event page.</CENTER><BR><BR></DIV> <script src="https://www.brownpapertickets.com/eventwidget.js?event=6463652&nodescription=1" type="text/javascript" language="javascript"></script> <script src="https://www.brownpapertickets.com/widget_v671.js?event=6463652" type="text/javascript" language="javascript"></script>
+    design:
+      columns: '2'
+
   - block: markdown
     id: cfw
     content:
@@ -39,7 +48,8 @@ sections:
 
         Upload your proposals [here](https://forms.gle/M2641aqY6yKiDMcr6).
     design:
-      columns: '2'   
+      columns: '2'
+
   - block: markdown
     id: agenda
     content:
