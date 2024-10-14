@@ -96,9 +96,13 @@ user_groups:
 
 # Announcements
 
+## IWBDA Scholarships
 IWBDA Scholarships are available for students, postdocs, and young researchers. {{<staticref "uploads/IWBDA_Scholarships_2024.pdf" "newtab">}} Please see this PDF for details.{{</staticref>}}.
 
 This year applications will be accepted via this Google form: [Scholarship Application Form](https://forms.gle/MrButFeYMsefvs8i7).
+
+## Late Breaking Abstract Submissions
+<b>Now Open:</b> Submissions for our late breaking abstracts for IWBDA!
 
 
 <!--
