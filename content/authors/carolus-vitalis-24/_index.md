@@ -1,29 +1,29 @@
 ---
 # Display name
-title: Lukas Buecherl
+title: Carolus Vitalis
 
 # Username (this should match the folder name)
 authors:
-- Lukas Buecherl
+- Carolus Vitalis
 
 #Author Names (alternative spellings etc)
 names:
-- Lukas Buecherl
+- Carolus Vitalis
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: General Chair
+role: Publication Chair
 
 # Organizations/Affiliations
 organizations:
-- name: Utah State University
+- name: University of Colorado Boulder
   url: ""
 
 #Order to show in compared to other authors when using people section
 #Use 1 for PI, 100 for Current Postdocs, 200 for current phds, 300 for current masters, 400 for current undergrads, 800 for alum postdocs, 810 for alum phds, 820 for alum masters, and 830 for alum undergrads, 900 for tools, 1000 for projects, 900 for tools, 1000 for projects
-weight: 1
+weight: 3
 
 #Utah or CU
 #university: CU
@@ -123,8 +123,4 @@ user_groups:
 # - SynBioHub Plugins Tool
 ---
 
-In 2019, Lukas Buecherl received his Bachelor's degree in Electrical Engineering and Computer Science from the University of Ulm, Germany. He continued his studies at the University of Colorado Boulder, where he completed both his Master's and Ph.D. in Biomedical Engineering as part of the Interdisciplinary Quantitative Biology Program. This program emphasized interdisciplinary studies, which laid the foundation for his current research interests at the intersection of engineering and biology.
-
-Now, as an assistant professor in the Biological Engineering Department at Utah State University, Dr. Buecherl specializes in the analysis and improvement of genetic circuit design. His work leverages computational modeling and analysis techniques alongside experimental validation. Additionally, he explores the integration of electrical engineering and biology, focusing on laboratory automation and the development of microfluidic devices.
-
-Dr. Buecherl is also an active member of the academic community, serving on the program committee for the International Workshop of Biodesign Automation. His contributions to the field have been recognized through several prestigious awards, including the Excellent Mentorship Award and the Outstanding Graduate Researcher Award from the Electrical and Computer Engineering Department at the University of Colorado Boulder.
+Carolus Vitalis received his degree in Molecular Biotechnology Engineering from the University of Chile in 2022. He is currently pursuing a Doctorate in Biomedical Engineering and Interdisciplinary Quantitative Biology Certification at the University of Colorado Boulder. He served as the president of the Chilean National Association of Biotechnology Engineering Students (ANEIB) from 2021-2023.

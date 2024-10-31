@@ -1,29 +1,29 @@
 ---
 # Display name
-title: Lukas Buecherl
+title: Dr Michael Koeris
 
 # Username (this should match the folder name)
 authors:
-- Lukas Buecherl
+- Dr Michael Koeris
 
 #Author Names (alternative spellings etc)
 names:
-- Lukas Buecherl
+- Dr Michael Koeris
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: General Chair
+#role: Co-Web Chair
 
 # Organizations/Affiliations
 organizations:
-- name: Utah State University
+- name: DARPA
   url: ""
 
 #Order to show in compared to other authors when using people section
 #Use 1 for PI, 100 for Current Postdocs, 200 for current phds, 300 for current masters, 400 for current undergrads, 800 for alum postdocs, 810 for alum phds, 820 for alum masters, and 830 for alum undergrads, 900 for tools, 1000 for projects, 900 for tools, 1000 for projects
-weight: 1
+weight: 5
 
 #Utah or CU
 #university: CU
@@ -112,7 +112,7 @@ social:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Bio Innovation Week 2024
+- 2024 Speakers
 
 # # #any user groups to display on the page
 # display_groups:
@@ -123,8 +123,8 @@ user_groups:
 # - SynBioHub Plugins Tool
 ---
 
-In 2019, Lukas Buecherl received his Bachelor's degree in Electrical Engineering and Computer Science from the University of Ulm, Germany. He continued his studies at the University of Colorado Boulder, where he completed both his Master's and Ph.D. in Biomedical Engineering as part of the Interdisciplinary Quantitative Biology Program. This program emphasized interdisciplinary studies, which laid the foundation for his current research interests at the intersection of engineering and biology.
+Dr. Michael Koeris joined DARPA as the director of the Biological Technologies Office in April 2024. His research and teaching focus on all aspects of chemistry, manufacturing, and control for microbiome medicines, as well as advanced cell and gene therapy approaches.
 
-Now, as an assistant professor in the Biological Engineering Department at Utah State University, Dr. Buecherl specializes in the analysis and improvement of genetic circuit design. His work leverages computational modeling and analysis techniques alongside experimental validation. Additionally, he explores the integration of electrical engineering and biology, focusing on laboratory automation and the development of microfluidic devices.
+Before coming to DARPA, Dr. Koeris served as professor of bioprocessing and as a member of the Amgen Bioprocessing Center in the Department of Biological Engineering and Management at the Keck Graduate Institute. He also advised the NIH’s RADx initiative as a Portfolio Executive, assisting with the rapid development, clinical validation, manufacturing and distribution of Sars-CoV-2 diagnostic tests throughout the pandemic. Prior to joining KGI in 2020, Koeris actively started, grew, and exited biotechnology startups, both as founder and senior leader, as well as a member of the Board of Directors. He holds more than a dozen patents through the U.S. and internationally. His entrepreneurial career began by spinning out Sample6, which was recognized by Forbes as one of the 25 hottest AgTech startups in 2017 and was acquired later that year. Dr. Koeris serves as a Board Director of global, non-profit repository AddGene, and in the past served on boards of commercial biotech entities.
 
-Dr. Buecherl is also an active member of the academic community, serving on the program committee for the International Workshop of Biodesign Automation. His contributions to the field have been recognized through several prestigious awards, including the Excellent Mentorship Award and the Outstanding Graduate Researcher Award from the Electrical and Computer Engineering Department at the University of Colorado Boulder.
+Koeris holds a doctoral degree in biomedical engineering from Boston University, master’s and bachelor’s degrees in biochemistry and biophysics from the Free University of Berlin, Germany.
