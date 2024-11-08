@@ -128,3 +128,13 @@ Dr. Michael Koeris joined DARPA as the director of the Biological Technologies O
 Before coming to DARPA, Dr. Koeris served as professor of bioprocessing and as a member of the Amgen Bioprocessing Center in the Department of Biological Engineering and Management at the Keck Graduate Institute. He also advised the NIH’s RADx initiative as a Portfolio Executive, assisting with the rapid development, clinical validation, manufacturing and distribution of Sars-CoV-2 diagnostic tests throughout the pandemic. Prior to joining KGI in 2020, Koeris actively started, grew, and exited biotechnology startups, both as founder and senior leader, as well as a member of the Board of Directors. He holds more than a dozen patents through the U.S. and internationally. His entrepreneurial career began by spinning out Sample6, which was recognized by Forbes as one of the 25 hottest AgTech startups in 2017 and was acquired later that year. Dr. Koeris serves as a Board Director of global, non-profit repository AddGene, and in the past served on boards of commercial biotech entities.
 
 Koeris holds a doctoral degree in biomedical engineering from Boston University, master’s and bachelor’s degrees in biochemistry and biophysics from the Free University of Berlin, Germany.
+
+
+## Keynote Abstract
+Foundational models need data. Generating biological data is key for US leadership in the field and enables exponential downstream uses for civilian applications.
+ 
+Key Point 1: rate of data generation is still low > quality is not standardized
+ 
+Key Point 2: what does the data factory/data foundry of the future look like? What could it look like? What should it look like?
+ 
+Key Point 3: Where is innovation necessary?
