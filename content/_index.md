@@ -79,7 +79,6 @@ sections:
             - NonaWorks + Office Hours
           - **14:20-15:00** Coffee break
           - **15:00-16:00** Nona Works: Present Proposals
-          - **16:00-17:00** Networking Reception
 
           ## Sunday, November 17 - 610 Commonwealth Avenue, CILSE 101
 
