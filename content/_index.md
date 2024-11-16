@@ -109,7 +109,7 @@ sections:
           - **11:45-13:20** Lunch
           - **13:20-14:40** IWBMA Talks: Amplifying Science Through Automation
           - **14:40-15:10** Coffee break
-          - **15:10-16:50** IWBDA Talks
+          - **15:10-16:30** IWBDA Talks
               - **15:10-15:30** Uncovering the genetic basis of transformation efficiency in Kluyveromyces marxianus with comparative omics
               - **15:30-15:50** The NIST Living Measurement Systems Foundry: Protocols and Standards for Large-Scale, Quantitative Sequence-Function Measurements
               - **15:50-16:10** Additive Manufacturing Enabled Monolayer Chambers for Immune Cells’ Communication Studies
