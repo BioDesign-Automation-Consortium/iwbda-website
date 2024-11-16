@@ -115,7 +115,7 @@ sections:
               - **15:50-16:10** Additive Manufacturing Enabled Monolayer Chambers for Immune Cells’ Communication Studies
               - **16:10-16:30** Certification and validation of engineered DNA molecules
           - **08:30-16:50** NonaWorks Office Hours
-          - **17:00-20:30** Dinner
+          - **17:30-20:30** Dinner
 
           ## Tuesday, November 19 - 610 Commonwealth Avenue, CILSE 101
 
