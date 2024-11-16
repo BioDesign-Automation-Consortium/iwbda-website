@@ -88,6 +88,7 @@ sections:
           - **10:45-12:00** Managing lab info
           - **12:00-13:00** Lunch
           - **13:00-14:20** IWBDA Talks
+              - **13:00-13:20** A Novel Approach to Tuning Effective Translation Rate: Tree-Based RBS Structural Analysis
           - **14:20-14:40** Coffee break
           - **14:40-17:00** IWBDA Talks
           - **08:30-17:00** NonaWorks Office Hours
