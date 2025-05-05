@@ -14,8 +14,8 @@ important_dates:
    date: August 3, 2025
  - name: Workshop Submission
    date: August 3, 2025
-  - name: Notice of Acceptance
-    date: August 17, 2025
+ - name: Notice of Acceptance
+   date: August 17, 2025
 # - name: Workshops
 #   date: September 11-14, 2023
 # - name: Nona Works
