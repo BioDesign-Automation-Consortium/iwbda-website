@@ -13,6 +13,17 @@ sections:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: IWBDA-2025
 
+  - block: markdown
+    id: submission
+    content:
+      title: Submission Guidelines
+      text: |-
+        Abstracts and workshop proposals must be submitted via [EasyChair](https://easychair.org/conferences/?conf=iwbda25). Submissions cannot exceed two pages (excluding figures and tables). If you do not have an EasyChair account, please create one by following the instructions specified [here](https://easychair.org/help/account_creation). 
+        
+        We encourage abstracts for talks at IWBDA 2025 on ongoing research that may be submitted as a full journal paper later. We are currently in talks with ACS Synthetic Biology to set up a special issue on bio-design automation for such extended journal submissions.
+    design:
+      columns: '2'   
+
   - block: contact
     id: contact
     content:
