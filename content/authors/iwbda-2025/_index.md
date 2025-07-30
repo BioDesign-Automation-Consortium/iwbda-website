@@ -11,11 +11,11 @@ conf_location: Worcester, Massachusetts, USA
 
 important_dates:
  - name: Abstract Submission
-   date: August 3, 2025
+   date: ~~August 3~~ August 17, 2025
  - name: Workshop Submission
-   date: August 3, 2025
+   date: ~~August 3~~ August 17, 2025
  - name: Notice of Acceptance
-   date: August 17, 2025
+   date: ~~August 17~~ August 20, 2025
 # - name: Workshops
 #   date: September 11-14, 2023
 # - name: Nona Works
