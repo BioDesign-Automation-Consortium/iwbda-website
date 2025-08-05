@@ -4,10 +4,9 @@ title: IWBDA 2025
 # Is this the primary user of the site?
 superuser: false
 
-conf_date: September 7-10, 2025
+conf_date: September 7-9, 2025
 
-conf_location: Worcester, Massachusetts, USA
-
+conf_location: WPI Odeum 79 Park Ave, Worcester, MA 01605
 
 important_dates:
  - name: Abstract Submission
@@ -60,7 +59,9 @@ important_dates:
 # - name: Conference Book
 #   link: TBA
 
-
+#information:
+#- name: Submission Guidelines
+# description: Abstracts and workshop proposals must be submitted via [EasyChair](https://easychair.org/conferences/?conf=iwbda25). Submissions cannot exceed two pages (excluding figures and tables). If you do not have an EasyChair account, please create one by following the instructions specified [here](https://easychair.org/help/account_creation). We encourage abstracts for talks at IWBDA 2025 on ongoing research that may be submitted as a full journal paper later. We are currently in talks with ACS Synthetic Biology to set up a special issue on bio-design automation for such extended journal submissions.
 #  link: https://forms.gle/Em226LwEQsuJedkf7
 #- name: Organizers
 #  description: The COMBINE 2022 meeting is organised by Dagmar Waltemath and Matthias König.
@@ -80,7 +81,6 @@ topics:
 
 #featuredtheme:
 #- Biosecurity
-
 
 
 # Organizational groups that you belong to (for People widget)
@@ -115,7 +115,7 @@ Submissions are due by Wednesday, August 23.
 -->
 
 # Call for Papers
-Join us for the 17th annual IWBDA meeting, in Worcester, September 7-10, 2025. IWBDA will take place during [Bio Innovation Week](https://biodesign-automation-consortium.github.io/Bio-Innovation-Week/) and will include presentations selected from submitted abstracts, Birds of a Feather discussions, and breakout sessions on selected topics. We aim to bring together academic researchers and industry partners to push the field of bio-design automation for synthetic biology forward.
+Join us for the 17th annual IWBDA meeting, in Worcester, September 7-9, 2025. IWBDA will take place during [Bio Innovation Week](https://biodesign-automation-consortium.github.io/Bio-Innovation-Week/) and will include presentations selected from submitted abstracts, Birds of a Feather discussions, and breakout sessions on selected topics. We aim to bring together academic researchers and industry partners to push the field of bio-design automation for synthetic biology forward.
 
 The field of biology is still lagging behind the industry when it comes to implementation and adoption of computational and digital solutions. This is primarily because it is extremely difficult to offer a one-size-fits-all solution to engineer biology. Some BDA solutions serve as templates for a larger problem, but, to make it usable in a practical setting, the solutions often have to be redesigned for bespoke biological workflows. Without understanding the requirements of the broader synthetic biology community, it is hard to design a solution that can have a wider impact.
 
