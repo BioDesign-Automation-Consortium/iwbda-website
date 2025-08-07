@@ -41,6 +41,44 @@ sections:
     design:
       columns: '2'
 
+  - block: markdown
+    id: agenda
+    content:
+      title: Tentative Agenda
+      text: |-
+          ## Sunday, September 7 - WPI Odeum 79 Park Ave, Worcester, MA 01605
+          - **08:30-09:00** Registration and light breakfast
+          - **09:00-09:10** Welcome and kick-off of Bio Innovation Week
+          - **09:10-10:10** Workshop
+          - **10:10-10:40** Coffee break
+          - **10:40-12:00** Workshop
+          - **12:00-13:00** Lunch
+          - **13:00-14:20** IWBDA Presentations
+          - **14:20-15:00** Coffee break
+          - **15:00-16:00** WPI Tour
+
+          ## Monday, September 8 - WPI Odeum 79 Park Ave, Worcester, MA 01605
+          - **08:30-09:00** Registration and light breakfast
+          - **09:00-10:00** Keynote
+          - **10:00-10:30** Coffee break
+          - **10:30-11:30** Keynote
+          - **11:30-13:00** Lunch
+          - **13:00-14:20** IWBDA Presentations
+          - **14:30-15:00** Coffee break
+          - **15:00-16:00** IWBDA Presentations
+          - **17:00-19:00** Dinner
+
+          ## Tuesday, September 9 - WPI Odeum 79 Park Ave, Worcester, MA 01605
+          - **08:30-09:00** Registration and light breakfast
+          - **09:00-10:00** Keynote
+          - **10:00-10:30** Coffee break
+          - **10:30-11:30** Keynote
+          - **11:30-13:00** Lunch
+          - **13:00-14:20** IWBDA Presentations
+          - **14:30-15:00** Coffee break
+          - **15:00-16:00** IWBDA Presentations
+          - **16:00-16:15** Closing Remarks
+
   - block: contact
     id: contact
     content:
