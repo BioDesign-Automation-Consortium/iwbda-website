@@ -13,6 +13,13 @@ sections:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: IWBDA-2025
 
+  - block: people
+    id: keynote
+    content:
+      title: Keynote Speakers
+      user_groups:
+      - 2025 Speakers
+
   - block: markdown
     id: submission
     content:
