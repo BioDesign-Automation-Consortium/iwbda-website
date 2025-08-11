@@ -63,8 +63,8 @@ important_dates:
 #- name: Submission Guidelines
 # description: Abstracts and workshop proposals must be submitted via [EasyChair](https://easychair.org/conferences/?conf=iwbda25). Submissions cannot exceed two pages (excluding figures and tables). If you do not have an EasyChair account, please create one by following the instructions specified [here](https://easychair.org/help/account_creation). 
 All abstracts must use the IWBDA template and must not exceed two pages excluding the figures and tables. The following versions of the template are available for use:
-        - [Overleaf]( https://www.overleaf.com/read/wbdpqqpstxbg#02d65f.)
-        - {{<staticref "uploads/IWBDA_2023_Abstract_Template.docx" "newtab">}}MS Word{{</staticref>}}
+- [Overleaf]( https://www.overleaf.com/read/wbdpqqpstxbg#02d65f.)
+- {{<staticref "uploads/IWBDA_2023_Abstract_Template.docx" "newtab">}}MS Word{{</staticref>}}
         
 All abstracts will undergo a single-blind peer review process on EasyChair. The accepted abstracts will be invited to present their work as a poster or a talk at the conference.
         
