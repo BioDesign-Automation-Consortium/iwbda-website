@@ -1,14 +1,14 @@
 ---
 # Display name
-title: Dr. Niles A. Pierce
+title: Dr. Katie Galloway
 
 # Username (this should match the folder name)
 authors:
-- Dr. Niles A. Pierce
+- Dr. Katie Galloway
 
 #Author Names (alternative spellings etc)
 names:
-- Dr. Niles A. Pierce
+- Dr. Katie Galloway
 
 # Is this the primary user of the site?
 superuser: false
@@ -18,7 +18,7 @@ superuser: false
 
 # Organizations/Affiliations
 organizations:
-- name: California Institute of Technology
+- name: Massachusetts Institute of Technology
   url: ""
 
 #Order to show in compared to other authors when using people section
@@ -123,10 +123,10 @@ user_groups:
 # - SynBioHub Plugins Tool
 ---
 
-Niles A. Pierce is the MacArthur Professor of Applied & Computational Mathematics and Bioengineering and Executive Officer for Biology & Biological Engineering at the California Institute of Technology. A co-founder of the fields of dynamic nucleic acid nanotechnology and molecular programming, his research interests include the development of mathematically rigorous, physically sound, computationally efficient algorithms for the analysis and design of nucleic acid systems, and the development of dynamic nucleic acid nanotechnologies for imaging the molecules of life, for instrument-free at-home pathogen detection, and for cell-selective treatment of disease using small conditional RNAs (scRNAs). Professor Pierce joined the Caltech faculty in 2000 and was awarded the Institute’s Richard P. Feynman Prize for Excellence in Teaching in 2003. His honors include the Fox Prize in Numerical Analysis, a National Science Foundation CAREER Award, and the Rozenberg Tulip Award, which recognizes outstanding career achievement in molecular programming. He has also been named a Guggenheim Fellow and the 74th Eastman Visiting Professor at the University of Oxford. He graduated as valedictorian from Princeton University with a BSE in Mechanical & Aerospace Engineering and completed a DPhil in Applied Mathematics as a Rhodes Scholar at the University of Oxford.
+Katie Galloway is the W. M. Keck Career Development Professor in Biomedical Engineering and Chemical Engineering at Massachusetts Institute of Technology (MIT). Her research focuses on elucidating the fundamental principles of integrating synthetic circuitry to drive cellular behaviors. Her lab focuses on developing integrated gene circuits and elucidating the systems-level principles that govern complex cellular behaviors. Her team leverages synthetic biology to transform how we understand cellular transitions and engineer cellular therapies. Galloway earned a PhD and an MS in Chemical Engineering from the California Institute of Technology (Caltech), and a BS in Chemical Engineering from University of California at Berkeley. She completed her postdoctoral work at the University of Southern California. Her research has been featured in Science, Cell Stem Cell, Cell Systems, and Development. She has won multiple fellowships and awards including the Pershing Square MIND Prize 2025, the NSF CAREER 2024, C. Michael Mohr Outstanding Faculty Award for Undergraduate Teaching 2024, BMES Cellular and Molecular Bioengineering Rising Star Award 2023, the NIH Maximizing Investigators’ Research Award (MIRA) R35, the NIH F32, and Caltech’s Everhart Award.
 
 
 ## Keynote Abstract
-__NUPACK: Analysis and Design of Nucleic Acid Structures, Devices, and Systems__
+__Engineering high-precision, dynamic genetic control systems for cell fate programming__
 
-NUPACK is a growing software suite for the analysis and design of nucleic acid structures, devices, and systems, serving researchers in the emerging disciplines of molecular programming, nucleic acid nanotechnology, synthetic biology, and across the life sciences. NUPACK algorithms have pioneered the treatment of complex and test tube ensembles containing arbitrary numbers of interacting strand species, providing crucial tools for capturing concentration effects essential to analyzing and designing intermolecular interactions that are a hallmark of these fields. To enable reaction pathway engineering of dynamic hybridization cascades or large-scale structural engineering including pseudoknots, NUPACK generalizes these analysis and design capabilities to multi-tube ensembles. The all-new NUPACK 4 scientific code base offers enhanced physical models (coaxial and dangle stacking subensembles), dramatic speedups (20-120x for test tube analysis), increased scalability for large complexes (30,000 nt), mixed materials (RNA/DNA or RNA/2’OMe-RNA specified at nucleotide resolution), and diverse hard and soft sequence constraints for design. The all-new NUPACK cloud web app facilitates rapid job submission and result inspection with scientific algorithms running in parallel in the scalable NUPACK hybrid cloud.
+Integrating synthetic circuitry into larger transcriptional networks to mediate predictable cellular behaviors remains a challenge within synthetic biology. In particular, the stochastic nature of transcription makes coordinating expression across multiple genetic elements difficult. Further, delivery of large genetic cargoes limits the efficiency of cellular engineering. Thus, our work is focused on the design of highly-compact genetic tools with a minimal genomic footprint. Simultaneously, we have been developing cocktails of transgenes that are capable of rapidly convert cells into neurons. The sparse and stochastic nature of reprogramming has obscured our understanding of how transcription factors drive cells to new identities. To overcome this limit, we developed a compact, portable reprogramming system that increases direct conversion of fibroblasts to motor neurons by two orders of magnitude. Low rates of direct conversion have previously limited the potential for central nervous system (CNS) applications. Using compact, optimized, polycistronic cassettes, we generate motor neurons that graft with the murine central nervous system, demonstrating the potential for in vivo therapies. With improved tools for identifying cell-fate regulators and tracking subpopulations, we are building genetic controllers that can regulate transgenic cargoes and cell fate in primary cells. Developing genetic control systems provides an essential foundation for realizing the promise of synthetic biology in translational therapies.

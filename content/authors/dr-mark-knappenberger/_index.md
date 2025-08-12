@@ -1,14 +1,14 @@
 ---
 # Display name
-title: Dr. Niles A. Pierce
+title: Dr. Mark Knappenberger
 
 # Username (this should match the folder name)
 authors:
-- Dr. Niles A. Pierce
+- Dr. Mark Knappenberger
 
 #Author Names (alternative spellings etc)
 names:
-- Dr. Niles A. Pierce
+- Dr. Mark Knappenberger
 
 # Is this the primary user of the site?
 superuser: false
@@ -18,7 +18,7 @@ superuser: false
 
 # Organizations/Affiliations
 organizations:
-- name: California Institute of Technology
+- name: Arizona State University
   url: ""
 
 #Order to show in compared to other authors when using people section
@@ -123,10 +123,7 @@ user_groups:
 # - SynBioHub Plugins Tool
 ---
 
-Niles A. Pierce is the MacArthur Professor of Applied & Computational Mathematics and Bioengineering and Executive Officer for Biology & Biological Engineering at the California Institute of Technology. A co-founder of the fields of dynamic nucleic acid nanotechnology and molecular programming, his research interests include the development of mathematically rigorous, physically sound, computationally efficient algorithms for the analysis and design of nucleic acid systems, and the development of dynamic nucleic acid nanotechnologies for imaging the molecules of life, for instrument-free at-home pathogen detection, and for cell-selective treatment of disease using small conditional RNAs (scRNAs). Professor Pierce joined the Caltech faculty in 2000 and was awarded the Institute’s Richard P. Feynman Prize for Excellence in Teaching in 2003. His honors include the Fox Prize in Numerical Analysis, a National Science Foundation CAREER Award, and the Rozenberg Tulip Award, which recognizes outstanding career achievement in molecular programming. He has also been named a Guggenheim Fellow and the 74th Eastman Visiting Professor at the University of Oxford. He graduated as valedictorian from Princeton University with a BSE in Mechanical & Aerospace Engineering and completed a DPhil in Applied Mathematics as a Rhodes Scholar at the University of Oxford.
-
-
 ## Keynote Abstract
-__NUPACK: Analysis and Design of Nucleic Acid Structures, Devices, and Systems__
+__Designing Translation-competent mRNA Origami Nanoparticles within the OxRNA Ecosystem__
 
-NUPACK is a growing software suite for the analysis and design of nucleic acid structures, devices, and systems, serving researchers in the emerging disciplines of molecular programming, nucleic acid nanotechnology, synthetic biology, and across the life sciences. NUPACK algorithms have pioneered the treatment of complex and test tube ensembles containing arbitrary numbers of interacting strand species, providing crucial tools for capturing concentration effects essential to analyzing and designing intermolecular interactions that are a hallmark of these fields. To enable reaction pathway engineering of dynamic hybridization cascades or large-scale structural engineering including pseudoknots, NUPACK generalizes these analysis and design capabilities to multi-tube ensembles. The all-new NUPACK 4 scientific code base offers enhanced physical models (coaxial and dangle stacking subensembles), dramatic speedups (20-120x for test tube analysis), increased scalability for large complexes (30,000 nt), mixed materials (RNA/DNA or RNA/2’OMe-RNA specified at nucleotide resolution), and diverse hard and soft sequence constraints for design. The all-new NUPACK cloud web app facilitates rapid job submission and result inspection with scientific algorithms running in parallel in the scalable NUPACK hybrid cloud.
+OxDNA and oxRNA are coarse-grained models specifically designed for DNA and RNA nanotechnology. The models capture basic thermodynamic, mechanical and structural properties of single-stranded and double-stranded DNA / RNA. In addition to the models, we develop an associated ecosystem of design and analysis tools, including the interactive design tool oxView. We give an overview of the latest additions to the oxDNA ecosystem and present our application of model-driven design of a single-stranded RNA origami nanostructure. mRNAs with highly structured ORFs have superior cold-chain stability and in vivo translation, but the boundary between compact folding and efficient ribosome access remains unclear. Single-stranded mRNA origami (mRNA-OG) is an intramolecular folding approach producing highly double-stranded nanoparticles and offers a route to extreme transcript compaction, but its feasibility hinges on whether cellular translation machinery can effectively access and unwind the transcript without activating cellular stress pathways. We show that our designed mRNA-OG nanoparticles adopt compact, planar architectures with exceptional robustness to variation in ionic strength and temperature. Despite their dense folding, these constructs remain translation-competent in both immortalized cell lines and primary cells. Compared with unstructured transcripts, mRNA-OGs display markedly improved stability during 4 C storage and show no activation of integrated dsRNA-sensing pathways, as assessed by polysome profiling and EIF2A phosphorylation assays. Our results demonstrate that model-driven rational design of mRNA secondary structure provides a stepping stone toward stable, cell type-addressable, and potentially self-adjuvanting mRNA therapeutics.
