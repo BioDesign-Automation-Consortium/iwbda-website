@@ -91,17 +91,16 @@ user_groups:
 ---
 ![IWBDA 2025 Logo](iwbda2025_logo.png)
 
-<!--
 # Announcements
 
 ## IWBDA Scholarships
 IWBDA Scholarships are available for students, postdocs, and young researchers. {{<staticref "uploads/IWBDA_Scholarships_2024.pdf" "newtab">}} Please see this PDF for details.{{</staticref>}}.
 
-This year applications will be accepted via this Google form: [Scholarship Application Form](https://forms.gle/MrButFeYMsefvs8i7).
+This year applications will be accepted via this Google form: [Scholarship Application Form]( https://forms.gle/Pk2RrUt3CmNHunEv7).
 
 ## Late Breaking Abstract Submissions
 <b>Now Open:</b> Submissions for our late breaking abstracts for IWBDA!
--->
+
 
 <!--
 <b>Now Open:</b> Submissions for our late breaking lightning talks for IWBDA!
@@ -111,11 +110,11 @@ Abstracts must be submitted through the [IWBDA EasyChair](https://easychair.org/
 
 If you do not have an EasyChair account, please create one by following the instructions specified [here](https://easychair.org/help/account_creation). Please check [Submission Guidelines](/2023/#submission-guidelines) for additional details including submission format.
 
-Submissions are due by Wednesday, August 23.
+Submissions are due by Wednesday, August 23. IWBDA will take place during [Bio Innovation Week](https://biodesign-automation-consortium.github.io/Bio-Innovation-Week/) and will include presentations selected from submitted abstracts, Birds of a Feather discussions, and breakout sessions on selected topics.
 -->
 
 # Call for Papers
-Join us for the 17th annual IWBDA meeting, in Worcester, September 7-9, 2025. IWBDA will take place during [Bio Innovation Week](https://biodesign-automation-consortium.github.io/Bio-Innovation-Week/) and will include presentations selected from submitted abstracts, Birds of a Feather discussions, and breakout sessions on selected topics. We aim to bring together academic researchers and industry partners to push the field of bio-design automation for synthetic biology forward.
+Join us for the 17th annual IWBDA meeting, in Worcester, September 7-9, 2025. We aim to bring together academic researchers and industry partners to push the field of bio-design automation for synthetic biology forward.
 
 The field of biology is still lagging behind the industry when it comes to implementation and adoption of computational and digital solutions. This is primarily because it is extremely difficult to offer a one-size-fits-all solution to engineer biology. Some BDA solutions serve as templates for a larger problem, but, to make it usable in a practical setting, the solutions often have to be redesigned for bespoke biological workflows. Without understanding the requirements of the broader synthetic biology community, it is hard to design a solution that can have a wider impact.
 

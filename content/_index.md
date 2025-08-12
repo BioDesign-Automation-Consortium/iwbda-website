@@ -65,9 +65,9 @@ sections:
 
           ## Monday, September 8 - WPI Odeum 79 Park Ave, Worcester, MA 01605
           - **08:30-09:00** Registration and light breakfast
-          - **09:00-10:00** Keynote
+          - **09:00-10:00** Keynote - Dr. Katie Galloway: Engineering high-precision, dynamic genetic control systems for cell fate programming
           - **10:00-10:30** Coffee break
-          - **10:30-11:30** Keynote
+          - **10:30-11:30** Keynote - Dr. Niles A. Pierce: NUPACK: Analysis and Design of Nucleic Acid Structures, Devices, and Systems
           - **11:30-13:00** Lunch
           - **13:00-14:20** IWBDA Presentations
           - **14:30-15:00** Coffee break
@@ -76,9 +76,9 @@ sections:
 
           ## Tuesday, September 9 - WPI Odeum 79 Park Ave, Worcester, MA 01605
           - **08:30-09:00** Registration and light breakfast
-          - **09:00-10:00** Keynote
+          - **09:00-10:00** Keynote - Dr. Samuel W. Schaffter: RNA strand exchange circuits as a general-purpose molecular programming language for synthetic biology
           - **10:00-10:30** Coffee break
-          - **10:30-11:30** Keynote
+          - **10:30-11:30** Keynote - Dr. Mark Knappenberger: Designing Translation-competent mRNA Origami Nanoparticles within the OxRNA Ecosystem
           - **11:30-13:00** Lunch
           - **13:00-14:20** IWBDA Presentations
           - **14:30-15:00** Coffee break
