@@ -8,7 +8,7 @@ conf_date: September 7-9, 2025
 
 conf_location: WPI Odeum 79 Park Ave, Worcester, MA 01605
 
-conf_hotel: Courtyard by [Marriott](https://maps.app.goo.gl/BTwgNAytrd5n9NXZA?g_st=ipc) Worcester
+conf_hotel: Courtyard by Marriottr Worcester
 
 important_dates:
  - name: Abstract Submission
