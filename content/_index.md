@@ -99,6 +99,15 @@ sections:
           - **14:40-15:00** Coffee break
           - **15:00-15:15** Closing Remarks
 
+          ## Wednesday, September 10 (Optional Satellite Day) - 610 Commonwealth Ave, 4th Floor
+          - 10:00 Meet at Boston University
+          - 10:10 DAMP Lab Overview
+          - 10:25 DAMP Lab Tour
+          - 10:45am Walk to Asimov from BU
+          - 11:00 Asimov Overview
+          - 11:30 Asimov Tour
+          - 12:00 Lunch in the Fenway area (self-organized)
+
   - block: contact
     id: contact
     content:
