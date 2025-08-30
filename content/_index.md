@@ -55,11 +55,18 @@ sections:
           ## Sunday, September 7 - WPI Odeum 79 Park Ave, Worcester, MA 01605
           - **08:30-09:00** Registration and light breakfast
           - **09:00-09:10** Welcome and kick-off of Bio Innovation Week
-          - **09:10-10:10** Workshop
+          - **09:10-10:10** SBOL and SBOL Visual Workshop
           - **10:10-10:40** Coffee break
-          - **10:40-12:00** Workshop
-          - **12:00-13:00** Lunch
-          - **13:00-14:20** IWBDA Presentations
+          - **10:40-11:40** Standards & Interoperability
+            - SYNBICT 2.0: Scalable Synthetic Biology Part Annotation at Speed
+            - Excel-SBOL Converter Version 2
+            - SynBioKit: A Visualization and Validation Platform for Biological Designs
+          - **11:40-13:00** Lunch
+          - **13:00-14:20** AI & Data-Driven Engineering
+            - GeneForge: Agentic AI Server for Design Automation
+            - SeqTrainer: Encoding Synthetic Biology Data for Machine Learning
+            - Towards a virtual GBM stem cell through integration of LLMs and graph analysis
+            - ligifyDB: Extending the Biosensor Knowledgebase with Automated Annotation
           - **14:20-15:00** Coffee break
           - **15:00-16:00** WPI Tour
 
@@ -69,9 +76,12 @@ sections:
           - **10:00-10:30** Coffee break
           - **10:30-11:30** Keynote - Dr. Niles A. Pierce: NUPACK: Analysis and Design of Nucleic Acid Structures, Devices, and Systems
           - **11:30-13:00** Lunch
-          - **13:00-14:20** IWBDA Presentations
-          - **14:30-15:00** Coffee break
-          - **15:00-16:00** IWBDA Presentations
+          - **13:00-14:00** TBD
+          - **14:00-14:30** Coffee break
+          - **14:30-15:30** Design Automation, Planning & Visualization
+            - Rule-based generation of synthetic genetic circuits - recent progress in v 2.0 -
+            - BuildPlanner: A tool for connecting the Design and Build stages of the DBTL cycle
+            - LaNVis: Biological Constraint-based Large Network Visualizer
           - **17:00-19:00** Dinner
 
           ## Tuesday, September 9 - WPI Odeum 79 Park Ave, Worcester, MA 01605
@@ -80,10 +90,14 @@ sections:
           - **10:00-10:30** Coffee break
           - **10:30-11:30** Keynote - Dr. Mark Knappenberger: Designing Translation-competent mRNA Origami Nanoparticles within the OxRNA Ecosystem
           - **11:30-13:00** Lunch
-          - **13:00-14:20** IWBDA Presentations
-          - **14:30-15:00** Coffee break
-          - **15:00-16:00** IWBDA Presentations
-          - **16:00-16:15** Closing Remarks
+          - **13:00-14:40** Modeling, Verification & Experimental Platforms
+            - Degradation-Driven Failure Minimization in Genetic Circuits Through Model Checking
+            - Stochastic analysis of Single-Cell Dynamics and Population-Level Behavior in Biosensors
+            - Patterned Polyacrylamide Gel as a Testbed for Molecular Communication
+            - Digital Microfluidics for DNA Data Storage and Bio-Computation
+            - Dr. Plant, a Plants’ Disease Detection Model using Machine Learning
+          - **14:40-15:00** Coffee break
+          - **15:00-15:15** Closing Remarks
 
   - block: contact
     id: contact
