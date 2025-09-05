@@ -107,6 +107,7 @@ sections:
           - 11:00 Asimov Overview
           - 11:30 Asimov Tour
           - 12:00 Lunch in the Fenway area (self-organized)
+          - 14:00 MIT Tour
 
   - block: contact
     id: contact
