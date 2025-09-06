@@ -109,6 +109,13 @@ sections:
           - 12:00 Lunch in the Fenway area (self-organized)
           - 14:00 MIT Tour
 
+  - block: markdown
+    id: parking
+    content:
+      title: Parking
+      text: |-
+          ![Parking](parking.png)
+
   - block: contact
     id: contact
     content:
