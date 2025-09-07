@@ -50,9 +50,9 @@ sections:
   - block: markdown
     id: agenda
     content:
-      title: Tentative Agenda
+      title: Agenda
       text: |-
-          ## Sunday, September 7 - WPI Odeum 79 Park Ave, Worcester, MA 01605
+          ## Sunday, September 7 - Rubin Campus Center Odeum (see directions below)
           - **08:30-09:00** Registration and light breakfast
           - **09:00-09:10** Welcome and kick-off of Bio Innovation Week
           - **09:10-10:10** SBOL and SBOL Visual Workshop
@@ -70,13 +70,13 @@ sections:
           - **14:20-15:00** Coffee break
           - **15:00-16:00** WPI Tour
 
-          ## Monday, September 8 - WPI Odeum 79 Park Ave, Worcester, MA 01605
+          ## Monday, September 8 - Rubin Campus Center Odeum (see directions below)
           - **08:30-09:00** Registration and light breakfast
           - **09:00-10:00** Keynote - Dr. Katie Galloway: Engineering high-precision, dynamic genetic control systems for cell fate programming
           - **10:00-10:30** Coffee break
           - **10:30-11:30** Keynote - Dr. Niles A. Pierce: NUPACK: Analysis and Design of Nucleic Acid Structures, Devices, and Systems
           - **11:30-13:00** Lunch
-          - **13:00-14:00** TBD
+          - **13:00-14:00** Global Access to Synthetic Biology
           - **14:00-14:30** Coffee break
           - **14:30-15:30** Design Automation, Planning & Visualization
             - Rule-based generation of synthetic genetic circuits - recent progress in v 2.0 -
@@ -84,7 +84,7 @@ sections:
             - LaNVis: Biological Constraint-based Large Network Visualizer
           - **17:00-19:00** Dinner
 
-          ## Tuesday, September 9 - WPI Odeum 79 Park Ave, Worcester, MA 01605
+          ## Tuesday, September 9 - Rubin Campus Center Odeum (see directions below)
           - **08:30-09:00** Registration and light breakfast
           - **09:00-10:00** Keynote - Dr. Samuel W. Schaffter: RNA strand exchange circuits as a general-purpose molecular programming language for synthetic biology
           - **10:00-10:30** Coffee break
