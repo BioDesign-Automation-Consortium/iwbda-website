@@ -100,6 +100,7 @@ sections:
           - **15:00-15:15** Closing Remarks
 
           ## Wednesday, September 10 (Optional Satellite Day) - 610 Commonwealth Ave, 4th Floor
+          ### [Registration](https://docs.google.com/forms/d/1P9u_PO4yY52I-lM9PhXuhqfJKDQCVNWok-oHaVp6mNY/edit)
           - 10:00 Meet at Boston University
           - 10:10 DAMP Lab Overview
           - 10:25 DAMP Lab Tour
