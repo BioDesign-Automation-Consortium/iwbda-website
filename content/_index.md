@@ -5,7 +5,7 @@ date: 2022-10-24
 type: landing
 
 sections:
-  - block: newabout25
+  - block: newabout26
     # block: about.biography
     id: cfp
     content:
