@@ -11,30 +11,29 @@ sections:
     content:
       title: Biography
       # Choose a user profile to display (a folder name within `content/authors/`)
-      username: IWBDA-2025
+      username: IWBDA-2026
 
   - block: people
     id: keynote
     content:
       title: Keynote Speakers
       user_groups:
-      - 2025 Speakers
+      - 2026 Speakers
 
   - block: markdown
     id: submission
     content:
       title: Submission Guidelines
       text: |-
+        Abstracts and workshop proposals must be submitted via [EasyChair](https://easychair.org/conferences?conf=iwbda26). Submissions cannot exceed two pages (excluding figures and tables). If you do not have an EasyChair account, please create one by following the instructions specified [here](https://easychair.org/help/account_creation).
 
-        Abstracts and workshop proposals must be submitted via [EasyChair](https://easychair.org/conferences/?conf=iwbda25). Submissions cannot exceed two pages (excluding figures and tables). If you do not have an EasyChair account, please create one by following the instructions specified [here](https://easychair.org/help/account_creation).
-
-         All abstracts must use the IWBDA template and must not exceed two pages excluding the figures and tables. The following versions of the template are available for use:
-          - [Overleaf]( https://www.overleaf.com/read/wbdpqqpstxbg#02d65f.)
-          - {{<staticref "uploads/IWBDA_2023_Abstract_Template.docx" "newtab">}}MS Word{{</staticref>}}
+        All abstracts must use the IWBDA template and must not exceed two pages excluding the figures and tables. The following versions of the template are available for use:
+        - [Overleaf]( https://www.overleaf.com/read/wbdpqqpstxbg#02d65f.)
+        - {{<staticref "uploads/IWBDA_2023_Abstract_Template.docx" "newtab">}}MS Word{{</staticref>}}
 
         All abstracts will undergo a single-blind peer review process on EasyChair. The accepted abstracts will be invited to present their work as a poster or a talk at the conference.
 
-        We encourage abstracts for talks at IWBDA 2025 on ongoing research that may be submitted as a full journal paper later. We are currently in talks with ACS Synthetic Biology to set up a special issue on bio-design automation for such extended journal submissions.
+        We encourage abstracts for posters and/or talks at IWBDA 2026 on ongoing research that may be submitted as a full journal paper later. We are currently in talks with ACS Synthetic Biology to set up a special issue on bio-design automation for such extended journal submissions. For the full CFP and the latest information, please visit: https://www.iwbdaconf.org
     design:
       columns: '2'
 
@@ -47,75 +46,75 @@ sections:
     design:
       columns: '2'
 
-  - block: markdown
-    id: agenda
-    content:
-      title: Agenda
-      text: |-
-          ## Sunday, September 7 - Rubin Campus Center Odeum (see directions below)
-          - **08:30-09:00** Registration and light breakfast
-          - **09:00-09:10** Welcome and kick-off of Bio Innovation Week
-          - **09:10-10:10** SBOL and SBOL Visual Workshop
-          - **10:10-10:40** Coffee break
-          - **10:40-11:40** Standards & Interoperability
-            - SYNBICT 2.0: Scalable Synthetic Biology Part Annotation at Speed
-            - Excel-SBOL Converter Version 2
-            - SynBioKit: A Visualization and Validation Platform for Biological Designs
-          - **11:40-13:00** Lunch
-          - **13:00-14:20** AI & Data-Driven Engineering
-            - GeneForge: Agentic AI Server for Design Automation
-            - SeqTrainer: Encoding Synthetic Biology Data for Machine Learning
-            - Towards a virtual GBM stem cell through integration of LLMs and graph analysis
-            - ligifyDB: Extending the Biosensor Knowledgebase with Automated Annotation
-          - **14:20-15:00** Coffee break
-          - **15:00-16:00** WPI Tour
+  # - block: markdown
+  #   id: agenda
+  #   content:
+  #     title: Agenda
+  #     text: |-
+  #         ## Sunday, September 7 - Rubin Campus Center Odeum (see directions below)
+  #         - **08:30-09:00** Registration and light breakfast
+  #         - **09:00-09:10** Welcome and kick-off of Bio Innovation Week
+  #         - **09:10-10:10** SBOL and SBOL Visual Workshop
+  #         - **10:10-10:40** Coffee break
+  #         - **10:40-11:40** Standards & Interoperability
+  #           - SYNBICT 2.0: Scalable Synthetic Biology Part Annotation at Speed
+  #           - Excel-SBOL Converter Version 2
+  #           - SynBioKit: A Visualization and Validation Platform for Biological Designs
+  #         - **11:40-13:00** Lunch
+  #         - **13:00-14:20** AI & Data-Driven Engineering
+  #           - GeneForge: Agentic AI Server for Design Automation
+  #           - SeqTrainer: Encoding Synthetic Biology Data for Machine Learning
+  #           - Towards a virtual GBM stem cell through integration of LLMs and graph analysis
+  #           - ligifyDB: Extending the Biosensor Knowledgebase with Automated Annotation
+  #         - **14:20-15:00** Coffee break
+  #         - **15:00-16:00** WPI Tour
 
-          ## Monday, September 8 - Rubin Campus Center Odeum (see directions below)
-          - **08:30-09:00** Registration and light breakfast
-          - **09:00-10:00** Keynote - Dr. Katie Galloway: Engineering high-precision, dynamic genetic control systems for cell fate programming
-          - **10:00-10:30** Coffee break
-          - **10:30-11:30** Keynote - Dr. Niles A. Pierce: NUPACK: Analysis and Design of Nucleic Acid Structures, Devices, and Systems
-          - **11:30-13:00** Lunch
-          - **13:00-14:00** Global Access to Synthetic Biology
-          - **14:00-14:30** Coffee break
-          - **14:30-15:30** Design Automation, Planning & Visualization
-            - Rule-based generation of synthetic genetic circuits - recent progress in v 2.0 -
-            - BuildPlanner: A tool for connecting the Design and Build stages of the DBTL cycle
-            - LaNVis: Biological Constraint-based Large Network Visualizer
-          - **17:00-19:00** Dinner
+  #         ## Monday, September 8 - Rubin Campus Center Odeum (see directions below)
+  #         - **08:30-09:00** Registration and light breakfast
+  #         - **09:00-10:00** Keynote - Dr. Katie Galloway: Engineering high-precision, dynamic genetic control systems for cell fate programming
+  #         - **10:00-10:30** Coffee break
+  #         - **10:30-11:30** Keynote - Dr. Niles A. Pierce: NUPACK: Analysis and Design of Nucleic Acid Structures, Devices, and Systems
+  #         - **11:30-13:00** Lunch
+  #         - **13:00-14:00** Global Access to Synthetic Biology
+  #         - **14:00-14:30** Coffee break
+  #         - **14:30-15:30** Design Automation, Planning & Visualization
+  #           - Rule-based generation of synthetic genetic circuits - recent progress in v 2.0 -
+  #           - BuildPlanner: A tool for connecting the Design and Build stages of the DBTL cycle
+  #           - LaNVis: Biological Constraint-based Large Network Visualizer
+  #         - **17:00-19:00** Dinner
 
-          ## Tuesday, September 9 - Rubin Campus Center Odeum (see directions below)
-          - **08:30-09:00** Registration and light breakfast
-          - **09:00-10:00** Keynote - Dr. Samuel W. Schaffter: RNA strand exchange circuits as a general-purpose molecular programming language for synthetic biology
-          - **10:00-10:30** Coffee break
-          - **10:30-11:30** Keynote - Dr. Mark Knappenberger: Designing Translation-competent mRNA Origami Nanoparticles within the OxRNA Ecosystem
-          - **11:30-13:00** Lunch
-          - **13:00-14:40** Modeling, Verification & Experimental Platforms
-            - Degradation-Driven Failure Minimization in Genetic Circuits Through Model Checking
-            - Stochastic analysis of Single-Cell Dynamics and Population-Level Behavior in Biosensors
-            - Patterned Polyacrylamide Gel as a Testbed for Molecular Communication
-            - Digital Microfluidics for DNA Data Storage and Bio-Computation
-            - Dr. Plant, a Plants’ Disease Detection Model using Machine Learning
-          - **14:40-15:00** Coffee break
-          - **15:00-15:15** Closing Remarks
+  #         ## Tuesday, September 9 - Rubin Campus Center Odeum (see directions below)
+  #         - **08:30-09:00** Registration and light breakfast
+  #         - **09:00-10:00** Keynote - Dr. Samuel W. Schaffter: RNA strand exchange circuits as a general-purpose molecular programming language for synthetic biology
+  #         - **10:00-10:30** Coffee break
+  #         - **10:30-11:30** Keynote - Dr. Mark Knappenberger: Designing Translation-competent mRNA Origami Nanoparticles within the OxRNA Ecosystem
+  #         - **11:30-13:00** Lunch
+  #         - **13:00-14:40** Modeling, Verification & Experimental Platforms
+  #           - Degradation-Driven Failure Minimization in Genetic Circuits Through Model Checking
+  #           - Stochastic analysis of Single-Cell Dynamics and Population-Level Behavior in Biosensors
+  #           - Patterned Polyacrylamide Gel as a Testbed for Molecular Communication
+  #           - Digital Microfluidics for DNA Data Storage and Bio-Computation
+  #           - Dr. Plant, a Plants’ Disease Detection Model using Machine Learning
+  #         - **14:40-15:00** Coffee break
+  #         - **15:00-15:15** Closing Remarks
 
-          ## Wednesday, September 10 (Optional Satellite Day) - 610 Commonwealth Ave, 4th Floor
-          ### [Registration](https://docs.google.com/forms/d/1P9u_PO4yY52I-lM9PhXuhqfJKDQCVNWok-oHaVp6mNY/edit)
-          - 10:00 Meet at Boston University
-          - 10:10 DAMP Lab Overview
-          - 10:25 DAMP Lab Tour
-          - 10:45am Walk to Asimov from BU
-          - 11:00 Asimov Overview
-          - 11:30 Asimov Tour
-          - 12:00 Lunch in the Fenway area (self-organized)
-          - 14:00 MIT Tour
+  #         ## Wednesday, September 10 (Optional Satellite Day) - 610 Commonwealth Ave, 4th Floor
+  #         ### [Registration](https://docs.google.com/forms/d/1P9u_PO4yY52I-lM9PhXuhqfJKDQCVNWok-oHaVp6mNY/edit)
+  #         - 10:00 Meet at Boston University
+  #         - 10:10 DAMP Lab Overview
+  #         - 10:25 DAMP Lab Tour
+  #         - 10:45am Walk to Asimov from BU
+  #         - 11:00 Asimov Overview
+  #         - 11:30 Asimov Tour
+  #         - 12:00 Lunch in the Fenway area (self-organized)
+  #         - 14:00 MIT Tour
 
-  - block: markdown
-    id: parking
-    content:
-      title: Parking
-      text: |-
-          ![Parking](parking.png)
+  # - block: markdown
+  #   id: parking
+  #   content:
+  #     title: Parking
+  #     text: |-
+  #         ![Parking](parking.png)
 
   - block: contact
     id: contact
@@ -130,7 +129,7 @@ sections:
     content:
       title: Organising Committee
       user_groups:
-      - Bio Innovation Week 2025
+      - Bio Innovation Week 2026
       - BioDesign Automation Consortium
 
 ---
