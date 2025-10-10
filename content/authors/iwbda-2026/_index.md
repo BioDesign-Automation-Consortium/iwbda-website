@@ -6,17 +6,17 @@ superuser: false
 
 conf_date: June 18-20, 2026
 
-conf_location: WPI Odeum 79 Park Ave, Worcester, MA 01605
+conf_location: University of Colorado Boulder, Boulder, CO 80309
 
 #conf_hotel: Courtyard by Marriott Worcester
 
 important_dates:
  - name: Abstract Submission
-   date: ~~August 3~~ April 3, 2026
+   date: April 3, 2026
  #- name: Workshop Submission
    #date: ~~August 3~~ August 17, 2025
  - name: Notice of Acceptance
-   date: ~~August 17~~ May 1, 2026
+   date: May 1, 2026
 # - name: Workshops
 #   date: September 11-14, 2023
 # - name: Nona Works

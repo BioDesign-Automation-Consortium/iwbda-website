@@ -1,123 +1,136 @@
 ---
-title: IWBDA 2025
+# Leave the homepage title empty to use the site title
+title:
+date: 2022-10-24
+type: landing
 
-# Is this the primary user of the site?
-superuser: false
+sections:
+  - block: newabout25
+    # block: about.biography
+    id: cfp
+    content:
+      title: Biography
+      # Choose a user profile to display (a folder name within `content/authors/`)
+      username: IWBDA-2025
 
-conf_date: September 7-9, 2025
+  - block: people
+    id: keynote
+    content:
+      title: Keynote Speakers
+      user_groups:
+      - 2025 Speakers
 
-conf_location: WPI Odeum 79 Park Ave, Worcester, MA 01605
+  - block: markdown
+    id: submission
+    content:
+      title: Submission Guidelines
+      text: |-
 
-conf_hotel: Courtyard by Marriott Worcester
+        Abstracts and workshop proposals must be submitted via [EasyChair](https://easychair.org/conferences/?conf=iwbda25). Submissions cannot exceed two pages (excluding figures and tables). If you do not have an EasyChair account, please create one by following the instructions specified [here](https://easychair.org/help/account_creation).
 
-important_dates:
- - name: Abstract Submission
-   date: ~~August 3~~ August 17, 2025
- - name: Workshop Submission
-   date: ~~August 3~~ August 17, 2025
- - name: Notice of Acceptance
-   date: ~~August 17~~ August 20, 2025
-# - name: Workshops
-#   date: September 11-14, 2023
-# - name: Nona Works
-#   date: September 11-14, 2023
-# - name: Special Issue Submission Deadline
-#   date: April 30, 2024
-# - name: Late breaking lightning talks submission
-#   date: August 23, 2023
-# - name: Workshop proposal - submission deadline
-#   date: ~~July 30, 2023~~ August 23, 2023
-# - name: Abstract submission - Early deadline
-#   date: June 23, 2023
-# - name: Abstract submission - Regular deadline
-#   date: ~~July 14, 2023~~ July 31, 2023
+         All abstracts must use the IWBDA template and must not exceed two pages excluding the figures and tables. The following versions of the template are available for use:
+          - [Overleaf]( https://www.overleaf.com/read/wbdpqqpstxbg#02d65f.)
+          - {{<staticref "uploads/IWBDA_2023_Abstract_Template.docx" "newtab">}}MS Word{{</staticref>}}
 
-#important_links:
-#- name: Abstract Submission
-#  link: https://easychair.org/my/conference?conf=iwbda23
-#- name: Workshop Proposal Submission
-#  link: https://tinyurl.com/BioDesignWeekWorkshops
-#- name: Registration
-#  link: /2023/#registration
-#- name: Agenda
-#  link: /2023/#agenda
-#- name: Conference Logistics
-#  link: /2023/#logistics
-#- name: Nona Works 2023
-#  link: https://www.nonasoftware.org/nonaworks23
-#- name: SBOL Workshops Registration
-#  link: https://forms.gle/7TA6kgqx54Pg3Rz77
+        All abstracts will undergo a single-blind peer review process on EasyChair. The accepted abstracts will be invited to present their work as a poster or a talk at the conference.
 
-#contact:
-#- name: Traci Haddock
-#  link: 'mailto:traci@asimov.com'
-#- name: Natasa Miskov-Zivanov
-#  link: mailto:nmzivanov@pitt.edu
+        We encourage abstracts for talks at IWBDA 2025 on ongoing research that may be submitted as a full journal paper later. We are currently in talks with ACS Synthetic Biology to set up a special issue on bio-design automation for such extended journal submissions.
+    design:
+      columns: '2'
 
-# - name: Breakouts/Tutorials submission
-#   link: https://forms.gle/4VHZTxR5FcY2GLhR8
-# - name: Agenda
-#   link: TBA
-# - name: Conference Book
-#   link: TBA
+  - block: markdown
+    id: registration
+    content:
+      title: Registration
+      text: |-
+          <link rel="stylesheet" type="text/css" href="https://www.brownpapertickets.com/widget_v671.css" /> <DIV ID="bpt_eventbody"><CENTER><BR><BR>Brown Paper Tickets Ticket Widget Loading...<BR><BR><A HREF="https://www.brownpapertickets.com/event/6694087">Click Here</A> to visit the Brown Paper Tickets event page.</CENTER><BR><BR></DIV> <script src="https://www.brownpapertickets.com/eventwidget.js?event=6694087&nodescription=1" type="text/javascript" language="javascript"></script> <script src="https://www.brownpapertickets.com/widget_v671.js?event=6694087" type="text/javascript" language="javascript"></script>
+    design:
+      columns: '2'
 
-#information:
-#- name: Submission Guidelines
-# description: Abstracts and workshop proposals must be submitted via [EasyChair](https://easychair.org/conferences/?conf=iwbda25). Submissions cannot exceed two pages (excluding figures and tables). If you do not have an EasyChair account, please create one by following the instructions specified [here](https://easychair.org/help/account_creation). We encourage abstracts for talks at IWBDA 2025 on ongoing research that may be submitted as a full journal paper later. We are currently in talks with ACS Synthetic Biology to set up a special issue on bio-design automation for such extended journal submissions.
-#  link: https://forms.gle/Em226LwEQsuJedkf7
-#- name: Organizers
-#  description: The COMBINE 2022 meeting is organised by Dagmar Waltemath and Matthias König.
-#  link: ../people/
+  - block: markdown
+    id: agenda
+    content:
+      title: Agenda
+      text: |-
+          ## Sunday, September 7 - Rubin Campus Center Odeum (see directions below)
+          - **08:30-09:00** Registration and light breakfast
+          - **09:00-09:10** Welcome and kick-off of Bio Innovation Week
+          - **09:10-10:10** SBOL and SBOL Visual Workshop
+          - **10:10-10:40** Coffee break
+          - **10:40-11:40** Standards & Interoperability
+            - SYNBICT 2.0: Scalable Synthetic Biology Part Annotation at Speed
+            - Excel-SBOL Converter Version 2
+            - SynBioKit: A Visualization and Validation Platform for Biological Designs
+          - **11:40-13:00** Lunch
+          - **13:00-14:20** AI & Data-Driven Engineering
+            - GeneForge: Agentic AI Server for Design Automation
+            - SeqTrainer: Encoding Synthetic Biology Data for Machine Learning
+            - Towards a virtual GBM stem cell through integration of LLMs and graph analysis
+            - ligifyDB: Extending the Biosensor Knowledgebase with Automated Annotation
+          - **14:20-15:00** Coffee break
+          - **15:00-16:00** WPI Tour
 
-topics:
-- Design methodologies for synthetic biology
-- Standardization of biological components
-- Biosecurity in lab automation processes
-- Biopreparedness through bio-design automation
-- Artificial intelligence and machine learning in synthetic biology
-- Computer aided design tools and automation for engineering biology
-- Biofoundries and their impact on synthetic biology
-- Formalized protocol capture
-- Design Build Test Case studies
-- Synthetic Biology education and outreach
+          ## Monday, September 8 - Rubin Campus Center Odeum (see directions below)
+          - **08:30-09:00** Registration and light breakfast
+          - **09:00-10:00** Keynote - Dr. Katie Galloway: Engineering high-precision, dynamic genetic control systems for cell fate programming
+          - **10:00-10:30** Coffee break
+          - **10:30-11:30** Keynote - Dr. Niles A. Pierce: NUPACK: Analysis and Design of Nucleic Acid Structures, Devices, and Systems
+          - **11:30-13:00** Lunch
+          - **13:00-14:00** Global Access to Synthetic Biology
+          - **14:00-14:30** Coffee break
+          - **14:30-15:30** Design Automation, Planning & Visualization
+            - Rule-based generation of synthetic genetic circuits - recent progress in v 2.0 -
+            - BuildPlanner: A tool for connecting the Design and Build stages of the DBTL cycle
+            - LaNVis: Biological Constraint-based Large Network Visualizer
+          - **17:00-19:00** Dinner
 
-#featuredtheme:
-#- Biosecurity
+          ## Tuesday, September 9 - Rubin Campus Center Odeum (see directions below)
+          - **08:30-09:00** Registration and light breakfast
+          - **09:00-10:00** Keynote - Dr. Samuel W. Schaffter: RNA strand exchange circuits as a general-purpose molecular programming language for synthetic biology
+          - **10:00-10:30** Coffee break
+          - **10:30-11:30** Keynote - Dr. Mark Knappenberger: Designing Translation-competent mRNA Origami Nanoparticles within the OxRNA Ecosystem
+          - **11:30-13:00** Lunch
+          - **13:00-14:40** Modeling, Verification & Experimental Platforms
+            - Degradation-Driven Failure Minimization in Genetic Circuits Through Model Checking
+            - Stochastic analysis of Single-Cell Dynamics and Population-Level Behavior in Biosensors
+            - Patterned Polyacrylamide Gel as a Testbed for Molecular Communication
+            - Digital Microfluidics for DNA Data Storage and Bio-Computation
+            - Dr. Plant, a Plants’ Disease Detection Model using Machine Learning
+          - **14:40-15:00** Coffee break
+          - **15:00-15:15** Closing Remarks
 
+          ## Wednesday, September 10 (Optional Satellite Day) - 610 Commonwealth Ave, 4th Floor
+          ### [Registration](https://docs.google.com/forms/d/1P9u_PO4yY52I-lM9PhXuhqfJKDQCVNWok-oHaVp6mNY/edit)
+          - 10:00 Meet at Boston University
+          - 10:10 DAMP Lab Overview
+          - 10:25 DAMP Lab Tour
+          - 10:45am Walk to Asimov from BU
+          - 11:00 Asimov Overview
+          - 11:30 Asimov Tour
+          - 12:00 Lunch in the Fenway area (self-organized)
+          - 14:00 MIT Tour
 
-# Organizational groups that you belong to (for People widget)
-#   Set this to `[]` or comment out if you are not using People widget.
-user_groups:
-- Current Event
+  - block: markdown
+    id: parking
+    content:
+      title: Parking
+      text: |-
+          ![Parking](parking.png)
+
+  - block: contact
+    id: contact
+    content:
+      title: Contact Us
+      text: |-
+        Interested in participating, organizing, or sponsoring IWBDA or Bio Innovation Week? Reach out to us for more information on how you can get involved in IWBDA, IWBMA, the Nona Works Hackathon, or SBOL Workshops. We look forward to hearing from you!
+      email: bio.design.automation.inc@gmail.com
+
+  - block: people
+    id: organising
+    content:
+      title: Organising Committee
+      user_groups:
+      - Bio Innovation Week 2025
+      - BioDesign Automation Consortium
 
 ---
-![IWBDA 2025 Logo](iwbda2025_logo.png)
-
-# Announcements
-
-## IWBDA Scholarships
-IWBDA Scholarships are available for students, postdocs, and young researchers. {{<staticref "uploads/IWBDA_Scholarships_2024.pdf" "newtab">}} Please see this PDF for details.{{</staticref>}}.
-
-This year applications will be accepted via this Google form: [Scholarship Application Form]( https://forms.gle/Pk2RrUt3CmNHunEv7).
-
-## Late Breaking Abstract Submissions
-<b>Now Open:</b> Submissions for our late breaking abstracts for IWBDA!
-
-
-<!--
-<b>Now Open:</b> Submissions for our late breaking lightning talks for IWBDA!
-
-Submit a short abstract between 100-200 words in length to be considered for our late breaking lightning talks. You may also include up to one figure, but it’s not a requirement.
-Abstracts must be submitted through the [IWBDA EasyChair](https://easychair.org/my/conference?conf=iwbda23). Submissions cannot exceed 200 words (or 1 page if figure is included).
-
-If you do not have an EasyChair account, please create one by following the instructions specified [here](https://easychair.org/help/account_creation). Please check [Submission Guidelines](/2023/#submission-guidelines) for additional details including submission format.
-
-Submissions are due by Wednesday, August 23. IWBDA will take place during [Bio Innovation Week](https://biodesign-automation-consortium.github.io/Bio-Innovation-Week/) and will include presentations selected from submitted abstracts, Birds of a Feather discussions, and breakout sessions on selected topics.
--->
-
-# Call for Papers
-Join us for the 17th annual IWBDA meeting, in Worcester, September 7-9, 2025. We aim to bring together academic researchers and industry partners to push the field of bio-design automation for synthetic biology forward.
-
-The field of biology is still lagging behind the industry when it comes to implementation and adoption of computational and digital solutions. This is primarily because it is extremely difficult to offer a one-size-fits-all solution to engineer biology. Some BDA solutions serve as templates for a larger problem, but, to make it usable in a practical setting, the solutions often have to be redesigned for bespoke biological workflows. Without understanding the requirements of the broader synthetic biology community, it is hard to design a solution that can have a wider impact.
-
-Increasing the efficiency of biological processes and workflows with biodesign automation is a continuous journey that requires fresh exchange of ideas. It is crucial for the BDA community to have a forum where they can collaborate, gather new perspectives, and understand the requirements of the broader synthetic biology community. IWBDA provides this forum for cross-disciplinary discussion, with the aim of seeding and fostering collaboration between the researchers from the synthetic biology, systems biology, and design automation communities.
