@@ -79,7 +79,7 @@ topics:
 - Biofoundries and their impact on synthetic biology
 - Formalized protocol capture
 - Design Build Test Case studies
-- Synthetic Biology education and outreach
+
 
 #featuredtheme:
 #- Biosecurity
