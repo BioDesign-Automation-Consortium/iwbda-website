@@ -9,7 +9,7 @@ Click on the &lt;strong>Slides&lt;/strong> button above to view the built-in sli
 &lt;li>&lt;strong>Upload&lt;/strong> an existing slide deck to &lt;code>static/&lt;/code> and link using &lt;code>url_slides&lt;/code> parameter in the front matter of the talk file&lt;/li>
 &lt;li>&lt;strong>Embed&lt;/strong> your slides (e.g. Google Slides) or presentation video on this page using &lt;a href="https://wowchemy.com/docs/writing-markdown-latex/" target="_blank" rel="noopener">shortcodes&lt;/a>.&lt;/li>
 &lt;/ul>
-&lt;p>Further event details, including &lt;a href="https://wowchemy.com/docs/writing-markdown-latex/" target="_blank" rel="noopener">page elements&lt;/a> such as image galleries, can be added to the body of this page.&lt;/p></description></item><item><title/><link>/2023/</link><pubDate>Mon, 24 Oct 2022 00:00:00 +0000</pubDate><guid>/2023/</guid><description/></item><item><title/><link>/2024/</link><pubDate>Mon, 24 Oct 2022 00:00:00 +0000</pubDate><guid>/2024/</guid><description/></item><item><title/><link>/special-issues/2023/</link><pubDate>Mon, 24 Oct 2022 00:00:00 +0000</pubDate><guid>/special-issues/2023/</guid><description/></item><item><title>Welcome to Wowchemy, the website builder for Hugo</title><link>/post/getting-started/</link><pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate><guid>/post/getting-started/</guid><description>&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-python" data-lang="python">&lt;span class="line">&lt;span class="cl">&lt;span class="kn">import&lt;/span> &lt;span class="nn">libr&lt;/span>
+&lt;p>Further event details, including &lt;a href="https://wowchemy.com/docs/writing-markdown-latex/" target="_blank" rel="noopener">page elements&lt;/a> such as image galleries, can be added to the body of this page.&lt;/p></description></item><item><title/><link>/2023/</link><pubDate>Mon, 24 Oct 2022 00:00:00 +0000</pubDate><guid>/2023/</guid><description/></item><item><title/><link>/2024/</link><pubDate>Mon, 24 Oct 2022 00:00:00 +0000</pubDate><guid>/2024/</guid><description/></item><item><title/><link>/2025/</link><pubDate>Mon, 24 Oct 2022 00:00:00 +0000</pubDate><guid>/2025/</guid><description/></item><item><title/><link>/special-issues/2023/</link><pubDate>Mon, 24 Oct 2022 00:00:00 +0000</pubDate><guid>/special-issues/2023/</guid><description/></item><item><title>Welcome to Wowchemy, the website builder for Hugo</title><link>/post/getting-started/</link><pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate><guid>/post/getting-started/</guid><description>&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-python" data-lang="python">&lt;span class="line">&lt;span class="cl">&lt;span class="kn">import&lt;/span> &lt;span class="nn">libr&lt;/span>
 &lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="nb">print&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="s1">&amp;#39;hello&amp;#39;&lt;/span>&lt;span class="p">)&lt;/span>
 &lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;h2 id="overview">Overview&lt;/h2>
 &lt;ol>
@@ -156,7 +156,7 @@ console.log('code block');
 &lt;p>Wowchemy supports the popular &lt;a href="https://plot.ly/" target="_blank" rel="noopener">Plotly&lt;/a> format for interactive charts.&lt;/p>
 &lt;p>Save your Plotly JSON in your page folder, for example &lt;code>line-chart.json&lt;/code>, and then add the &lt;code>{{&amp;lt; chart data=&amp;quot;line-chart&amp;quot; &amp;gt;}}&lt;/code> shortcode where you would like the chart to appear.&lt;/p>
 &lt;p>Demo:&lt;/p>
-&lt;div id="chart-824536791" class="chart">&lt;/div>
+&lt;div id="chart-914583267" class="chart">&lt;/div>
 &lt;script>
 (function() {
 let a = setInterval( function() {
@@ -165,7 +165,7 @@ return;
 }
 clearInterval( a );
 Plotly.d3.json("./line-chart.json", function(chart) {
-Plotly.plot('chart-824536791', chart.data, chart.layout, {responsive: true});
+Plotly.plot('chart-914583267', chart.data, chart.layout, {responsive: true});
 });
 }, 500 );
 })();
@@ -413,35 +413,4 @@ A Markdown aside is useful for displaying notices, hints, or definitions to your
 &lt;h2 id="convert-notebook-to-markdown">Convert notebook to Markdown&lt;/h2>
 &lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-bash" data-lang="bash">&lt;span class="line">&lt;span class="cl">jupyter nbconvert index.ipynb --to markdown --NbConvertApp.output_files_dir&lt;span class="o">=&lt;/span>.
 &lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;h2 id="example">Example&lt;/h2>
-&lt;p>This post was created with Jupyter. The orginal files can be found at &lt;a href="https://github.com/gcushen/hugo-academic/tree/master/exampleSite/content/post/jupyter" target="_blank" rel="noopener">https://github.com/gcushen/hugo-academic/tree/master/exampleSite/content/post/jupyter&lt;/a>&lt;/p></description></item><item><title/><link>/admin/config.yml</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/admin/config.yml</guid><description/></item><item><title>IWBDA 2025</title><link>/2025/index_c/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/2025/index_c/</guid><description>&lt;p>
-&lt;figure >
-&lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img alt="IWBDA 2025 Logo" srcset="
-/media/iwbda2025_logo_hu6a6611e1374bcebda1224344fc6536bf_8041019_820d634485f6fadf31822e30629c5c66.webp 400w,
-/media/iwbda2025_logo_hu6a6611e1374bcebda1224344fc6536bf_8041019_1ef7e8d327bb43ba6aab8087156c0fdb.webp 760w,
-/media/iwbda2025_logo_hu6a6611e1374bcebda1224344fc6536bf_8041019_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
-src="/media/iwbda2025_logo_hu6a6611e1374bcebda1224344fc6536bf_8041019_820d634485f6fadf31822e30629c5c66.webp"
-width="760"
-height="227"
-loading="lazy" data-zoomable />&lt;/div>
-&lt;/div>&lt;/figure>
-&lt;/p>
-&lt;h1 id="announcements">Announcements&lt;/h1>
-&lt;h2 id="iwbda-scholarships">IWBDA Scholarships&lt;/h2>
-&lt;p>IWBDA Scholarships are available for students, postdocs, and young researchers.
-&lt;a href="/uploads/IWBDA_Scholarships_2024.pdf" target="_blank"> Please see this PDF for details.&lt;/a>
-.&lt;/p>
-&lt;p>This year applications will be accepted via this Google form: &lt;a href="https://forms.gle/Pk2RrUt3CmNHunEv7" target="_blank" rel="noopener">Scholarship Application Form&lt;/a>.&lt;/p>
-&lt;h2 id="late-breaking-abstract-submissions">Late Breaking Abstract Submissions&lt;/h2>
-&lt;p>&lt;b>Now Open:&lt;/b> Submissions for our late breaking abstracts for IWBDA!&lt;/p>
-&lt;!--
-&lt;b>Now Open:&lt;/b> Submissions for our late breaking lightning talks for IWBDA!
-Submit a short abstract between 100-200 words in length to be considered for our late breaking lightning talks. You may also include up to one figure, but it’s not a requirement.
-Abstracts must be submitted through the [IWBDA EasyChair](https://easychair.org/my/conference?conf=iwbda23). Submissions cannot exceed 200 words (or 1 page if figure is included).
-If you do not have an EasyChair account, please create one by following the instructions specified [here](https://easychair.org/help/account_creation). Please check [Submission Guidelines](/2023/#submission-guidelines) for additional details including submission format.
-Submissions are due by Wednesday, August 23. IWBDA will take place during [Bio Innovation Week](https://biodesign-automation-consortium.github.io/Bio-Innovation-Week/) and will include presentations selected from submitted abstracts, Birds of a Feather discussions, and breakout sessions on selected topics.
--->
-&lt;h1 id="call-for-papers">Call for Papers&lt;/h1>
-&lt;p>Join us for the 17th annual IWBDA meeting, in Worcester, September 7-9, 2025. We aim to bring together academic researchers and industry partners to push the field of bio-design automation for synthetic biology forward.&lt;/p>
-&lt;p>The field of biology is still lagging behind the industry when it comes to implementation and adoption of computational and digital solutions. This is primarily because it is extremely difficult to offer a one-size-fits-all solution to engineer biology. Some BDA solutions serve as templates for a larger problem, but, to make it usable in a practical setting, the solutions often have to be redesigned for bespoke biological workflows. Without understanding the requirements of the broader synthetic biology community, it is hard to design a solution that can have a wider impact.&lt;/p>
-&lt;p>Increasing the efficiency of biological processes and workflows with biodesign automation is a continuous journey that requires fresh exchange of ideas. It is crucial for the BDA community to have a forum where they can collaborate, gather new perspectives, and understand the requirements of the broader synthetic biology community. IWBDA provides this forum for cross-disciplinary discussion, with the aim of seeding and fostering collaboration between the researchers from the synthetic biology, systems biology, and design automation communities.&lt;/p></description></item><item><title>People</title><link>/2023-committee/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/2023-committee/</guid><description/></item></channel></rss>
+&lt;p>This post was created with Jupyter. The orginal files can be found at &lt;a href="https://github.com/gcushen/hugo-academic/tree/master/exampleSite/content/post/jupyter" target="_blank" rel="noopener">https://github.com/gcushen/hugo-academic/tree/master/exampleSite/content/post/jupyter&lt;/a>&lt;/p></description></item><item><title/><link>/admin/config.yml</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/admin/config.yml</guid><description/></item><item><title>People</title><link>/2023-committee/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/2023-committee/</guid><description/></item></channel></rss>
