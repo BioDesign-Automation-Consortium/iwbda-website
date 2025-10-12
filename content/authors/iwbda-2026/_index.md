@@ -93,6 +93,7 @@ user_groups:
 ---
 ![IWBDA 2026 Logo](iwbda2026_logo.png)
 
+<!--
 # Announcements
 
 ## IWBDA Scholarships
@@ -104,7 +105,7 @@ This year applications will be accepted via this Google form: [Scholarship Appli
 <b>Now Open:</b> Submissions for our late breaking abstracts for IWBDA!
 
 
-<!--
+
 <b>Now Open:</b> Submissions for our late breaking lightning talks for IWBDA!
 
 Submit a short abstract between 100-200 words in length to be considered for our late breaking lightning talks. You may also include up to one figure, but it’s not a requirement.
