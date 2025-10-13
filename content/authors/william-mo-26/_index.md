@@ -1,20 +1,20 @@
 ---
 # Display name
-title: Chunxiao Liao
+title: William Mo
 
 # Username (this should match the folder name)
 authors:
-- Chunxiao Liao
+- William Mo
 
 #Author Names (alternative spellings etc)
 names:
-- Chunxiao Liao
+- William Mo
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Publicity Chair
+role: Program Chair
 
 # Organizations/Affiliations
 organizations:
@@ -23,7 +23,7 @@ organizations:
 
 #Order to show in compared to other authors when using people section
 #Use 1 for PI, 100 for Current Postdocs, 200 for current phds, 300 for current masters, 400 for current undergrads, 800 for alum postdocs, 810 for alum phds, 820 for alum masters, and 830 for alum undergrads, 900 for tools, 1000 for projects, 900 for tools, 1000 for projects
-weight: 6
+weight: 1
 
 #Utah or CU
 #university: CU
@@ -123,4 +123,6 @@ user_groups:
 # - SynBioHub Plugins Tool
 ---
 
-Chunxiao Liao is a PhD Student under Chris Myers at the Genetic Logic Lab at CU Boulder. She previously earned a Master of Computer Science from Rice University. Her research integrates software engineering, data structures, algorithms, and machine learning to address challenges in Synthetic Biology. She focuses on designing and implementing efficient algorithms and software systems that enable large-scale genomic data analysis and translate computational methods into practical tools for the field.
+William Mo is a PhD Student under Chris Myers at the Genetic Logic Lab at CU Boulder. He is a Draper Scholar in association with the Charles Stark Draper Laboratory and secondarily advised by Draper researcher Chris Vaiana. Before coming to CU, he received a Bachelor’s and Master’s from UT Austin.
+
+His work focuses on analysis of engineered DNA regions and corresponding biosecurity implications. He is primarily interested in bolstering the detection and evaluation of biotechnology-based threats through understudied mechanisms. He has background in and enjoys both wet and dry lab approaches to bio research.
