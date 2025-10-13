@@ -2,7 +2,7 @@ name: Hugo Deploy
 
 on:
   push:
-    branches: [ branch_2026 ] # Deploy on push to main
+    branches: [ main ]
 
 jobs:
   deploy:

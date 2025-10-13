@@ -130,6 +130,5 @@ sections:
       title: Organising Committee
       user_groups:
       - Bio Innovation Week 2026
-      - BioDesign Automation Consortium
 
 ---
