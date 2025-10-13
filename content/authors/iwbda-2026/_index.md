@@ -6,17 +6,17 @@ superuser: false
 
 conf_date: June 18-20, 2026
 
-conf_location: WPI Odeum 79 Park Ave, Worcester, MA 01605
+conf_location: University of Colorado Boulder, Boulder, CO 80309
 
 #conf_hotel: Courtyard by Marriott Worcester
 
 important_dates:
  - name: Abstract Submission
-   date: ~~August 3~~ April 3, 2026
+   date: April 3, 2026
  #- name: Workshop Submission
    #date: ~~August 3~~ August 17, 2025
  - name: Notice of Acceptance
-   date: ~~August 17~~ May 1, 2026
+   date: May 1, 2026
 # - name: Workshops
 #   date: September 11-14, 2023
 # - name: Nona Works
@@ -93,6 +93,7 @@ user_groups:
 ---
 ![IWBDA 2026 Logo](iwbda2026_logo.png)
 
+<!--
 # Announcements
 
 ## IWBDA Scholarships
@@ -104,7 +105,7 @@ This year applications will be accepted via this Google form: [Scholarship Appli
 <b>Now Open:</b> Submissions for our late breaking abstracts for IWBDA!
 
 
-<!--
+
 <b>Now Open:</b> Submissions for our late breaking lightning talks for IWBDA!
 
 Submit a short abstract between 100-200 words in length to be considered for our late breaking lightning talks. You may also include up to one figure, but it’s not a requirement.
