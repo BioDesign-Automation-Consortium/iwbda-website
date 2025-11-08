@@ -2,7 +2,7 @@ name: Hugo Deploy
 
 on:
   push:
-    branches: [ 22-add-a-new-iwbda-image-and-update-commitee-info ]
+    branches: [ main ]
 
 jobs:
   deploy:
