@@ -122,5 +122,4 @@ user_groups:
 # - SBOL Designer Tool
 # - SynBioHub Plugins Tool
 ---
-
-Zane Perry is a Master’s student at the University of Colorado Boulder.
+Zane Perry is a graduate student in Applied Mathematics at the University of Colorado Boulder with undergraduate degrees in computer science and applied mathematics. He works with the Genetic Logic Lab at CU under the support of Dr. Chris Myers. He specializes in system dynamics, machine learning, and applied statistics.
