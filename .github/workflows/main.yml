@@ -2,7 +2,7 @@ name: Hugo Deploy
 
 on:
   push:
-    branches: [ main ]
+    branches: [ 24-update-iwbda-with-tutorial-etc ]
 
 jobs:
   deploy:

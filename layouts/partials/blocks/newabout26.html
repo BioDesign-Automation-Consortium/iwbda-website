@@ -34,8 +34,11 @@
     <div class="row">
       <div class="col-12 col-lg-4">
         <!-- Conference date -->
-        <h2 style="color:rgb(69, 96, 125)">Conference Date</h2>
-        <b>{{ $person.conf_date }}</b>
+        <h2 style="color:rgb(69, 96, 125)">Conference Dates</h2>
+        <b>{{ $person.tutorial_date (Tutorials) }}</b>
+        <b>{{ $person.workshop_date (Workshop) }}</b>
+
+
   
         <!-- Conference Location -->
         <h2 style="color:rgb(69, 96, 125)">Conference Location</h2>
