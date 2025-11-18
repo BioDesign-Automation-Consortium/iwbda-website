@@ -2,7 +2,7 @@ name: Hugo Deploy
 
 on:
   push:
-    branches: [ main ]
+    branches: [ 26-bug-when-build ]
 
 jobs:
   deploy:
