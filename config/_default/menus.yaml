@@ -28,7 +28,7 @@ main:
     #- name: 2023 Special Issue
     #  url: '2023/#special-issue-2023'
     #  weight: 40
-    - name: Organising Committee
+    - name: Organizing Committee
       url: '#organising'
       weight: 50
     #  identifier: iwbda2023oc
