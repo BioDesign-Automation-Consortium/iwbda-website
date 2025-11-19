@@ -74,6 +74,18 @@
       </div>
   
       <div class="col-12 col-lg-8">
+        <!-- Topics of interest -->
+        {{ with $person.topics }}
+          <h2 style="color:rgb(69, 96, 125)">Topics of Interest</h2>
+          <ul>
+            {{ range . }}
+            <li>
+              {{ . }}
+            </li>
+            {{ end }}
+          </ul>
+        {{ end }}
+        
         <!-- Overview -->
         <p></p>
         {{ $person_page.Content }}
@@ -89,18 +101,6 @@
   
             {{ .description }}
           {{ end }}
-        {{ end }}
-  
-        <!-- Topics of interest -->
-        {{ with $person.topics }}
-          <h2 style="color:rgb(69, 96, 125)">Topics of Interest</h2>
-          <ul>
-            {{ range . }}
-            <li>
-              {{ . }}
-            </li>
-            {{ end }}
-          </ul>
         {{ end }}
         
         <!-- Featured Theme -->
