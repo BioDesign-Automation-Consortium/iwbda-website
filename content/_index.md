@@ -125,9 +125,9 @@ sections:
       email: bio.design.automation.inc@gmail.com
 
   - block: people
-    id: organising
+    id: organizing
     content:
-      title: Organising Committee
+      title: Organizing Committee
       user_groups:
       - Bio Innovation Week 2026
 
