@@ -74,22 +74,10 @@
       </div>
   
       <div class="col-12 col-lg-8">
+        
         <!-- Overview -->
         <p></p>
         {{ $person_page.Content }}
-  
-        <!-- Information -->
-        {{ with $person.information }}
-          {{ range .}}
-            {{ if .link }}
-              <h2><a href={{ .link }} target="_blank" rel="noopener"><span style="color:rgb(69, 96, 125)">{{ .name }}</span> <i class="fas fa-chevron-right" aria-hidden="true"></i></a></h2>
-            {{ else }}
-              <h2 style="color:rgb(69, 96, 125)"><b>{{ .name }}</b></h2>
-            {{ end }}
-  
-            {{ .description }}
-          {{ end }}
-        {{ end }}
   
         <!-- Topics of interest -->
         {{ with $person.topics }}
@@ -101,6 +89,19 @@
             </li>
             {{ end }}
           </ul>
+        {{ end }}
+
+        <!-- Information -->
+        {{ with $person.information }}
+          {{ range .}}
+            {{ if .link }}
+              <h2><a href={{ .link }} target="_blank" rel="noopener"><span style="color:rgb(69, 96, 125)">{{ .name }}</span> <i class="fas fa-chevron-right" aria-hidden="true"></i></a></h2>
+            {{ else }}
+              <h2 style="color:rgb(69, 96, 125)"><b>{{ .name }}</b></h2>
+            {{ end }}
+  
+            {{ .description }}
+          {{ end }}
         {{ end }}
         
         <!-- Featured Theme -->
