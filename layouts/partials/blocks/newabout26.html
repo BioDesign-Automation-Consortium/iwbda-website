@@ -74,6 +74,11 @@
       </div>
   
       <div class="col-12 col-lg-8">
+        
+        <!-- Overview -->
+        <p></p>
+        {{ $person_page.Content }}
+  
         <!-- Topics of interest -->
         {{ with $person.topics }}
           <h2 style="color:rgb(69, 96, 125)">Topics of Interest</h2>
@@ -86,10 +91,6 @@
           </ul>
         {{ end }}
         
-        <!-- Overview -->
-        <p></p>
-        {{ $person_page.Content }}
-  
         <!-- Information -->
         {{ with $person.information }}
           {{ range .}}
