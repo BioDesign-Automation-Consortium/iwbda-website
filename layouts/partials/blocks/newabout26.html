@@ -91,12 +91,6 @@
           </ul>
         {{ end }}
 
-        <!-- Tutorials -->
-        {{ with $person.tutorials }}
-          <h2 style="color:rgb(69, 96, 125)">Tutorials</h2>
-          <div>{{ . | markdownify }}</div>
-        {{ end }}
-
         <!-- Information -->
         {{ with $person.information }}
           {{ range .}}
