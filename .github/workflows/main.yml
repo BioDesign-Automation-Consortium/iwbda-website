@@ -2,7 +2,7 @@ name: Hugo Deploy
 
 on:
   push:
-    branches: [ main ]
+    branches: [ add_registration ]
 
 jobs:
   deploy:
