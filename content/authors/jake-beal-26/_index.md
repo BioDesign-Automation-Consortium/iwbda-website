@@ -1,20 +1,20 @@
 ---
 # Display name
-title: Aaron Adler
+title: Dr. Jake Beal
 
 # Username (this should match the folder name)
 authors:
-- BDAC Aaron Adler
+- Dr. Jake Beal
 
 #Author Names (alternative spellings etc)
 names:
-- Aaron Adler
+- Dr. Jake Beal
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Finance Chair
+role: Raytheon BBN Technologies
 
 # Organizations/Affiliations
 organizations:
@@ -23,7 +23,7 @@ organizations:
 
 #Order to show in compared to other authors when using people section
 #Use 1 for PI, 100 for Current Postdocs, 200 for current phds, 300 for current masters, 400 for current undergrads, 800 for alum postdocs, 810 for alum phds, 820 for alum masters, and 830 for alum undergrads, 900 for tools, 1000 for projects, 900 for tools, 1000 for projects
-weight: 2
+weight: 1
 
 #Utah or CU
 #university: CU
@@ -112,7 +112,7 @@ social:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Bio Innovation Week 2026
+- Bio Innovation Week 2026 program
 
 # # #any user groups to display on the page
 # display_groups:
@@ -123,4 +123,4 @@ user_groups:
 # - SynBioHub Plugins Tool
 ---
 
-Dr. Aaron Adler received his Ph.D. in Computer Science and Electrical Engineering from MIT in 2009. He is currently a Senior Scientist at Raytheon BBN Technologies in Columbia, MD and Cambridge, MA.
+Dr. Jacob Beal is a Senior Scientist at Raytheon BBN Technologies, where he leads research on synthetic biology and distributed systems engineering. His work in synthetic biology includes development of standards for representation and communication of biological designs and experiments, signature-based detection of controlled pathogens, methods for calibrated flow cytometry, precision analysis and design of genetic regulatory networks, and engineering of biological information processing devices. Dr. Beal is also the Community Liaison for the SBOL Industrial Consortium and a member of the SBOL Steering Committee.

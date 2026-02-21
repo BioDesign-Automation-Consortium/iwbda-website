@@ -106,7 +106,7 @@ sections:
           - **13:00-13:30** Session 4
           - **14:30-15:00** Coffee Break
           - **15:00-15:30** Session 5
-          - **16:30-17:00** End 
+          - **16:30-17:00** Closing Remarks 
   # - block: markdown
   #   id: parking
   #   content:
