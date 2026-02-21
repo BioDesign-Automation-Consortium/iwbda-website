@@ -46,69 +46,59 @@ sections:
     design:
       columns: '2'
 
-  # - block: markdown
-  #   id: agenda
-  #   content:
-  #     title: Agenda
-  #     text: |-
-  #         ## Sunday, September 7 - Rubin Campus Center Odeum (see directions below)
-  #         - **08:30-09:00** Registration and light breakfast
-  #         - **09:00-09:10** Welcome and kick-off of Bio Innovation Week
-  #         - **09:10-10:10** SBOL and SBOL Visual Workshop
-  #         - **10:10-10:40** Coffee break
-  #         - **10:40-11:40** Standards & Interoperability
-  #           - SYNBICT 2.0: Scalable Synthetic Biology Part Annotation at Speed
-  #           - Excel-SBOL Converter Version 2
-  #           - SynBioKit: A Visualization and Validation Platform for Biological Designs
-  #         - **11:40-13:00** Lunch
-  #         - **13:00-14:20** AI & Data-Driven Engineering
-  #           - GeneForge: Agentic AI Server for Design Automation
-  #           - SeqTrainer: Encoding Synthetic Biology Data for Machine Learning
-  #           - Towards a virtual GBM stem cell through integration of LLMs and graph analysis
-  #           - ligifyDB: Extending the Biosensor Knowledgebase with Automated Annotation
-  #         - **14:20-15:00** Coffee break
-  #         - **15:00-16:00** WPI Tour
+  - block: markdown
+    id: agenda
+    content:
+      title: Agenda
+      text: |-
+          ## Saturday, June 13, 2026 - Data Tutorials. Location: KOBL 352
+          - **08:30-09:00** Session 1
+          - **09:00-09:30** 
+          - **10:00-10:30** Break
+          - **10:30-11:00** Session 2
+          - **11:00-11:30** 
+          - **12:00-12:30** Lunch Break
+          - **13:30-14:00** Session 3 
+          - **14:00-14:30** 
+          - **15:00-15:30** Break
+          - **15:30-16:00** Session 4 
+          - **16:00-16:30** 
 
-  #         ## Monday, September 8 - Rubin Campus Center Odeum (see directions below)
-  #         - **08:30-09:00** Registration and light breakfast
-  #         - **09:00-10:00** Keynote - Dr. Katie Galloway: Engineering high-precision, dynamic genetic control systems for cell fate programming
-  #         - **10:00-10:30** Coffee break
-  #         - **10:30-11:30** Keynote - Dr. Niles A. Pierce: NUPACK: Analysis and Design of Nucleic Acid Structures, Devices, and Systems
-  #         - **11:30-13:00** Lunch
-  #         - **13:00-14:00** Global Access to Synthetic Biology
-  #         - **14:00-14:30** Coffee break
-  #         - **14:30-15:30** Design Automation, Planning & Visualization
-  #           - Rule-based generation of synthetic genetic circuits - recent progress in v 2.0 -
-  #           - BuildPlanner: A tool for connecting the Design and Build stages of the DBTL cycle
-  #           - LaNVis: Biological Constraint-based Large Network Visualizer
-  #         - **17:00-19:00** Dinner
+          ## Sunday, June 14, 2026 - Infrastructure Tutorials. Location: KOBL 352
+          - **08:30-09:00** Session 5 
+          - **09:00-09:30** 
+          - **10:00-10:30** Break
+          - **10:30-11:00** Session 6 
+          - **11:00-11:30** 
+          - **12:00-12:30** End 
 
-  #         ## Tuesday, September 9 - Rubin Campus Center Odeum (see directions below)
-  #         - **08:30-09:00** Registration and light breakfast
-  #         - **09:00-10:00** Keynote - Dr. Samuel W. Schaffter: RNA strand exchange circuits as a general-purpose molecular programming language for synthetic biology
-  #         - **10:00-10:30** Coffee break
-  #         - **10:30-11:30** Keynote - Dr. Mark Knappenberger: Designing Translation-competent mRNA Origami Nanoparticles within the OxRNA Ecosystem
-  #         - **11:30-13:00** Lunch
-  #         - **13:00-14:40** Modeling, Verification & Experimental Platforms
-  #           - Degradation-Driven Failure Minimization in Genetic Circuits Through Model Checking
-  #           - Stochastic analysis of Single-Cell Dynamics and Population-Level Behavior in Biosensors
-  #           - Patterned Polyacrylamide Gel as a Testbed for Molecular Communication
-  #           - Digital Microfluidics for DNA Data Storage and Bio-Computation
-  #           - Dr. Plant, a Plants’ Disease Detection Model using Machine Learning
-  #         - **14:40-15:00** Coffee break
-  #         - **15:00-15:15** Closing Remarks
+          ## Thursday, June 18, 2026 - Hybrid SEED Day. Location: KOBL 352
+          - **11:00-11:30** SEED Session 
+          - **13:00-13:30** Transition to Boulder 
+          - **16:00-16:30** Panel Session 
+          - **17:30** Reception 
 
-  #         ## Wednesday, September 10 (Optional Satellite Day) - 610 Commonwealth Ave, 4th Floor
-  #         ### [Registration](https://docs.google.com/forms/d/1P9u_PO4yY52I-lM9PhXuhqfJKDQCVNWok-oHaVp6mNY/edit)
-  #         - 10:00 Meet at Boston University
-  #         - 10:10 DAMP Lab Overview
-  #         - 10:25 DAMP Lab Tour
-  #         - 10:45am Walk to Asimov from BU
-  #         - 11:00 Asimov Overview
-  #         - 11:30 Asimov Tour
-  #         - 12:00 Lunch in the Fenway area (self-organized)
-  #         - 14:00 MIT Tour
+          ## Friday, June 19, 2026 - Sessions + NONA. Location: ECCS 201
+          - **08:30-09:00** Breakfast
+          - **09:00-09:30** Invited Speaker
+          - **10:00-10:30** Coffee Break
+          - **10:30-11:00** Session 1
+          - **12:00-12:30** Lunch
+          - **13:00-13:30** Session 2
+          - **14:30-15:00** Coffee Break
+          - **15:00-15:30** Nonatalks 
+          - **16:00-16:30** Discussion 
 
+          ## Saturday, June 20, 2026 - Closing Sessions. Location: ECCS 201
+          - **08:30-09:00** Breakfast
+          - **09:00-09:30** Invited Speaker
+          - **10:00-10:30** Coffee Break
+          - **10:30-11:00** Session 3
+          - **12:00-12:30** Lunch
+          - **13:00-13:30** Session 4
+          - **14:30-15:00** Coffee Break
+          - **15:00-15:30** Session 5
+          - **16:30-17:00** End 
   # - block: markdown
   #   id: parking
   #   content:
@@ -130,5 +120,12 @@ sections:
       title: Organizing Committee
       user_groups:
       - Bio Innovation Week 2026
+  
+  - block: people
+    id: program
+    content:
+      title: Program Committee
+      user_groups:
+      - Bio Innovation Week 2026 program
 
 ---

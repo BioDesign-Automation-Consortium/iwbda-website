@@ -8,9 +8,9 @@ tutorial_date: June 13-14, 2026
 
 workshop_date: June 18-20, 2026
 
-conf_location: University of Colorado Boulder, Boulder, CO 80309
+conf_location: 13-14 KOBL 352 and surrounding areas; 18th reception KOBL 352; 19-20 ECCS 201. University of Colorado Boulder, Boulder, CO 80309
 
-#conf_hotel: Courtyard by Marriott Worcester
+conf_hotel: "[Limelight Hotel](https://www.limelighthotels.com/boulder) Discount code coming soon."
 
 important_dates:
  - name: Abstract Submission
