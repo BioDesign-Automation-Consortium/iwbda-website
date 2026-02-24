@@ -105,17 +105,11 @@ sections:
   - block: markdown
     id: parking
     content:
-      title: Parking
+      title: Location & Accommodation
       text: |-
           ![Parking](cuparking.png)
-
-  - block: contact
-    id: contact
-    content:
-      title: Contact Us
-      text: |-
-        Interested in participating, organizing, or sponsoring IWBDA or Bio Innovation Week? Reach out to us for more information on how you can get involved in IWBDA, IWBMA, the Nona Works Hackathon, or SBOL Workshops. We look forward to hearing from you!
-      email: bio.design.automation.inc@gmail.com
+      conf_hotel: |-
+        [Limelight Hotel](https://www.limelighthotels.com/boulder) Discount code coming soon.
 
   - block: people
     id: organizing
@@ -147,4 +141,12 @@ sections:
           - [Jake Beal](https://www.linkedin.com/in/jake-beal/) BBN
           - [Tae Seok Moon](https://www.jcvi.org/about/tae-seok-moon) J. Craig Venter Institute
           - [Eric Young](https://www.wpi.edu/people/faculty/emyoung) Worcester Polytechnic Institut (WPI)
+  
+  - block: contact
+    id: contact
+    content:
+      title: Contact Us
+      text: |-
+        Interested in participating, organizing, or sponsoring IWBDA or Bio Innovation Week? Reach out to us for more information on how you can get involved in IWBDA, IWBMA, the Nona Works Hackathon, or SBOL Workshops. We look forward to hearing from you!
+      email: bio.design.automation.inc@gmail.com
 ---
