@@ -100,12 +100,12 @@ sections:
           - **15:00-16:30** Session 5
           - **16:30-17:00** Closing Remarks
 
-  # - block: markdown
-  #   id: parking
-  #   content:
-  #     title: Parking
-  #     text: |-
-  #         ![Parking](parking.png)
+  - block: markdown
+    id: parking
+    content:
+      title: Parking
+      text: |-
+          ![Parking](cuparking.png)
 
   - block: contact
     id: contact
