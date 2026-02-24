@@ -1,29 +1,29 @@
 ---
 # Display name
-title: Aaron Adler
+title: Dr. David J. Ross (Fed)
 
 # Username (this should match the folder name)
 authors:
-- BDAC Aaron Adler
+- Dr. David J. Ross (Fed)
 
 #Author Names (alternative spellings etc)
 names:
-- Aaron Adler
+- Dr. David J. Ross (Fed)
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Finance Chair
+role: NIST
 
 # Organizations/Affiliations
 organizations:
-- name: Raytheon BBN Technologies
+- name: NIST
   url: ""
 
 #Order to show in compared to other authors when using people section
 #Use 1 for PI, 100 for Current Postdocs, 200 for current phds, 300 for current masters, 400 for current undergrads, 800 for alum postdocs, 810 for alum phds, 820 for alum masters, and 830 for alum undergrads, 900 for tools, 1000 for projects, 900 for tools, 1000 for projects
-weight: 2
+weight: 1
 
 #Utah or CU
 #university: CU
@@ -112,7 +112,7 @@ social:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Bio Innovation Week 2026
+- Bio Innovation Week 2026 program
 
 # # #any user groups to display on the page
 # display_groups:
@@ -123,4 +123,4 @@ user_groups:
 # - SynBioHub Plugins Tool
 ---
 
-Dr. Aaron Adler received his Ph.D. in Computer Science and Electrical Engineering from MIT in 2009. He is currently a Senior Scientist at Raytheon BBN Technologies in Columbia, MD and Cambridge, MA.
+David Ross is the lead scientist for the Living Measurement Systems Foundry in the Cellular Engineering Group at NIST. He currently works on methods for predictive engineering of biological function. His most recent work has focused on developing measurements and standards for large-scale, AI-ready biological data and machine-learning approaches to predict protein function using large-scale data.

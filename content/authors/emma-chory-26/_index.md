@@ -1,29 +1,29 @@
 ---
 # Display name
-title: Aaron Adler
+title: Dr. Emma J Chory
 
 # Username (this should match the folder name)
 authors:
-- BDAC Aaron Adler
+- Dr. Emma J Chory
 
 #Author Names (alternative spellings etc)
 names:
-- Aaron Adler
+- Dr. Emma J Chory
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Finance Chair
+#role: Co-Web Chair
 
 # Organizations/Affiliations
 organizations:
-- name: Raytheon BBN Technologies
+- name: Duke University
   url: ""
 
 #Order to show in compared to other authors when using people section
 #Use 1 for PI, 100 for Current Postdocs, 200 for current phds, 300 for current masters, 400 for current undergrads, 800 for alum postdocs, 810 for alum phds, 820 for alum masters, and 830 for alum undergrads, 900 for tools, 1000 for projects, 900 for tools, 1000 for projects
-weight: 2
+weight: 5
 
 #Utah or CU
 #university: CU
@@ -112,7 +112,7 @@ social:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Bio Innovation Week 2026
+- 2026 Speakers
 
 # # #any user groups to display on the page
 # display_groups:
@@ -122,5 +122,20 @@ user_groups:
 # - SBOL Designer Tool
 # - SynBioHub Plugins Tool
 ---
+[Dr. Emma Chory](https://www.chorylab.com/emmachory) an Assistant Professor of Biomedical Engineering at Duke University. She received her B.S. in Chemical Engineering from Northeastern University and her M.S. & Ph.D. in Chemical Engineering from Stanford University.
 
-Dr. Aaron Adler received his Ph.D. in Computer Science and Electrical Engineering from MIT in 2009. He is currently a Senior Scientist at Raytheon BBN Technologies in Columbia, MD and Cambridge, MA.
+Her interest in epigenetics began while working with Dr. James Bradner at Harvard Medical School and the Dana-Farber Cancer Institute, where she developed inhibitors of histone-modifying proteins implicated in Mixed Lineage Leukemia. As a graduate student with Dr. Gerald Crabtree at Stanford, she studied chromatin remodeling complexes and used synthetic biology in mammalian stem cells, coupled with first-principle simulations to uncover how nucleosome turnover establishes cell fate and becomes dysregulated in cancer.
+
+During her postdoctoral research with Dr. Kevin Esvelt and Dr. Jim Collins at MIT, she developed systems that combined continuous evolution with custom robotics to enable high-throughput, systematic, and quantitative studies of protein function.
+
+At Duke, her lab uses a combination of synthetic biology, chemical biology, first principles, robotics, and sequence-to-function approaches to generate new tools for understanding molecular biology and developing next-generation therapeutics.
+
+She is a Hypothesis Fund Awardee and recipient of the SLAS Innovation Award. 
+
+
+<!-- 
+## Keynote Abstract
+__Engineering high-precision, dynamic genetic control systems for cell fate programming__
+
+Integrating synthetic circuitry into larger transcriptional networks to mediate predictable cellular behaviors remains a challenge within synthetic biology. In particular, the stochastic nature of transcription makes coordinating expression across multiple genetic elements difficult. Further, delivery of large genetic cargoes limits the efficiency of cellular engineering. Thus, our work is focused on the design of highly-compact genetic tools with a minimal genomic footprint. Simultaneously, we have been developing cocktails of transgenes that are capable of rapidly convert cells into neurons. The sparse and stochastic nature of reprogramming has obscured our understanding of how transcription factors drive cells to new identities. To overcome this limit, we developed a compact, portable reprogramming system that increases direct conversion of fibroblasts to motor neurons by two orders of magnitude. Low rates of direct conversion have previously limited the potential for central nervous system (CNS) applications. Using compact, optimized, polycistronic cassettes, we generate motor neurons that graft with the murine central nervous system, demonstrating the potential for in vivo therapies. With improved tools for identifying cell-fate regulators and tracking subpopulations, we are building genetic controllers that can regulate transgenic cargoes and cell fate in primary cells. Developing genetic control systems provides an essential foundation for realizing the promise of synthetic biology in translational therapies.
+-->

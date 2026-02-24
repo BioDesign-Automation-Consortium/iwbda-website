@@ -1,29 +1,28 @@
 ---
 # Display name
-title: Aaron Adler
+title: Dr. Martín Gutiérrez 
 
 # Username (this should match the folder name)
 authors:
-- BDAC Aaron Adler
+- Dr. Martín Gutiérrez 
 
 #Author Names (alternative spellings etc)
 names:
-- Aaron Adler
-
+- Dr. Martín Gutiérrez 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Finance Chair
+role: Universidad Rey Juan Carlos
 
 # Organizations/Affiliations
 organizations:
-- name: Raytheon BBN Technologies
+- name: Universidad Rey Juan Carlos
   url: ""
 
 #Order to show in compared to other authors when using people section
 #Use 1 for PI, 100 for Current Postdocs, 200 for current phds, 300 for current masters, 400 for current undergrads, 800 for alum postdocs, 810 for alum phds, 820 for alum masters, and 830 for alum undergrads, 900 for tools, 1000 for projects, 900 for tools, 1000 for projects
-weight: 2
+weight: 1
 
 #Utah or CU
 #university: CU
@@ -112,7 +111,7 @@ social:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Bio Innovation Week 2026
+- Bio Innovation Week 2026 program
 
 # # #any user groups to display on the page
 # display_groups:
@@ -123,4 +122,8 @@ user_groups:
 # - SynBioHub Plugins Tool
 ---
 
-Dr. Aaron Adler received his Ph.D. in Computer Science and Electrical Engineering from MIT in 2009. He is currently a Senior Scientist at Raytheon BBN Technologies in Columbia, MD and Cambridge, MA.
+Assistant Professor at Universidad Rey Juan Carlos and Director of Research at the Cámara Peruana de Inteligencia Artificial. With several years of teaching experience, he has delivered more than 100 course instances across over 20 different subjects in Computer Science.
+
+He holds a Ph.D. in Artificial Intelligence with a focus on Synthetic Biology from the Universidad Politécnica de Madrid (UPM), Spain.
+
+His research and professional interests include Artificial Intelligence, Databases, Logic, and Synthetic Biology.

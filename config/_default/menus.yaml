@@ -22,20 +22,23 @@ main:
     - name: Submission Guidelines
       url: '#submission'
       weight: 30
-    - name: Call for Workshops
-      url: '#cfw'
-      weight: 40
+    # - name: Call for Workshops
+    #   url: '#cfw'
+    #   weight: 40
     #- name: 2023 Special Issue
     #  url: '2023/#special-issue-2023'
     #  weight: 40
     - name: Organizing Committee
       url: '#organizing'
       weight: 50
+    # - name: Program Committee
+    #   url: '#program'
+    #   weight: 60
     #  identifier: iwbda2023oc
     - name: Previous Years
       url: 'previous-years'
-      weight: 60
+      weight: 70
     - name: Previous Special Issues
       url: 'special-issues'
-      weight: 70
+      weight: 80
    

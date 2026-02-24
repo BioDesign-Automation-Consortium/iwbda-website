@@ -1,29 +1,29 @@
 ---
 # Display name
-title: Aaron Adler
+title: Dr. Daisuke Kiga
 
 # Username (this should match the folder name)
 authors:
-- BDAC Aaron Adler
+- Dr. Daisuke Kiga
 
 #Author Names (alternative spellings etc)
 names:
-- Aaron Adler
+- Dr. Daisuke Kiga
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Finance Chair
+role: Waseda University
 
 # Organizations/Affiliations
 organizations:
-- name: Raytheon BBN Technologies
+- name: Waseda University
   url: ""
 
 #Order to show in compared to other authors when using people section
 #Use 1 for PI, 100 for Current Postdocs, 200 for current phds, 300 for current masters, 400 for current undergrads, 800 for alum postdocs, 810 for alum phds, 820 for alum masters, and 830 for alum undergrads, 900 for tools, 1000 for projects, 900 for tools, 1000 for projects
-weight: 2
+weight: 1
 
 #Utah or CU
 #university: CU
@@ -112,7 +112,7 @@ social:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Bio Innovation Week 2026
+- Bio Innovation Week 2026 program
 
 # # #any user groups to display on the page
 # display_groups:
@@ -123,4 +123,4 @@ user_groups:
 # - SynBioHub Plugins Tool
 ---
 
-Dr. Aaron Adler received his Ph.D. in Computer Science and Electrical Engineering from MIT in 2009. He is currently a Senior Scientist at Raytheon BBN Technologies in Columbia, MD and Cambridge, MA.
+Prof. Daisuke Kiga is currently a professor at the DDepartment of Electrical Engineering and Bioscience, Waseda University since 2016 in Japan. Before joining the Waseda University, he was an associate professor  at the Department of Computational Intelligence and Systems Science of Tokyo Tech. At Tokyo Tech, he coached iGEM teams who got Track awards three years in a row.  He completed his Ph.D. in the Yokoyama Lab at the Department of Biophysics and Biochemistry at the University of Tokyo. He has focused on the synthetic biology of genetic code and artificial genetic circuits in microorganisms. His research group is highly interested in biology-by-design. By model-based combination of macromolecules, he has implemented artificial genetic circuits to understand design principles of living systems. Also, he has shown that the number of amino acids in a genetic code can be increased or decreased.  In other words, Magic 20 is not defined by its physicochemical properties. In FY2015, he was awarded the Japan Society for the Promotion of Science (JSPS) PRIZE, titled "Constructions of Artificial Life System by Synthetic Biology".

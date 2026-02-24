@@ -1,29 +1,29 @@
 ---
 # Display name
-title: Aaron Adler
+title: Dr. Caleb Bashor
 
 # Username (this should match the folder name)
 authors:
-- BDAC Aaron Adler
+- Dr. Caleb Bashor
 
 #Author Names (alternative spellings etc)
 names:
-- Aaron Adler
+- Dr. Caleb Bashor
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Finance Chair
+role: Rice University
 
 # Organizations/Affiliations
 organizations:
-- name: Raytheon BBN Technologies
+- name: Rice University
   url: ""
 
 #Order to show in compared to other authors when using people section
 #Use 1 for PI, 100 for Current Postdocs, 200 for current phds, 300 for current masters, 400 for current undergrads, 800 for alum postdocs, 810 for alum phds, 820 for alum masters, and 830 for alum undergrads, 900 for tools, 1000 for projects, 900 for tools, 1000 for projects
-weight: 2
+weight: 1
 
 #Utah or CU
 #university: CU
@@ -112,7 +112,7 @@ social:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Bio Innovation Week 2026
+- Bio Innovation Week 2026 program
 
 # # #any user groups to display on the page
 # display_groups:
@@ -123,4 +123,10 @@ user_groups:
 # - SynBioHub Plugins Tool
 ---
 
-Dr. Aaron Adler received his Ph.D. in Computer Science and Electrical Engineering from MIT in 2009. He is currently a Senior Scientist at Raytheon BBN Technologies in Columbia, MD and Cambridge, MA.
+The Bashor lab uses synthetic biology approaches to reprogram the behavior of human cells. We engineer synthetic regulatory circuitry, including gene regulation and signal transduction networks, to enable cells to sense, compute, and respond to their environment, reshaping cellular phenotype to support the development of transformative cell-based therapies.
+
+Our engineering approach integrates theory and computational modeling with high-throughput experimental platforms that enable building and testing of synthetic regulatory programs at scale. We use machine learning and artificial intelligence models to map regulatory circuit design-to-function relationships, enabling faster and more predictive genetic design.
+
+We apply these capabilities to discover new mechanistic principles for establishing synthetic control of diverse cellular processes, such as decision-making, and cell-state control, migration/localization, and secretion. Working across multiple human cell types, including immune effector cells (e.g., T cells and macrophages) and stem cells (iPSCs and MSCs) we focus on converting these principles into broadly deployable biotechnology tools for engineering human cells to function reliably in complex environments.
+
+Our ultimate goal is to translate these technologies into safer, more effective therapies for indications spanning inflammatory disorders, trauma, and cancer. Efforts include sense-and-response programs that sharpen adoptive cell therapy specificity and multi-gene regulatory systems that boost therapeutic bioproduction or direct cell differentiation. We collaborate closely with translational and clinical researchers to ensure our designs meet real-world constraints and move efficiently toward therapeutic impact.
