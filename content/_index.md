@@ -59,54 +59,47 @@ sections:
     content:
       title: Agenda
       text: |-
-          ## Saturday, June 13, 2026 - Data Tutorials. Location: KOBL 352
-          - **08:30-09:00** Session 1
-          - **09:00-09:30** 
+          ## Saturday, June 13, 2026 - IWBDA Tutorials. Location: KOBL 352
+          - **08:30-10:00** Session 1
           - **10:00-10:30** Break
-          - **10:30-11:00** Session 2
-          - **11:00-11:30** 
+          - **10:30-12:00** Session 2
           - **12:00-12:30** Lunch Break
-          - **13:30-14:00** Session 3 
-          - **14:00-14:30** 
+          - **13:30-15:00** Session 3 
           - **15:00-15:30** Break
-          - **15:30-16:00** Session 4 
-          - **16:00-16:30** 
+          - **15:30-17:00** Session 4 
 
-          ## Sunday, June 14, 2026 - Infrastructure Tutorials. Location: KOBL 352
-          - **08:30-09:00** Session 5 
-          - **09:00-09:30** 
+          ## Sunday, June 14, 2026 - IWBDA Tutorials. Location: KOBL 352
+          - **08:30-10:00** Session 5 
           - **10:00-10:30** Break
-          - **10:30-11:00** Session 6 
-          - **11:00-11:30** 
-          - **12:00-12:30** End 
+          - **10:30-12:00** Session 6
+          - **12:00-12:30** End
 
-          ## Thursday, June 18, 2026 - Hybrid SEED Day. Location: KOBL 352
-          - **11:00-11:30** SEED Session 
-          - **13:00-13:30** Transition to Boulder 
-          - **16:00-16:30** Panel Session 
-          - **17:30** Reception 
+          ## Thursday, June 18, 2026 - IWBDA Workshop. Location: KOBL 352
+          - **16:00-17:30** Panel Session 
+          - **17:30** Reception
 
-          ## Friday, June 19, 2026 - Sessions + NONA. Location: ECCS 201
+          ## Friday, June 19, 2026 - IWBDA Workshop. Location: ECCS 201
           - **08:30-09:00** Breakfast
-          - **09:00-09:30** Invited Speaker
+          - **09:00-10:00** Invited Speaker
           - **10:00-10:30** Coffee Break
-          - **10:30-11:00** Session 1
-          - **12:00-12:30** Lunch
-          - **13:00-13:30** Session 2
+          - **10:30-12:00** Session 1
+          - **12:00-13:00** Lunch
+          - **13:00-14:30** Session 2
           - **14:30-15:00** Coffee Break
-          - **15:00-15:30** Nonatalks 
-          - **16:00-16:30** Discussion 
+          - **15:00-16:00** Nona talks 
+          - **16:00-17:00** DevCell Discussion
 
-          ## Saturday, June 20, 2026 - Closing Sessions. Location: ECCS 201
+          ## Saturday, June 20, 2026 - IWBDA Workshop. Location: ECCS 201
           - **08:30-09:00** Breakfast
-          - **09:00-09:30** Invited Speaker
+          - **09:00-10:00** Invited Speaker
           - **10:00-10:30** Coffee Break
-          - **10:30-11:00** Session 3
-          - **12:00-12:30** Lunch
-          - **13:00-13:30** Session 4
+          - **10:30-12:00** Session 3
+          - **12:00-13:00** Lunch
+          - **13:00-14:30** Session 4
           - **14:30-15:00** Coffee Break
-          - **15:00-15:30** Session 5
-          - **16:30-17:00** Closing Remarks 
+          - **15:00-16:30** Session 5
+          - **16:30-17:00** Closing Remarks
+          
   # - block: markdown
   #   id: parking
   #   content:
