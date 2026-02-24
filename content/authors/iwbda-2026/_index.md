@@ -8,12 +8,12 @@ tutorial_date: June 13-14, 2026
 
 workshop_date: June 18-20, 2026
 
-conf_location: |
-  June 13-14, 18: KOBL 352
-  June 19-20: ECCS 201
+conf_location1: |-
+  June 13-14, 18: KOBL 352 
+conf_location2: |-
+  June 19-20: ECCS 201 
+conf_location3: |-
   University of Colorado Boulder
-
-conf_hotel: "[Limelight Hotel](https://www.limelighthotels.com/boulder) Discount code coming soon."
 
 important_dates:
  - name: Abstract Submission

@@ -10,18 +10,19 @@ main:
     #- name: Keynote
     #  url: '/2023/#keynote'
     #  weight: 10
+    - name: Submission Guidelines
+      url: '#submission'
+      weight: 15
     - name: Registration
       url: '#registration'
-      weight: 15
+      weight: 30
     #- name: Logistics
     #  url: '/2023/#logistics'
     #  weight: 20
     #- name: Agenda
     #  url: '/2023/#agenda'
     #  weight: 30
-    - name: Submission Guidelines
-      url: '#submission'
-      weight: 30
+  
     # - name: Call for Workshops
     #   url: '#cfw'
     #   weight: 40
