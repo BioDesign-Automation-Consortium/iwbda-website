@@ -99,7 +99,7 @@ sections:
           - **14:30-15:00** Coffee Break
           - **15:00-16:30** Session 5
           - **16:30-17:00** Closing Remarks
-          
+
   # - block: markdown
   #   id: parking
   #   content:
@@ -122,11 +122,27 @@ sections:
       user_groups:
       - Bio Innovation Week 2026
   
-  - block: people
-    id: program
+  # - block: people
+  #   id: program
+  #   content:
+  #     title: Program Committee
+  #     user_groups:
+  #     - Bio Innovation Week 2026 program
+  
+  - block: markdown
+    id: agenda
     content:
       title: Program Committee
-      user_groups:
-      - Bio Innovation Week 2026 program
-
+      text: |
+          - [Lukas Bücherl](https://engineering.usu.edu/be/people/faculty/buecherl-lukas) Utah State University
+          - [David J. Ross (Fed)](https://www.nist.gov/people/david-j-ross) NIST
+          - [Aaron Adler](https://www.linkedin.com/in/adadler/) BBN
+          - [Martín Gutiérrez](https://servicios.urjc.es/pdi/ver/martin.gutierrez) Universidad Rey Juan Carlos
+          - [Caleb Bashor](https://profiles.rice.edu/faculty/caleb-bashor) Rice University
+          - [Zhen Zhang](https://engineering.usu.edu/ece/people/faculty/zhang-zhen) Utah State University
+          - [Harrison Steel](https://eng.ox.ac.uk/people/harrison-steel) University of Oxford
+          - [Daisuke Kiga](https://kigalab.w.waseda.jp/) Waseda University
+          - [Jake Beal](https://www.linkedin.com/in/jake-beal/) BBN
+          - [Tae Seok Moon](https://www.jcvi.org/about/tae-seok-moon) J. Craig Venter Institute
+          - [Eric Young](https://www.wpi.edu/people/faculty/emyoung) Worcester Polytechnic Institut (WPI)
 ---

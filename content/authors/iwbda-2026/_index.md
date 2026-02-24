@@ -128,16 +128,3 @@ Increasing the efficiency of biological processes and workflows with biodesign a
 
 # Tutorials
 Before the [SEED Conference](https://synbioconference.org/2026) this year, please join us in Boulder, CO for the IWBDA 2026 Tutorials on June 13-14, an immersive hands-on experience with synthetic biology software tools.  Parallel tutorials will be offered for users and developers, allowing participants to tailor their learning experience to their level of expertise and interests.  The user tutorials will guide participants through the complete synthetic biology workflow using open-source tools. The developer tutorial will introduce libraries and other resources to create standard-enabled synthetic biology software tools.  These tutorials will combine practical exercises with interactive discussions.  A goal of these tutorials will be to bridge the gap between tool developers and experimental biologists, fostering a shared understanding of the challenges and opportunities in biodesign automation. These tutorials will provide a unique environment to learn, collaborate, and contribute to the future of reproducible, data-driven synthetic biology.
-
-## Program Committee:
-- [Lukas Bücherl](https://engineering.usu.edu/be/people/faculty/buecherl-lukas) Utah State University
-- [David J. Ross (Fed)](https://www.nist.gov/people/david-j-ross) NIST
-- [Aaron Adler](https://www.linkedin.com/in/adadler/) BBN
-- [Martín Gutiérrez](https://servicios.urjc.es/pdi/ver/martin.gutierrez) Universidad Rey Juan Carlos
-- [Caleb Bashor](https://profiles.rice.edu/faculty/caleb-bashor) Rice University
-- [Zhen Zhang](https://engineering.usu.edu/ece/people/faculty/zhang-zhen) Utah State University
-- [Harrison Steel](https://eng.ox.ac.uk/people/harrison-steel) University of Oxford
-- [Daisuke Kiga](https://kigalab.w.waseda.jp/) Waseda University
-- [Jake Beal](https://www.linkedin.com/in/jake-beal/) BBN
-- [Tae Seok Moon](https://www.jcvi.org/about/tae-seok-moon) J. Craig Venter Institute
-- [Eric Young](https://www.wpi.edu/people/faculty/emyoung) Worcester Polytechnic Institut (WPI)
