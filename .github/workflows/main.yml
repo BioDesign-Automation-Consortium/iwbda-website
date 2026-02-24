@@ -2,7 +2,7 @@ name: Hugo Deploy
 
 on:
   push:
-    branches: [ add_more ]
+    branches: [ main ]
 
 jobs:
   deploy:

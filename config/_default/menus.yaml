@@ -31,9 +31,9 @@ main:
     - name: Organizing Committee
       url: '#organizing'
       weight: 50
-    - name: Program Committee
-      url: '#program'
-      weight: 60
+    # - name: Program Committee
+    #   url: '#program'
+    #   weight: 60
     #  identifier: iwbda2023oc
     - name: Previous Years
       url: 'previous-years'
