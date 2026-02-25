@@ -107,9 +107,11 @@ sections:
     content:
       title: Location & Accommodation
       text: |-
-          ![Parking](cuparking.png)
-      conf_hotel: |-
-        [Limelight Hotel](https://www.limelighthotels.com/boulder) Discount code coming soon.
+          Conference Location:   
+            <div style="text-align: center;">
+              <img src="cuparking.png" alt="Parking" />
+            </div>
+          Hotel: [Limelight Hotel](https://www.limelighthotels.com/boulder) Discount code coming soon.
 
   - block: people
     id: organizing

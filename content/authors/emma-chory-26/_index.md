@@ -122,7 +122,7 @@ user_groups:
 # - SBOL Designer Tool
 # - SynBioHub Plugins Tool
 ---
-[Dr. Emma Chory](https://www.chorylab.com/emmachory) an Assistant Professor of Biomedical Engineering at Duke University. She received her B.S. in Chemical Engineering from Northeastern University and her M.S. & Ph.D. in Chemical Engineering from Stanford University.
+[Dr. Emma Chory](https://www.chorylab.com/emmachory) is an Assistant Professor of Biomedical Engineering at Duke University. She received her B.S. in Chemical Engineering from Northeastern University and her M.S. & Ph.D. in Chemical Engineering from Stanford University.
 
 Her interest in epigenetics began while working with Dr. James Bradner at Harvard Medical School and the Dana-Farber Cancer Institute, where she developed inhibitors of histone-modifying proteins implicated in Mixed Lineage Leukemia. As a graduate student with Dr. Gerald Crabtree at Stanford, she studied chromatin remodeling complexes and used synthetic biology in mammalian stem cells, coupled with first-principle simulations to uncover how nucleosome turnover establishes cell fate and becomes dysregulated in cancer.
 
