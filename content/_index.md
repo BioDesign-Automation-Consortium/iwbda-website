@@ -65,7 +65,7 @@ sections:
           - **08:30-10:00** Session 1
           - **10:00-10:30** Break
           - **10:30-12:00** Session 2
-          - **12:00-12:30** Lunch Break
+          - **12:00-13:30** Lunch Break
           - **13:30-15:00** Session 3 
           - **15:00-15:30** Break
           - **15:30-17:00** Session 4 
