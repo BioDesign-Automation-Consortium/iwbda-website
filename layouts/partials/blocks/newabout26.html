@@ -45,8 +45,10 @@
         <b>{{ $person.conf_location3 }}</b> <br>
 
         <!-- Suggested Hotel -->
-        <h2 style="color:rgb(69, 96, 125)">Suggested Hotel</h2>
-        <b>{{ $person.conf_hotel }}</b>
+        {{ with $person.conf_hotel }}
+          <h2 style="color:rgb(69, 96, 125)">Suggested Hotel</h2>
+          <div class="description" style="color:rgb(31, 100, 107)">{{ . | markdownify | emojify }}</div>
+        {{ end }}
   
         <!-- Important Dates -->
         {{ with $person.important_dates }}
