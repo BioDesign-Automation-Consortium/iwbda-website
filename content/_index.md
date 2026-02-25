@@ -107,7 +107,10 @@ sections:
     content:
       title: Conference Venue
       text: |-
-        ![Parking](cuparking.png)   
+        <div style="text-align: center;">
+          <img src="cuparking.png" alt="Parking" />
+        </div>
+  #![Parking](cuparking.png)   
 
   - block: people
     id: organizing
