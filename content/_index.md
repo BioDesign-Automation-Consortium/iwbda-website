@@ -105,13 +105,9 @@ sections:
   - block: markdown
     id: parking
     content:
-      title: Location & Accommodation
+      title: Conference Venue
       text: |-
-          Conference Location:   
-            <div style="text-align: center;">
-              <img src="cuparking.png" alt="Parking" />
-            </div>
-          Hotel: [Limelight Hotel](https://www.limelighthotels.com/boulder) Discount code coming soon.
+        ![Parking](cuparking.png)   
 
   - block: people
     id: organizing
