@@ -143,6 +143,8 @@ sections:
           - [Jake Beal](https://www.linkedin.com/in/jake-beal/) BBN
           - [Tae Seok Moon](https://www.jcvi.org/about/tae-seok-moon) J. Craig Venter Institute
           - [Eric Young](https://www.wpi.edu/people/faculty/emyoung) Worcester Polytechnic Institut (WPI)
+          - [William Mo](https://geneticlogiclab.org/author/william-mo/) CU Boulder
+          - [Carolus Vitalis](https://geneticlogiclab.org/author/carolus-vitalis/) CU Boulder
   
   - block: contact
     id: contact
