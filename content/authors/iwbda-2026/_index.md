@@ -15,6 +15,9 @@ conf_location2: |-
 conf_location3: |-
   University of Colorado Boulder
 
+conf_hotel: |-
+  [Limelight Hotel](https://www.limelighthotels.com/boulder) Discount code coming soon.
+  
 important_dates:
  - name: Abstract Submission
    date: April 3, 2026
