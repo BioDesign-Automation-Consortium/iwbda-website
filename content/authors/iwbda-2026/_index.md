@@ -16,7 +16,7 @@ conf_location3: |-
   University of Colorado Boulder
 
 conf_hotel: |-
-  [Limelight Hotel](https://www.limelighthotels.com/boulder) Discount code coming soon.
+  [Limelight Hotel](https://www.limelighthotels.com/boulder) (Please use the Promo Code received after registration to obtain a discounted rate)
 
 important_dates:
  - name: Abstract Submission

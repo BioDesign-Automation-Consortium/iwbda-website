@@ -107,9 +107,15 @@ sections:
     content:
       title: Conference Venue
       text: |-
-        <div style="text-align: center;">
-          <img src="cuparking.png" alt="Parking" />
-        </div>
+          <p>
+            Visitors to campus may park in hourly pay-to-park lots located throughout campus.
+            Campus pay-to-park lot locations are included on the CU Boulder
+            <a href="https://www.colorado.edu/map/?id=336#!ce/2739?ct/20989,20990,20991,20992,20993,20994,26118,2739?mc/40.00563459437513,-105.2595376968384?z/16?lvl/0">
+            campus interactive map</a>.
+          </p>
+          <div style="text-align: center;">
+            <img src="cuparking.png" alt="Parking" style="max-width: 600px;" />
+          </div>
   #![Parking](cuparking.png)   
 
   - block: people
