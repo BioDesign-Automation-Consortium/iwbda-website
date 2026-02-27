@@ -114,7 +114,7 @@ sections:
             campus interactive map</a>.
           </p>
           <div style="text-align: center;">
-            <img src="cuparking.png" alt="Parking" style="max-width: 600px;" />
+            <img src="assets/media/cuparking.png" alt="Parking" style="max-width: 600px;" />
           </div>
   #![Parking](cuparking.png)   
 
