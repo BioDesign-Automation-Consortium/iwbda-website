@@ -108,8 +108,8 @@ sections:
       title: Conference Venue
       text: |-
           
-          <div style="text-align: center;">
-            <img src="../assets/media/cuparking.png" alt="Parking" style="max-width: 600px;" />
+          <div style="display: flex; justify-content: center;">
+            <img src="/media/cuparking.png" alt="Parking" style="max-width: 600px;" />
           </div>
           <p>
             Visitors to campus may park in hourly pay-to-park lots located throughout campus.
