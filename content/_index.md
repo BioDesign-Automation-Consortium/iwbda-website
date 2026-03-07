@@ -19,6 +19,33 @@ sections:
       title: Keynote Speakers
       user_groups:
       - 2026 Speakers
+  
+  - block: people
+    id: panelists
+    content:
+      title: Panelists
+      user_groups:
+      - 2026 Panelists
+  
+  - block: markdown
+    id: sponsors
+    content:
+      title: Sponsors
+      text: |-
+          <div style="display: flex; justify-content: center; align-items: flex-start; gap: 30px; flex-wrap: wrap;">
+            <div style="text-align: center;">
+              <img src="/media/cu-standalone.png" alt="CU Boulder" style="max-width: 150px;" />
+              <p>CU Boulder</p>
+            </div>
+          </div>
+      # <div style="text-align: center;">
+      #   <img src="/media/logo2.png" alt="Logo 2" style="max-width: 150px;" />
+      #   <p>Title 2</p>
+      # </div>
+      # <div style="text-align: center;">
+      #   <img src="/media/logo3.png" alt="Logo 3" style="max-width: 150px;" />
+      #   <p>Title 3</p>
+      # </div>
 
   - block: markdown
     id: submission
