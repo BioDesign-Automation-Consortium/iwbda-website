@@ -167,7 +167,7 @@ sections:
           - [Nicholas Roehner](https://www.linkedin.com/in/nicholas-roehner-16819b151/) BBN
           - [Pete Carr](https://www.linkedin.com/in/peter-carr-5a60431b/) BBN
           - [Traci Haddock](https://www.linkedin.com/in/tracihaddock/) Asimov
-          - [Christian Hochberger] (https://www.rs.tu-darmstadt.de/ueber-uns/mitarbeiter/christian-hochberger) TU Darmstadt
+          - [Christian Hochberger](https://www.rs.tu-darmstadt.de/ueber-uns/mitarbeiter/christian-hochberger) TU Darmstadt
           - [Joshua Chan](https://www.engr.colostate.edu/bce/people/joshua-chan/) Colorado State University
 
   
