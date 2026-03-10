@@ -27,25 +27,12 @@ sections:
       user_groups:
       - 2026 Panelists
   
-  - block: markdown
+  - block: people
     id: sponsors
     content:
       title: Sponsors
-      text: |-
-          <div style="display: flex; justify-content: center; align-items: flex-start; gap: 30px; flex-wrap: wrap;">
-            <div style="text-align: center;">
-              <img src="/media/cu-standalone.png" alt="CU Boulder" style="max-width: 150px;" />
-              <p>CU Boulder</p>
-            </div>
-          </div>
-      # <div style="text-align: center;">
-      #   <img src="/media/logo2.png" alt="Logo 2" style="max-width: 150px;" />
-      #   <p>Title 2</p>
-      # </div>
-      # <div style="text-align: center;">
-      #   <img src="/media/logo3.png" alt="Logo 3" style="max-width: 150px;" />
-      #   <p>Title 3</p>
-      # </div>
+      user_groups:
+      - 2026 sponsors
 
   - block: markdown
     id: submission
