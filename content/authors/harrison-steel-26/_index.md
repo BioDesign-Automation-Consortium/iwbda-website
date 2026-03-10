@@ -1,24 +1,23 @@
 ---
 # Display name
-title: Dr. David J. Ross (Fed)
+title: Dr. Harrison Steel 
 
 # Username (this should match the folder name)
 authors:
-- Dr. David J. Ross (Fed)
+- Dr. Harrison Steel 
 
 #Author Names (alternative spellings etc)
 names:
-- Dr. David J. Ross (Fed)
-
+- Dr. Harrison Steel  
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: NIST
+role:  University of Oxford
 
 # Organizations/Affiliations
 organizations:
-- name: NIST
+- name:  University of Oxford
   url: ""
 
 #Order to show in compared to other authors when using people section
@@ -123,4 +122,4 @@ user_groups:
 # - SynBioHub Plugins Tool
 ---
 
-David Ross is the lead scientist for the Living Measurement Systems Foundry in the Cellular Engineering Group at NIST. He currently works on methods for predictive engineering of biological function. His most recent work has focused on developing measurements and standards for large-scale, AI-ready biological data and machine-learning approaches to predict protein function using large-scale data.
+Harrison Steel completed a BEng in Mechanical Engineering and a BSc in Physics and Mathematics at the University of Sydney. He then came to Oxford as a Monash Scholar and completed his DPhil at the University of Oxford as a Monash Scholar. Following his studies he was a postdoctoral researcher in the Department's Control Group, before joining as an Associate Professor in 2020.

@@ -1,24 +1,23 @@
 ---
 # Display name
-title: Dr. David J. Ross (Fed)
+title: Dr. Mayukh Guha
 
 # Username (this should match the folder name)
 authors:
-- Dr. David J. Ross (Fed)
+- Dr. Mayukh Guha
 
 #Author Names (alternative spellings etc)
 names:
-- Dr. David J. Ross (Fed)
-
+- Dr. Mayukh Guha
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: NIST
+role:  Lila Sciences
 
 # Organizations/Affiliations
 organizations:
-- name: NIST
+- name: Lila Sciences
   url: ""
 
 #Order to show in compared to other authors when using people section
@@ -122,5 +121,4 @@ user_groups:
 # - SBOL Designer Tool
 # - SynBioHub Plugins Tool
 ---
-
-David Ross is the lead scientist for the Living Measurement Systems Foundry in the Cellular Engineering Group at NIST. He currently works on methods for predictive engineering of biological function. His most recent work has focused on developing measurements and standards for large-scale, AI-ready biological data and machine-learning approaches to predict protein function using large-scale data.
+Dr.[Mayukh Guha](https://www.linkedin.com/in/mguha/) is the Senior Scientist at Lila Sciences.

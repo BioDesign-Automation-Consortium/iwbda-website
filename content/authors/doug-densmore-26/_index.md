@@ -1,23 +1,24 @@
 ---
 # Display name
-title: Dr. Harrison Steel 
+title: Dr. Doug Densmore
 
 # Username (this should match the folder name)
 authors:
-- Dr. Harrison Steel 
+- Dr. Doug Densmore
 
 #Author Names (alternative spellings etc)
 names:
-- Dr. Harrison Steel  
+- Dr. Doug Densmore
+
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role:  University of Oxford
+role: Boston University
 
 # Organizations/Affiliations
 organizations:
-- name:  University of Oxford
+- name: Boston University
   url: ""
 
 #Order to show in compared to other authors when using people section
@@ -111,7 +112,7 @@ social:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Bio Innovation Week 2026 program
+- 2026 Panelists
 
 # # #any user groups to display on the page
 # display_groups:
@@ -122,4 +123,4 @@ user_groups:
 # - SynBioHub Plugins Tool
 ---
 
-Harrison Steel completed a BEng in Mechanical Engineering and a BSc in Physics and Mathematics at the University of Sydney. He then came to Oxford as a Monash Scholar and completed his DPhil at the University of Oxford as a Monash Scholar. Following his studies he was a postdoctoral researcher in the Department's Control Group, before joining as an Associate Professor in 2020.
+Douglas Densmore is the Tegan Family Distinguished Faculty Fellow, a Kern Faculty Fellow, a Hariri Institute for Computing and Computational Science and Engineering Faculty Fellow, and Professor in the Department of Electrical and Computer Engineering at Boston University. His research focuses on the development of tools for the specification, design, assembly, and test of synthetic biological systems. His approaches draw upon his experience with embedded system-level design and electronic design automation (EDA). Extracting concepts and methodologies from these fields, he aims to raise the level of abstraction in synthetic biology by employing standardized biological part-based designs which leverage domain-specific languages, constraint-based genetic circuit composition, visual editing environments, microfluidics, and automated DNA assembly. This leads to a new research area he calls “Hardware, Software, Wetware Co-design”.

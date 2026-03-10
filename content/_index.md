@@ -19,6 +19,20 @@ sections:
       title: Keynote Speakers
       user_groups:
       - 2026 Speakers
+  
+  - block: people
+    id: panelists
+    content:
+      title: Panelists
+      user_groups:
+      - 2026 Panelists
+  
+  - block: people
+    id: sponsors
+    content:
+      title: Sponsors
+      user_groups:
+      - 2026 sponsors
 
   - block: markdown
     id: submission
@@ -107,17 +121,13 @@ sections:
     content:
       title: Conference Venue
       text: |-
-          
-          <div style="text-align: center;">
-            <img src="../assets/media/cuparking.png" alt="Parking" style="max-width: 600px;" />
-          </div>
+          ![Parking](cuparking.png) 
           <p>
             Visitors to campus may park in hourly pay-to-park lots located throughout campus.
             Campus pay-to-park lot locations are included on the CU Boulder
             <a href="https://www.colorado.edu/map/?id=336#!ce/2739?ct/20989,20990,20991,20992,20993,20994,26118,2739?mc/40.00563459437513,-105.2595376968384?z/16?lvl/0">
             campus interactive map</a>.
           </p>
-  #![Parking](cuparking.png)   
 
   - block: people
     id: organizing
@@ -151,6 +161,15 @@ sections:
           - [Eric Young](https://www.wpi.edu/people/faculty/emyoung) Worcester Polytechnic Institut (WPI)
           - [William Mo](https://geneticlogiclab.org/author/william-mo/) CU Boulder
           - [Carolus Vitalis](https://geneticlogiclab.org/author/carolus-vitalis/) CU Boulder
+          - [Prashant Vaidyanathan](https://www.linkedin.com/in/prashant-vaidyanathan/) Oxford Biomedica
+          - [Brian Munsky](https://www.engr.colostate.edu/~munsky/meet-the-team/) Colorado State University
+          - [Jeanet Mante](https://geneticlogiclab.org/author/jet-mante/) Army Research Lab
+          - [Nicholas Roehner](https://www.linkedin.com/in/nicholas-roehner-16819b151/) BBN
+          - [Pete Carr](https://www.linkedin.com/in/peter-carr-5a60431b/) BBN
+          - [Traci Haddock](https://www.linkedin.com/in/tracihaddock/) Asimov
+          - [Christian Hochberger](https://www.rs.tu-darmstadt.de/ueber-uns/mitarbeiter/christian-hochberger) TU Darmstadt
+          - [Joshua Chan](https://www.engr.colostate.edu/bce/people/joshua-chan/) Colorado State University
+
   
   - block: contact
     id: contact

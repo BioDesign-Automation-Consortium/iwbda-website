@@ -1,24 +1,23 @@
 ---
 # Display name
-title: Dr. David J. Ross (Fed)
+title: Dr. Huimin Zhao
 
 # Username (this should match the folder name)
 authors:
-- Dr. David J. Ross (Fed)
+- Dr. Huimin Zhao 
 
 #Author Names (alternative spellings etc)
 names:
-- Dr. David J. Ross (Fed)
-
+- Dr. Huimin Zhao  
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: NIST
+role:  University of Illinois Urbana-Champaign
 
 # Organizations/Affiliations
 organizations:
-- name: NIST
+- name:  University of Illinois Urbana-Champaign
   url: ""
 
 #Order to show in compared to other authors when using people section
@@ -123,4 +122,4 @@ user_groups:
 # - SynBioHub Plugins Tool
 ---
 
-David Ross is the lead scientist for the Living Measurement Systems Foundry in the Cellular Engineering Group at NIST. He currently works on methods for predictive engineering of biological function. His most recent work has focused on developing measurements and standards for large-scale, AI-ready biological data and machine-learning approaches to predict protein function using large-scale data.
+Dr. Huimin Zhao is the Steven L. Miller Chair of chemical and biomolecular engineering and professor of chemistry, biochemistry, and bioengineering at the University of Illinois at Urbana-Champaign (UIUC), director of NSF AI Institute for Molecule Synthesis (moleculemaker.org), NSF iBioFoundry (ibiofoundry.illinois.edu), and NSF Global Center for Reliable and Scalable Biofoundries, and Editor in Chief of ACS Synthetic Biology. He received his B.S. degree in Biology from the University of Science and Technology of China in 1992 and his Ph.D. degree in Chemistry from the California Institute of Technology in 1998 under the guidance of Nobel Laureate Dr. Frances Arnold. Prior to joining UIUC in 2000, he was a project leader at the Industrial Biotechnology Laboratory of the Dow Chemical Company. He was promoted to full professor in 2008. Dr. Zhao has authored and co-authored over 460 research articles and over 30 issued and pending patent applications. In addition, he has given over 530 plenary, keynote, or invited lectures. Thirty-eight (38) of his former graduate students and postdocs became professors or principal investigators around the world. Dr. Zhao received numerous research and teaching awards and honors such as SIMB Charles Scott Award, AIChE Daniel I.C. Wang Award, AIChE FP&B Division Award, ECI Enzyme Engineering Award, ACS Marvin Johnson Award, SIMB Charles Thom Award, and NSF CAREER Award. His primary research interests are in the development and applications of synthetic biology, machine learning, and laboratory automation tools to address societyâ€™s most daunting challenges in health, energy, and sustainability.
