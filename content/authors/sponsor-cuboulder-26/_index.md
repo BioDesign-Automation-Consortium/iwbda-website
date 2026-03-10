@@ -1,14 +1,14 @@
 ---
 # Display name
-title: university of colorado boulder
+title: University of Colorado Boulder
 
 # Username (this should match the folder name)
 authors:
-- university of colorado boulder
+- University of Colorado Boulder
 
 #Author Names (alternative spellings etc)
 names:
-- university of colorado boulder
+- University of Colorado Boulder
 
 # Is this the primary user of the site?
 superuser: false

@@ -161,6 +161,15 @@ sections:
           - [Eric Young](https://www.wpi.edu/people/faculty/emyoung) Worcester Polytechnic Institut (WPI)
           - [William Mo](https://geneticlogiclab.org/author/william-mo/) CU Boulder
           - [Carolus Vitalis](https://geneticlogiclab.org/author/carolus-vitalis/) CU Boulder
+          - [Prashant Vaidyanathan](https://www.linkedin.com/in/prashant-vaidyanathan/) Oxford Biomedica
+          - [Brian Munsky](https://www.engr.colostate.edu/~munsky/meet-the-team/) Colorado State University
+          - [Jeanet Mante](https://geneticlogiclab.org/author/jet-mante/) Army Research Lab
+          - [Nicholas Roehner](https://www.linkedin.com/in/nicholas-roehner-16819b151/) BBN
+          - [Pete Carr](https://www.linkedin.com/in/peter-carr-5a60431b/) BBN
+          - [Traci Haddock](https://www.linkedin.com/in/tracihaddock/) Asimov
+          - [Christian Hochberger] (https://www.rs.tu-darmstadt.de/ueber-uns/mitarbeiter/christian-hochberger) TU Darmstadt
+          - [Joshua Chan](https://www.engr.colostate.edu/bce/people/joshua-chan/) Colorado State University
+
   
   - block: contact
     id: contact
