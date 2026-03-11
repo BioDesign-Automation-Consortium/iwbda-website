@@ -9,7 +9,26 @@ Click on the &lt;strong>Slides&lt;/strong> button above to view the built-in sli
 &lt;li>&lt;strong>Upload&lt;/strong> an existing slide deck to &lt;code>static/&lt;/code> and link using &lt;code>url_slides&lt;/code> parameter in the front matter of the talk file&lt;/li>
 &lt;li>&lt;strong>Embed&lt;/strong> your slides (e.g. Google Slides) or presentation video on this page using &lt;a href="https://wowchemy.com/docs/writing-markdown-latex/" target="_blank" rel="noopener">shortcodes&lt;/a>.&lt;/li>
 &lt;/ul>
-&lt;p>Further event details, including &lt;a href="https://wowchemy.com/docs/writing-markdown-latex/" target="_blank" rel="noopener">page elements&lt;/a> such as image galleries, can be added to the body of this page.&lt;/p></description></item><item><title/><link>/2023/</link><pubDate>Mon, 24 Oct 2022 00:00:00 +0000</pubDate><guid>/2023/</guid><description/></item><item><title/><link>/2024/</link><pubDate>Mon, 24 Oct 2022 00:00:00 +0000</pubDate><guid>/2024/</guid><description/></item><item><title/><link>/2025/</link><pubDate>Mon, 24 Oct 2022 00:00:00 +0000</pubDate><guid>/2025/</guid><description/></item><item><title/><link>/special-issues/2023/</link><pubDate>Mon, 24 Oct 2022 00:00:00 +0000</pubDate><guid>/special-issues/2023/</guid><description/></item><item><title>Welcome to Wowchemy, the website builder for Hugo</title><link>/post/getting-started/</link><pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate><guid>/post/getting-started/</guid><description>&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-python" data-lang="python">&lt;span class="line">&lt;span class="cl">&lt;span class="kn">import&lt;/span> &lt;span class="nn">libr&lt;/span>
+&lt;p>Further event details, including &lt;a href="https://wowchemy.com/docs/writing-markdown-latex/" target="_blank" rel="noopener">page elements&lt;/a> such as image galleries, can be added to the body of this page.&lt;/p></description></item><item><title>Navigating the Evolution Multiverse: Real-time evolution and open-source robotic platforms for engineering biology</title><link>/talk/navigating-the-evolution-multiverse-real-time-evolution-and-open-source-robotic-platforms-for-engineering-biology/</link><pubDate>Sat, 20 Jun 2026 09:00:00 +0000</pubDate><guid>/talk/navigating-the-evolution-multiverse-real-time-evolution-and-open-source-robotic-platforms-for-engineering-biology/</guid><description>&lt;h2 id="navigating-the-evolution-multiverse-real-time-evolution-and-open-source-robotic-platforms-for-engineering-biology">Navigating the Evolution Multiverse: Real-time evolution and open-source robotic platforms for engineering biology&lt;/h2>
+&lt;h2 id="abstract">Abstract&lt;/h2>
+&lt;p>Evolution drives adaptation across all of biology, including in cancer, infection, and immunity, often with major consequences for disease. In the laboratory, directed evolution has become a powerful way to engineer proteins and RNA, but it remains difficult to recreate the complexity, scale, and control of natural selection. In this talk, I will describe two open technology platforms from our lab that address this challenge. First, I will present TurboPRANCE, a high-throughput robotic platform for real-time, multiplexed continuous evolution that enables precise control over selection pressure across many parallel experiments while tracking evolutionary outcomes at scale. This framework allows us to explore multiple evolutionary trajectories simultaneously across diverse biomolecules, including antibody fragments and other protein interaction modules. Second, I will introduce our new open liquid handler, a fully open-source robotic platform built for flexible, programmable biological automation. Together with PyLabRobot and related open software tools, these systems make it possible to build, adapt, and scale sophisticated experiments without relying on closed commercial infrastructure. I will discuss how these platforms expand our ability to probe and engineer biological systems, and how open, modular automation can accelerate both discovery science and biotechnology development.&lt;/p>
+&lt;hr>
+&lt;h2 id="bio">Bio&lt;/h2>
+&lt;p>&lt;a href="https://www.chorylab.com" target="_blank" rel="noopener">Dr. Emma Chory&lt;/a> is an Assistant Professor of Biomedical Engineering at Duke University, where her lab builds automated systems that couple directed evolution, robotics, and data-driven modeling to engineer and study biomolecules. She earned a B.S. in Chemical Engineering from Northeastern University and her M.S. and Ph.D. in Chemical Engineering from Stanford University. As a graduate student, she studied chromatin remodeling complexes in mammalian stem cells, combining synthetic biology with first-principles modeling to define how nucleosome turnover shapes cell fate and becomes dysregulated in cancer. During her postdoctoral research at MIT with Kevin Esvelt and Jim Collins, she developed platforms integrating continuous evolution with custom robotics for high-throughput, quantitative studies of protein function. At Duke, her lab develops open-source automation platforms for continuous evolution and synthetic biology to generate large-scale sequence-to-function datasets and enable real-time, data-driven control of laboratory experiments.&lt;/p>
+&lt;hr>
+&lt;h2 id="education">Education&lt;/h2>
+&lt;p>&lt;strong>Massachusetts Institute of Technology&lt;/strong> — Cambridge, MA
+Post-doctoral Fellow, 2018–2022
+MIT Media Lab &amp;amp; Department of Biological Engineering
+Advisors: Prof. Kevin Esvelt &amp;amp; Prof. James Collins&lt;/p>
+&lt;p>&lt;strong>Stanford University&lt;/strong> — Stanford, CA
+Ph.D. in Chemical Engineering, 2018
+M.S. in Chemical Engineering, 2014
+Advisor: Prof. Gerald Crabtree, Howard Hughes Medical Institute&lt;/p>
+&lt;p>&lt;strong>Northeastern University&lt;/strong> — Boston, MA
+B.S. in Chemical Engineering, 2012
+&lt;em>Magna Cum Laude, College Honors Distinction, Dean&amp;rsquo;s Scholar&lt;/em>
+Minors: Chemistry, Biology, and Biochemical Engineering&lt;/p></description></item><item><title/><link>/2023/</link><pubDate>Mon, 24 Oct 2022 00:00:00 +0000</pubDate><guid>/2023/</guid><description/></item><item><title/><link>/2024/</link><pubDate>Mon, 24 Oct 2022 00:00:00 +0000</pubDate><guid>/2024/</guid><description/></item><item><title/><link>/2025/</link><pubDate>Mon, 24 Oct 2022 00:00:00 +0000</pubDate><guid>/2025/</guid><description/></item><item><title/><link>/special-issues/2023/</link><pubDate>Mon, 24 Oct 2022 00:00:00 +0000</pubDate><guid>/special-issues/2023/</guid><description/></item><item><title>Welcome to Wowchemy, the website builder for Hugo</title><link>/post/getting-started/</link><pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate><guid>/post/getting-started/</guid><description>&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-python" data-lang="python">&lt;span class="line">&lt;span class="cl">&lt;span class="kn">import&lt;/span> &lt;span class="nn">libr&lt;/span>
 &lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="nb">print&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="s1">&amp;#39;hello&amp;#39;&lt;/span>&lt;span class="p">)&lt;/span>
 &lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;h2 id="overview">Overview&lt;/h2>
 &lt;ol>
@@ -156,7 +175,7 @@ console.log('code block');
 &lt;p>Wowchemy supports the popular &lt;a href="https://plot.ly/" target="_blank" rel="noopener">Plotly&lt;/a> format for interactive charts.&lt;/p>
 &lt;p>Save your Plotly JSON in your page folder, for example &lt;code>line-chart.json&lt;/code>, and then add the &lt;code>{{&amp;lt; chart data=&amp;quot;line-chart&amp;quot; &amp;gt;}}&lt;/code> shortcode where you would like the chart to appear.&lt;/p>
 &lt;p>Demo:&lt;/p>
-&lt;div id="chart-941867325" class="chart">&lt;/div>
+&lt;div id="chart-523649871" class="chart">&lt;/div>
 &lt;script>
 (function() {
 let a = setInterval( function() {
@@ -165,7 +184,7 @@ return;
 }
 clearInterval( a );
 Plotly.d3.json("./line-chart.json", function(chart) {
-Plotly.plot('chart-941867325', chart.data, chart.layout, {responsive: true});
+Plotly.plot('chart-523649871', chart.data, chart.layout, {responsive: true});
 });
 }, 500 );
 })();
