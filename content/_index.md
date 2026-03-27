@@ -107,7 +107,7 @@ sections:
 
           ## Saturday, June 20, 2026 - IWBDA Workshop. Location: ECCS 201
           - **08:30-09:00** Breakfast
-          - **09:00-10:00** Invited Speaker: Emma Chory - [Navigating the Evolution Multiverse: Real-time evolution and open-source robotic platforms for engineering biology](/event/emma-chory-2026/)
+          - **09:00-10:00** Invited Speaker: Emma Chory - [Navigating the Evolution Multiverse: Real-time evolution and open-source robotic platforms for engineering biology](/talk/emma-chory-2026/)
           - **10:00-10:30** Coffee Break
           - **10:30-12:00** Session 3
           - **12:00-13:00** Lunch
@@ -117,7 +117,7 @@ sections:
           - **16:30-17:00** Closing Remarks
 
   - block: markdown
-    id: parking
+    id: venue
     content:
       title: Conference Venue
       text: |-
@@ -144,7 +144,7 @@ sections:
   #     - Bio Innovation Week 2026 program
   
   - block: markdown
-    id: agenda
+    id: program
     content:
       title: Program Committee
       text: |
@@ -178,4 +178,13 @@ sections:
       text: |-
         Interested in participating, organizing, or sponsoring IWBDA or Bio Innovation Week? Reach out to us for more information on how you can get involved in IWBDA, IWBMA, the Nona Works Hackathon, or SBOL Workshops. We look forward to hearing from you!
       email: bio.design.automation.inc@gmail.com
+      links:
+        - icon: clock
+          icon_pack: fas
+          name: Previous Years
+          url: 'previous-years'
+        - icon: book
+          icon_pack: fas
+          name: Previous Special Issues
+          url: 'special-issues'
 ---
