@@ -15,7 +15,17 @@ main:
       weight: 15
     - name: Registration
       url: '#registration'
+      weight: 20
+    - name: Agenda
+      url: '#agenda'
+      weight: 25
+    - name: Conference Venue
+      url: '#venue'
       weight: 30
+    - name: Contact Us
+      url: '#contact'
+      weight: 40
+
     #- name: Logistics
     #  url: '/2023/#logistics'
     #  weight: 20
@@ -29,17 +39,17 @@ main:
     #- name: 2023 Special Issue
     #  url: '2023/#special-issue-2023'
     #  weight: 40
-    - name: Organizing Committee
-      url: '#organizing'
-      weight: 50
+    # - name: Organizing Committee
+    #   url: '#organizing'
+    #   weight: 50
     # - name: Program Committee
     #   url: '#program'
     #   weight: 60
     #  identifier: iwbda2023oc
-    - name: Previous Years
-      url: 'previous-years'
-      weight: 70
-    - name: Previous Special Issues
-      url: 'special-issues'
-      weight: 80
+    # - name: Previous Years
+    #   url: 'previous-years'
+    #   weight: 70
+    # - name: Previous Special Issues
+    #   url: 'special-issues'
+    #   weight: 80
    

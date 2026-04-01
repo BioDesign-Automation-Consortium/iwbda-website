@@ -20,7 +20,7 @@ conf_hotel: |-
 
 important_dates:
  - name: Abstract Submission
-   date: April 3, 2026
+   date: ~~April 3~~ April 9 (Firm), 2026
  #- name: Workshop Submission
    #date: ~~August 3~~ August 17, 2025
  - name: Notice of Acceptance

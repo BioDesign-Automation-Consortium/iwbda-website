@@ -12,7 +12,7 @@ date: '2026-06-20T09:00:00Z'
 date_end: '2026-06-20T10:00:00Z'
 all_day: false
 
-publishDate: '2026-01-01T00:00:00Z'
+publishDate: '2026-03-27T00:00:00Z'
 
 authors: []
 tags: []
