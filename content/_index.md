@@ -182,9 +182,9 @@ sections:
         - icon: clock
           icon_pack: fas
           name: Previous Years
-          url: 'previous-years'
+          url: '/previous-years/'
         - icon: book
           icon_pack: fas
           name: Previous Special Issues
-          url: 'special-issues'
+          url: '/special-issues/'
 ---
