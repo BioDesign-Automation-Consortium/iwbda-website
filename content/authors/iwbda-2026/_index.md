@@ -95,7 +95,7 @@ user_groups:
 # Announcements
 
 ## IWBDA Scholarships
-IWBDA Scholarships are available for students, postdocs, and young researchers. Please see this [PDF](/uploads/IWBDA_Scholarships_2024.pdf) for details.
+IWBDA Scholarships are available for students, postdocs, and young researchers. Please see this [PDF](/uploads/IWBDA_Scholarships_2025.pdf) for details.
 
 This year applications will be accepted via this Google form: [Scholarship Application Form](https://docs.google.com/forms/d/e/1FAIpQLScQY1f-L3pmYjxKYADzLAiZYkiHbVxUPC010RTuzizV2YKtRA/viewform).
 
