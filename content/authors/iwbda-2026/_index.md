@@ -26,7 +26,7 @@ important_dates:
  - name: Notice of Abstract Acceptance
    date: May 1, 2026
  - name: Scholarship Application Deadline
-   date: May 8, 2026
+   date: May 1, 2026
 # - name: Workshops
 #   date: September 11-14, 2023
 # - name: Nona Works
@@ -95,18 +95,19 @@ user_groups:
 # Announcements
 
 ## IWBDA Scholarships
-IWBDA Scholarships are available for students, postdocs, and young researchers. Please see this [PDF](/uploads/IWBDA_Scholarships_2025.pdf) for details.
+IWBDA Scholarships are available for students, postdocs, and young researchers. Please see this [PDF](/uploads/IWBDA_Scholarships_2026.pdf) for details.
 
-This year applications will be accepted via this Google form: [Scholarship Application Form](https://docs.google.com/forms/d/e/1FAIpQLScQY1f-L3pmYjxKYADzLAiZYkiHbVxUPC010RTuzizV2YKtRA/viewform).
+This year applications will be accepted via this Google form: [Scholarship Application Form](https://docs.google.com/forms/d/e/1FAIpQLSeABqp8Ep6hj4_RAmUytJC8rVKxEWq8OdG-ky3REFfWZtjkwQ/viewform).
 
 ## Allan Kuchinsky IWBDA Scholarship
 
-This year IWBDA will be soliciting applications for the 7th annual [Allan Kuchinsky International Workshop on Bio-Design Automation Scholarship](http://www.bio-design-automation.org/activities). Allan was a tremendous supporter of both synthetic biology as well as design automation. His contributions to projects such as Cytoscape and Eugene as well as numerous Agilent efforts was crucial in helping academic and industrial researchers develop state-of-the-art technologies and tools to lay the foundation for this field. This scholarship in some small measure attempts to recognize his tireless efforts by highlighting a student who shares Allan's vision for the field. This scholarship will provide support for one recipient to attend IWBDA (registration, airfare, hotel, and small travel stipend) along with a recognized poster presentation slot. Interested individuals should provide the following: IWBDA abstract, resume/CV, essay, and recommendation letter. For details, including how to apply, please see [this PDF](AKS_year_7.pdf).
+This year IWBDA will be soliciting applications for the 6th annual [Allan Kuchinsky International Workshop on Bio-Design Automation Scholarship](http://www.bio-design-automation.org/activities). Allan was a tremendous supporter of both synthetic biology as well as design automation. His contributions to projects such as Cytoscape and Eugene as well as numerous Agilent efforts was crucial in helping academic and industrial researchers develop state-of-the-art technologies and tools to lay the foundation for this field. This scholarship in some small measure attempts to recognize his tireless efforts by highlighting a student who shares Allan's vision for the field. This scholarship will provide support for one recipient to attend IWBDA (registration, airfare, hotel, and small travel stipend) along with a recognized poster presentation slot. Interested individuals should provide the following: IWBDA abstract, resume/CV, essay, and recommendation letter. For details, including how to apply, please see [this PDF](AKS_year6_2026.pdf).
 
+<!--
 The Allan Kuchinsky scholarship is generously sponsored by Agilent.
 
 [![Agilent](agilentlogo.jpg)](http://www.agilent.com/)
-<!--
+
 ## Late Breaking Abstract Submissions
 <b>Now Open:</b> Submissions for our late breaking abstracts for IWBDA!
 
