@@ -178,13 +178,13 @@ sections:
       text: |-
         Interested in participating, organizing, or sponsoring IWBDA or Bio Innovation Week? Reach out to us for more information on how you can get involved in IWBDA, IWBMA, the Nona Works Hackathon, or SBOL Workshops. We look forward to hearing from you!
       email: bio.design.automation.inc@gmail.com
-      links:
+      contact_links:
         - icon: clock
           icon_pack: fas
           name: Previous Years
-          url: '/previous-years/'
+          link: '/previous-years/'
         - icon: book
           icon_pack: fas
           name: Previous Special Issues
-          url: '/special-issues/'
+          link: '/special-issues/'
 ---

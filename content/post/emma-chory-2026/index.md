@@ -24,8 +24,6 @@ slides: ""
 projects: []
 ---
 
-## Navigating the Evolution Multiverse: Real-time evolution and open-source robotic platforms for engineering biology
-
 ## Abstract
 
 Evolution drives adaptation across all of biology, including in cancer, infection, and immunity, often with major consequences for disease. In the laboratory, directed evolution has become a powerful way to engineer proteins and RNA, but it remains difficult to recreate the complexity, scale, and control of natural selection. In this talk, I will describe two open technology platforms from our lab that address this challenge. First, I will present TurboPRANCE, a high-throughput robotic platform for real-time, multiplexed continuous evolution that enables precise control over selection pressure across many parallel experiments while tracking evolutionary outcomes at scale. This framework allows us to explore multiple evolutionary trajectories simultaneously across diverse biomolecules, including antibody fragments and other protein interaction modules. Second, I will introduce our new open liquid handler, a fully open-source robotic platform built for flexible, programmable biological automation. Together with PyLabRobot and related open software tools, these systems make it possible to build, adapt, and scale sophisticated experiments without relying on closed commercial infrastructure. I will discuss how these platforms expand our ability to probe and engineer biological systems, and how open, modular automation can accelerate both discovery science and biotechnology development.
