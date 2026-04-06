@@ -7,7 +7,7 @@ event_url: https://www.iwbdaconf.org
 location: ECCS 201, CU Boulder
 
 summary: Keynote talk by Dr. Emma J. Chory at IWBDA 2026.
-
+date: '2026-03-27T00:00:00Z'
 publishDate: '2026-03-27T00:00:00Z'
 
 authors: []
@@ -23,8 +23,6 @@ url_video: ''
 slides: ""
 projects: []
 ---
-
-## Navigating the Evolution Multiverse: Real-time evolution and open-source robotic platforms for engineering biology
 
 ## Abstract
 
