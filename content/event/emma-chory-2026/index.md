@@ -8,10 +8,6 @@ location: ECCS 201, CU Boulder
 
 summary: Keynote talk by Dr. Emma J. Chory at IWBDA 2026.
 
-date: '2026-06-20T09:00:00Z'
-date_end: '2026-06-20T10:00:00Z'
-all_day: false
-
 publishDate: '2026-03-27T00:00:00Z'
 
 authors: []
