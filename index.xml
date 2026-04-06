@@ -9,7 +9,7 @@ Click on the &lt;strong>Slides&lt;/strong> button above to view the built-in sli
 &lt;li>&lt;strong>Upload&lt;/strong> an existing slide deck to &lt;code>static/&lt;/code> and link using &lt;code>url_slides&lt;/code> parameter in the front matter of the talk file&lt;/li>
 &lt;li>&lt;strong>Embed&lt;/strong> your slides (e.g. Google Slides) or presentation video on this page using &lt;a href="https://wowchemy.com/docs/writing-markdown-latex/" target="_blank" rel="noopener">shortcodes&lt;/a>.&lt;/li>
 &lt;/ul>
-&lt;p>Further event details, including &lt;a href="https://wowchemy.com/docs/writing-markdown-latex/" target="_blank" rel="noopener">page elements&lt;/a> such as image galleries, can be added to the body of this page.&lt;/p></description></item><item><title>Navigating the Evolution Multiverse: Real-time evolution and open-source robotic platforms for engineering biology</title><link>/talk/navigating-the-evolution-multiverse-real-time-evolution-and-open-source-robotic-platforms-for-engineering-biology/</link><pubDate>Sat, 20 Jun 2026 09:00:00 +0000</pubDate><guid>/talk/navigating-the-evolution-multiverse-real-time-evolution-and-open-source-robotic-platforms-for-engineering-biology/</guid><description>&lt;h2 id="navigating-the-evolution-multiverse-real-time-evolution-and-open-source-robotic-platforms-for-engineering-biology">Navigating the Evolution Multiverse: Real-time evolution and open-source robotic platforms for engineering biology&lt;/h2>
+&lt;p>Further event details, including &lt;a href="https://wowchemy.com/docs/writing-markdown-latex/" target="_blank" rel="noopener">page elements&lt;/a> such as image galleries, can be added to the body of this page.&lt;/p></description></item><item><title>Navigating the Evolution Multiverse: Real-time evolution and open-source robotic platforms for engineering biology</title><link>/talk/navigating-the-evolution-multiverse-real-time-evolution-and-open-source-robotic-platforms-for-engineering-biology/</link><pubDate>Fri, 27 Mar 2026 00:00:00 +0000</pubDate><guid>/talk/navigating-the-evolution-multiverse-real-time-evolution-and-open-source-robotic-platforms-for-engineering-biology/</guid><description>&lt;h2 id="navigating-the-evolution-multiverse-real-time-evolution-and-open-source-robotic-platforms-for-engineering-biology">Navigating the Evolution Multiverse: Real-time evolution and open-source robotic platforms for engineering biology&lt;/h2>
 &lt;h2 id="abstract">Abstract&lt;/h2>
 &lt;p>Evolution drives adaptation across all of biology, including in cancer, infection, and immunity, often with major consequences for disease. In the laboratory, directed evolution has become a powerful way to engineer proteins and RNA, but it remains difficult to recreate the complexity, scale, and control of natural selection. In this talk, I will describe two open technology platforms from our lab that address this challenge. First, I will present TurboPRANCE, a high-throughput robotic platform for real-time, multiplexed continuous evolution that enables precise control over selection pressure across many parallel experiments while tracking evolutionary outcomes at scale. This framework allows us to explore multiple evolutionary trajectories simultaneously across diverse biomolecules, including antibody fragments and other protein interaction modules. Second, I will introduce our new open liquid handler, a fully open-source robotic platform built for flexible, programmable biological automation. Together with PyLabRobot and related open software tools, these systems make it possible to build, adapt, and scale sophisticated experiments without relying on closed commercial infrastructure. I will discuss how these platforms expand our ability to probe and engineer biological systems, and how open, modular automation can accelerate both discovery science and biotechnology development.&lt;/p>
 &lt;hr>
@@ -175,7 +175,7 @@ console.log('code block');
 &lt;p>Wowchemy supports the popular &lt;a href="https://plot.ly/" target="_blank" rel="noopener">Plotly&lt;/a> format for interactive charts.&lt;/p>
 &lt;p>Save your Plotly JSON in your page folder, for example &lt;code>line-chart.json&lt;/code>, and then add the &lt;code>{{&amp;lt; chart data=&amp;quot;line-chart&amp;quot; &amp;gt;}}&lt;/code> shortcode where you would like the chart to appear.&lt;/p>
 &lt;p>Demo:&lt;/p>
-&lt;div id="chart-329861745" class="chart">&lt;/div>
+&lt;div id="chart-697852314" class="chart">&lt;/div>
 &lt;script>
 (function() {
 let a = setInterval( function() {
@@ -184,7 +184,7 @@ return;
 }
 clearInterval( a );
 Plotly.d3.json("./line-chart.json", function(chart) {
-Plotly.plot('chart-329861745', chart.data, chart.layout, {responsive: true});
+Plotly.plot('chart-697852314', chart.data, chart.layout, {responsive: true});
 });
 }, 500 );
 })();
