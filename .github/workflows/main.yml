@@ -2,7 +2,7 @@ name: Hugo Deploy
 
 on:
   push:
-    branches: [ new_fix_11 ]
+    branches: [ main ]
 
 jobs:
   deploy:
