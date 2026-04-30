@@ -96,7 +96,8 @@ sections:
 
           ## Friday, June 19, 2026 - IWBDA Workshop. Location: ECCS 201
           - **08:30-09:00** Breakfast
-          - **09:00-10:00** Invited Speaker: Domitilla Del Veccio - Title TBD
+          - **09:00-10:00** Invited Speaker (Carolus Vitalis / William Mo)
+              - Domitilla Del Veccio - Title TBD
           - **10:00-10:30** Coffee Break
           - **10:30-12:00** *Design Rules for Programmable Genetic Systems* (Lukas Buecherl / Eric Young)
               - **10:30-10:45** Masayuki Yamamura, *Rule based generation of synthetic genetic circuits - towards v 3.0*
@@ -116,12 +117,13 @@ sections:
               - **14:15-14:30** Difei Tang and Natasa Miskov Zivanov, *CELESTA Web: An Interactive Tool for LLM Enhanced Biomedical Context Annotation*
 
           - **14:30-15:00** Coffee Break
-          - **15:00-16:00** Nona talks 
+          - **15:00-16:00** Nona Talks 
           - **16:00-17:00** DevCell Discussion
 
           ## Saturday, June 20, 2026 - IWBDA Workshop. Location: ECCS 201
           - **08:30-09:00** Breakfast
-          - **09:00-10:00** Invited Speaker: Emma Chory - [Navigating the Evolution Multiverse: Real-time evolution and open-source robotic platforms for engineering biology](/post/emma-chory-2026/)
+          - **09:00-10:00** Invited Speaker (William Mo / Carolus Vitalis)
+              - Emma Chory - [Navigating the Evolution Multiverse: Real-time evolution and open-source robotic platforms for engineering biology](/post/emma-chory-2026/)
           - **10:00-10:30** Coffee Break
           - **10:30-12:00** *Predictive Models of Emergent Biochemical Dynamics* (Harrison Steel / Brian Munsky)
               - **10:30-10:45** Colin Yancey, *EmergeX: A computational framework for designing emergent dynamics in chemical reaction networks*
