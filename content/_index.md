@@ -97,7 +97,7 @@ sections:
           ## Friday, June 19, 2026 - IWBDA Workshop. Location: ECCS 201
           - **08:30-09:00** Breakfast
           - **09:00-10:00** Invited Speaker (Carolus Vitalis / William Mo)
-              - Domitilla Del Veccio - Title TBD
+              - Domitilla Del Veccio - [Modular Machine Learning for Genetic Circuit Engineering](/post/domitilla-2026/)
           - **10:00-10:30** Coffee Break
           - **10:30-12:00** *Design Rules for Programmable Genetic Systems* (Lukas Buecherl / Eric Young)
               - **10:30-10:45** Masayuki Yamamura, *Rule based generation of synthetic genetic circuits - towards v 3.0*
