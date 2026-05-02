@@ -96,25 +96,59 @@ sections:
 
           ## Friday, June 19, 2026 - IWBDA Workshop. Location: ECCS 201
           - **08:30-09:00** Breakfast
-          - **09:00-10:00** Invited Speaker: Domitilla Del Veccio - Title TBD
+          - **09:00-10:00** Invited Speaker (Carolus Vitalis / William Mo)
+              - Domitilla Del Veccio - [Modular Machine Learning for Genetic Circuit Engineering](/post/domitilla-2026/)
           - **10:00-10:30** Coffee Break
-          - **10:30-12:00** Session 1
+          - **10:30-12:00** *Design Rules for Programmable Genetic Systems* (Lukas Buecherl / Eric Young)
+              - **10:30-10:45** Masayuki Yamamura, *Rule based generation of synthetic genetic circuits - towards v 3.0*
+              - **10:45-11:00** Ayush Pandey, *Formal specifications for the compositional design of synthetic biological circuits*
+              - **11:00-11:15** Olivia Gallup and Harrison Steel, *Generative models for RNA genetic circuit design identify functional architectures*
+              - **11:15-11:30** Zoila Jurado, Geoffrey Taghon and Samuel W. Schaffter, *Towards interoperable modeling of toehold mediated strand exchange circuits across DNA nanotechnology and engineering biology*
+              - **11:30-11:45** Zachary Hastings, Zoila Jurado, Bingqing Hu, Zhen Zhang, Samuel W. Schaffter and Lukas Buecherl, *Host Aware Design of Cellular ctRSD Circuits*
+              - **11:45-12:00** Stephen Chiu and Tae Seok Moon, *Dynamic control of metabolic flux by RNA based genetic circuits designed, built, and tested through automation*
+
           - **12:00-13:00** Lunch
-          - **13:00-14:30** Session 2
+          - **13:00-14:30** *AI, Curation, and Closed Loop Biological Discovery* (Zhen Zhang / Martín Gutiérrez)
+              - **13:00-13:15** Niloofar Arazkhani and Natasa Miskov Zivanov, *BELL: Biomodel Evidence and LLM based Logic*
+              - **13:15-13:30** Haomiao Luo, Niloofar Arazkhani, Difei Tang and Natasa Miskov Zivanov, *VIOLIN WEB: a web application for reconciliation and curation of molecular interaction graphs*
+              - **13:30-13:45** Jack Dalton, *Evolution Co scientists for automated ALE*
+              - **13:45-14:00** Robin Henry, Harrison Steel and Jean Baptiste Lugagne, *Myriad: A GPU Accelerated Platform for In Silico Prototyping of Closed Loop Single Cell Experiments*
+              - **14:00-14:15** Bryan Tegomoh, *AI Powered Genomic Surveillance as Biodesign Automation: Lessons from Operationalizing Pathogen Detection Pipelines at Scale*
+              - **14:15-14:30** Difei Tang and Natasa Miskov Zivanov, *CELESTA Web: An Interactive Tool for LLM Enhanced Biomedical Context Annotation*
+
           - **14:30-15:00** Coffee Break
-          - **15:00-16:00** Nona talks 
+          - **15:00-16:00** Nona Talks 
           - **16:00-17:00** DevCell Discussion
 
           ## Saturday, June 20, 2026 - IWBDA Workshop. Location: ECCS 201
           - **08:30-09:00** Breakfast
-          - **09:00-10:00** Invited Speaker: Emma Chory - [Navigating the Evolution Multiverse: Real-time evolution and open-source robotic platforms for engineering biology](/post/emma-chory-2026/)
+          - **09:00-10:00** Invited Speaker (William Mo / Carolus Vitalis)
+              - Emma Chory - [Navigating the Evolution Multiverse: Real-time evolution and open-source robotic platforms for engineering biology](/post/emma-chory-2026/)
           - **10:00-10:30** Coffee Break
-          - **10:30-12:00** Session 3
+          - **10:30-12:00** *Predictive Models of Emergent Biochemical Dynamics* (Harrison Steel / Brian Munsky)
+              - **10:30-10:45** Colin Yancey, *EmergeX: A computational framework for designing emergent dynamics in chemical reaction networks*
+              - **10:45-11:00** Quang Luan Dang Tran, Nguyen H.N. Tran, Derrick Osei and Ania Ariadna Baetica, *Performance of Metaheuristic Algorithms in Finding Tradeoffs in One and Two Species Biological Feedback*
+              - **11:00-11:15** Nguyen Tran, Ania Ariadna Baetica and Samuel Schaffter, *Predictive Analysis of Amplification in Biochemical Feedback Circuits*
+              - **11:15-11:30** Payton Thomas, Johanna Cao, Caleb Wong and Jeff Hasty, *Engineered Critical Point Dynamics in Genetic Circuits*
+              - **11:30-11:45** Zachary Hastings and Lukas Buecherl, *Physics Informed Inference of Gene Expression Kinetics Using bioCRNpyler*
+              - **11:45-12:00** Dimitris Papamichail, Bang Chiem and Georgios Papamichail, *Codon Pair Optimization Web Tool*
           - **12:00-13:00** Lunch
-          - **13:00-14:30** Session 4
+          - **13:00-14:30** *Measurement, Microphysiology, and Living Experimental Platforms* (Jeanet Mante / Gonzalo Vidal)
+              - **13:00-13:15** Vicente Trelles Fernandez and Harrison Steel, *Novel Microfluidic Chips for Massively Parallelised Biological Data Acquisition*
+              - **13:15-13:30** Nona Hashemi, Mahdi Hasanzadeh Hesar and Samuel M.D. Oliveira, *Microfluidic Physics Constrained Agent Based Modeling of Artificial Microbial Biofilms*
+              - **13:30-13:45** Harman Mehta, Yusuf Ugurluoglu, Meng Zhang, Martyn Dade Robertson and Harrison Steel, *Microbial 3D Bioprinter for Novel Living Materials*
+              - **13:45-14:00** Niall McIntyre and Nick Brooks, *Manufacturing a high throughput, label free platform for rapid screening of drug permeation across in vitro plasma membrane models*
+              - **14:00-14:15** Evan Holbrook, Elizabeth Codd, Ron Weiss and David Kong, *TransfectionWizard: An Integrated Open Source Platform for Genetic Circuit Design and Automated Mammalian Cell Liposome Transfection for the Lab and Classroom*
+              - **14:15-14:30** Radhakrishna Sanka, Akhilesh Maithi, Charan Manikanta and Mani Vashisth, *Pegasus: A Distributed Research Platform*
           - **14:30-15:00** Coffee Break
-          - **15:00-16:30** Session 5
-          - **16:30-17:00** Closing Remarks
+          - **15:00-16:15** *From Standards to Buildable Biology* (David Ross / Tae Seok Moon)
+              - **15:00-15:15** Doug Densmore, Chris Krenz, and Guzman Vigliecca, *Biodesign Metadata Exchange for Use in Biosecurity*
+              - **15:15-15:30** Gonzalo Andrés Vidal Peña et al., *Standardized Synthetic Biology Data Curation Effort*
+              - **15:30-15:45** Travis Uhrig and Chris Myers, *Adding SBML Modeling Support to SBOLCanvas*
+              - **15:45-16:00** Jeanet Mante, *From Design to Build: Sequence Domestication, Robotic Assembly, and Integrated SBOL Data Capture*
+              - **16:00-16:15** Sergey Rock Ingram and Lukas Buecherl, *Five Cellular Limits for Deployable Synthetic Biology and Design Automation*
+
+          - **16:15-16:45** Closing Remarks
 
   - block: markdown
     id: venue
