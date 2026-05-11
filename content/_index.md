@@ -77,14 +77,14 @@ sections:
       text: |-
           ## Saturday, June 13, 2026 - IWBDA Tutorials. Location: KOBL 352
           - **08:30-10:00** *Introduction*
-              - Chris Myers, *Introduction to the SynBioSuite Data Management System*
+              - **08:30-10:00** Chris Myers, *Introduction to the SynBioSuite Data Management System*
           - **10:00-10:30** Break
           - **10:30-12:00** *Resources*
               - **10:30-11:15** Carolus Vitalis, *Encoding Resources with Excel2Sbol*
               - **11:15-12:00** Daniel Fang, *Introduction to the SynBioHub Repository*
           - **12:00-13:30** Lunch Break (Not catered)
           - **13:30-15:00** *Design/Modeling*
-              - Hatem Abdelrahman, *Design and Modeling of Genetic Circuits with SBOLCanvas*
+              - **13:30-15:00** Hatem Abdelrahman, *Design and Modeling of Genetic Circuits with SBOLCanvas*
           - **15:00-15:30** Break
           - **15:30-17:00** *Build/Test*
               - **15:30-16:00** Chunxiao Liao, *Plasmid Annotation with SeqImprove*
@@ -96,7 +96,7 @@ sections:
               - **09:30-10:00** Daniel Fang, *SynBioHub Installation*
           - **10:00-10:30** Break
           - **10:30-12:00** *SynBioHub*
-              - Daniel Fang, *Usability Evaluation of SynBioHub for Synthetic Biology Data Management*
+              - **10:30-12:00** Daniel Fang, *Usability Evaluation of SynBioHub for Synthetic Biology Data Management*
           - **12:00-12:30** Closing Remarks (Chris Myers)
 
           ## Thursday, June 18, 2026 - IWBDA Workshop. Location: KOBL 352
