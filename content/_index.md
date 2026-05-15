@@ -100,6 +100,7 @@ sections:
           - **12:00-12:30** Closing Remarks (Chris Myers)
 
           ## Thursday, June 18, 2026 - IWBDA Workshop. Location: KOBL 352
+          - **15:30 - 16:00** Welcome (Chris Myers / Carolus Vitalis / William Mo)
           - **16:00-17:30** Panel Session (Douglas Densmore)
               - **16:00-17:30** *Opportunities and Challenges for Bio-Design Automation*  
 
