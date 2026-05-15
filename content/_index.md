@@ -100,6 +100,7 @@ sections:
           - **12:00-12:30** Closing Remarks (Chris Myers)
 
           ## Thursday, June 18, 2026 - IWBDA Workshop. Location: KOBL 352
+          - **15:30 - 16:00** Welcome (Chris Myers / Carolus Vitalis / William Mo)
           - **16:00-17:30** Panel Session (Douglas Densmore)
               - **16:00-17:30** *Opportunities and Challenges for Bio-Design Automation*  
 
@@ -124,8 +125,8 @@ sections:
               - **13:00-13:15** Niloofar Arazkhani and Natasa Miskov Zivanov, *BELL: Biomodel Evidence and LLM based Logic*
               - **13:15-13:30** Haomiao Luo, Niloofar Arazkhani, Difei Tang and Natasa Miskov Zivanov, *VIOLIN WEB: a web application for reconciliation and curation of molecular interaction graphs*
               - **13:30-13:45** Robin Henry, Harrison Steel and Jean Baptiste Lugagne, *Myriad: A GPU Accelerated Platform for In Silico Prototyping of Closed Loop Single Cell Experiments*
-              - **13:45-14:00** Bryan Tegomoh, *AI Powered Genomic Surveillance as Biodesign Automation: Lessons from Operationalizing Pathogen Detection Pipelines at Scale*
-              - **14:00-14:15** Difei Tang and Natasa Miskov Zivanov, *CELESTA Web: An Interactive Tool for LLM Enhanced Biomedical Context Annotation*
+              - **13:45-14:00** Difei Tang and Natasa Miskov Zivanov, *CELESTA Web: An Interactive Tool for LLM Enhanced Biomedical Context Annotation*
+              - **14:00-14:15** Bryan Tegomoh, *AI Powered Genomic Surveillance as Biodesign Automation: Lessons from Operationalizing Pathogen Detection Pipelines at Scale*
 
           - **14:15-15:00** Coffee Break
           - **15:00-16:00** Nona Talks (Douglas Densmore / Chris Krenz)
