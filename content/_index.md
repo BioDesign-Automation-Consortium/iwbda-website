@@ -80,8 +80,8 @@ sections:
               - **08:30-10:00** Chris Myers, *Introduction to the SynBioSuite Data Management System*
           - **10:00-10:30** Break
           - **10:30-12:00** *Resources*
-              - **10:30-11:15** Carolus Vitalis, *Encoding Resources with Excel2Sbol*
-              - **11:15-12:00** Daniel Fang, *Introduction to the SynBioHub Repository*
+              - **10:30-11:30** Carolus Vitalis, *Encoding Resources with Excel2Sbol*
+              - **11:30-12:00** Daniel Fang, *Introduction to the SynBioHub Repository*
           - **12:00-13:30** Lunch Break (Not catered)
           - **13:30-15:00** *Design/Modeling*
               - **13:30-15:00** Hatem Abdelrahman, *Design and Modeling of Genetic Circuits with SBOLCanvas*
@@ -121,15 +121,14 @@ sections:
               - **11:30-11:45** Stephen Chiu and Tae Seok Moon, *Dynamic control of metabolic flux by RNA based genetic circuits designed, built, and tested through automation*
 
           - **11:45-13:00** Lunch
-          - **13:00-14:15** *AI, Curation, and Closed Loop Biological Discovery* (Zhen Zhang / Chunxiao Liao)
+          - **13:00-14:00** *AI, Curation, and Closed Loop Biological Discovery* (Zhen Zhang / Chunxiao Liao)
               - **13:00-13:15** Niloofar Arazkhani and Natasa Miskov Zivanov, *BELL: Biomodel Evidence and LLM based Logic*
               - **13:15-13:30** Haomiao Luo, Niloofar Arazkhani, Difei Tang and Natasa Miskov Zivanov, *VIOLIN WEB: a web application for reconciliation and curation of molecular interaction graphs*
               - **13:30-13:45** Robin Henry, Harrison Steel and Jean Baptiste Lugagne, *Myriad: A GPU Accelerated Platform for In Silico Prototyping of Closed Loop Single Cell Experiments*
               - **13:45-14:00** Difei Tang and Natasa Miskov Zivanov, *CELESTA Web: An Interactive Tool for LLM Enhanced Biomedical Context Annotation*
-              - **14:00-14:15** Bryan Tegomoh, *AI Powered Genomic Surveillance as Biodesign Automation: Lessons from Operationalizing Pathogen Detection Pipelines at Scale*
 
-          - **14:15-15:00** Coffee Break
-          - **15:00-16:00** Nona Talks (Douglas Densmore / Chris Krenz)
+          - **14:00-14:30** Coffee Break
+          - **14:30-16:00** Nona Talks (Douglas Densmore / Chris Krenz)
           - **16:00-17:00** DevCell Discussion (Richard Murray)
 
           ## Saturday, June 20, 2026 - IWBDA Workshop. Location: ECCS 201
@@ -145,21 +144,20 @@ sections:
               - **11:30-11:45** Zachary Hastings and Lukas Buecherl, *Physics Informed Inference of Gene Expression Kinetics Using bioCRNpyler*
               - **11:45-12:00** Dimitris Papamichail, Bang Chiem and Georgios Papamichail, *Codon Pair Optimization Web Tool*
           - **12:00-13:00** Lunch
-          - **13:00-14:30** *Measurement, Microphysiology, and Living Experimental Platforms* (Jeanet Mante / Gonzalo Vidal)
+          - **13:00-14:15** *Measurement, Microphysiology, and Living Experimental Platforms* (Jeanet Mante / Gonzalo Vidal)
               - **13:00-13:15** Vicente Trelles Fernandez and Harrison Steel, *Novel Microfluidic Chips for Massively Parallelised Biological Data Acquisition*
               - **13:15-13:30** Nona Hashemi, Mahdi Hasanzadeh Hesar and Samuel M.D. Oliveira, *Microfluidic Physics Constrained Agent Based Modeling of Artificial Microbial Biofilms*
               - **13:30-13:45** Harman Mehta, Yusuf Ugurluoglu, Meng Zhang, Martyn Dade Robertson and Harrison Steel, *Microbial 3D Bioprinter for Novel Living Materials*
               - **13:45-14:00** Niall McIntyre and Nick Brooks, *Manufacturing a high throughput, label free platform for rapid screening of drug permeation across in vitro plasma membrane models*
               - **14:00-14:15** Evan Holbrook, Elizabeth Codd, Ron Weiss and David Kong, *TransfectionWizard: An Integrated Open Source Platform for Genetic Circuit Design and Automated Mammalian Cell Liposome Transfection for the Lab and Classroom*
-              - **14:15-14:30** Radhakrishna Sanka, Akhilesh Maithi, Charan Manikanta and Mani Vashisth, *Pegasus: A Distributed Research Platform*
-          - **14:30-15:00** Coffee Break
-          - **15:00-16:00** *From Standards to Buildable Biology* (Tae Seok Moon / Brian Bartley)
-              - **15:00-15:15** Doug Densmore, Chris Krenz, and Guzman Vigliecca, *Biodesign Metadata Exchange for Use in Biosecurity*
-              - **15:15-15:30** Gonzalo Andrés Vidal Peña et al., *Standardized Synthetic Biology Data Curation Effort*
-              - **15:30-15:45** Travis Uhrig and Chris Myers, *Adding SBML Modeling Support to SBOLCanvas*
-              - **15:45-16:00** Jeanet Mante, *From Design to Build: Sequence Domestication, Robotic Assembly, and Integrated SBOL Data Capture*
+          - **14:15-14:45** Coffee Break
+          - **14:45-15:45** *From Standards to Buildable Biology* (Tae Seok Moon / Brian Bartley)
+              - **14:45-15:00** Doug Densmore, Chris Krenz, and Guzman Vigliecca, *Biodesign Metadata Exchange for Use in Biosecurity*
+              - **15:00-15:15** Gonzalo Andrés Vidal Peña et al., *Standardized Synthetic Biology Data Curation Effort*
+              - **15:15-15:30** Travis Uhrig and Chris Myers, *Adding SBML Modeling Support to SBOLCanvas*
+              - **15:30-15:45** Jeanet Mante, *From Design to Build: Sequence Domestication, Robotic Assembly, and Integrated SBOL Data Capture*
 
-          - **16:00-16:30** Closing Remarks (Including Nona Awards)
+          - **15:45-16:00** Closing Remarks (Including Nona Awards)
 
   - block: markdown
     id: venue
