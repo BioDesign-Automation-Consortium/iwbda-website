@@ -113,7 +113,7 @@ social:
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - 2026 Speakers
-
+- 2026 Panelists
 # # #any user groups to display on the page
 # display_groups:
 # - SynBioHub Tool
