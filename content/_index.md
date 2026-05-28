@@ -128,8 +128,10 @@ sections:
               - **13:45-14:00** Difei Tang and Natasa Miskov Zivanov, *CELESTA Web: An Interactive Tool for LLM Enhanced Biomedical Context Annotation*
 
           - **14:00-14:30** Coffee Break
-          - **14:30-16:00** Nona Talks (Douglas Densmore / Chris Krenz)
-          - **16:00-17:00** DevCell Discussion (Richard Murray)
+          - **14:30-15:30** Nona Talks (Douglas Densmore / Chris Krenz)
+          - **15:30-17:00** DevCell Discussion (Richard Murray)
+
+          In this session, Richard Murray and his colleagues will discuss the Schmidt Sciences DevCell project. The goal of the DevCell project is to demonstrate a model for biological systems engineering that can serve as a starting point for a larger effort in systems engineering of biological systems. The DevCell project is focused on proof-of-concept demonstrations using “developer cells”, a class of non-living biological machines, constructed from biological components such as lipids, amino acids, proteins, and DNA. Developer cells do not mutate or evolve, allowing more systematic and repeatable engineering, and also providing significant advantages in environments where it may not be desirable to deploy genetically engineered organisms. A major element of our work is the development of Nucleus, an open source platform that help “routinize” the creation of developer cells.
 
           ## Saturday, June 20, 2026 - IWBDA Workshop. Location: ECCS 201
           - **08:30-09:00** Breakfast
@@ -157,7 +159,7 @@ sections:
               - **15:15-15:30** Travis Uhrig and Chris Myers, *Adding SBML Modeling Support to SBOLCanvas*
               - **15:30-15:45** Jeanet Mante, *From Design to Build: Sequence Domestication, Robotic Assembly, and Integrated SBOL Data Capture*
 
-          - **15:45-16:00** Closing Remarks (Including Nona Awards)
+          - **15:45-16:00** Closing Remarks
 
   - block: markdown
     id: venue
