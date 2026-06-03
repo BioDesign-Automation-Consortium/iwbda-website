@@ -104,7 +104,7 @@ sections:
           - **16:00-17:30** Panel Session (Douglas Densmore)
               - **16:00-17:30** *Opportunities and Challenges for Bio-Design Automation*  
 
-              The panel opens with a retrospective on the two-decade trajectory of bio-design automation, identifying which bottlenecks we've cleared and which remain stubbornly in place. We will pivot quickly to the future: examining how AI and emerging technologies can break current deadlocks. Our discussion will focus on the cross-disciplinary talent and large-scale community initiatives required to accelerate progress while rigorously ensuring biosecurity in an increasingly automated landscape.
+                The panel opens with a retrospective on the two-decade trajectory of bio-design automation, identifying which bottlenecks we've cleared and which remain stubbornly in place. We will pivot quickly to the future: examining how AI and emerging technologies can break current deadlocks. Our discussion will focus on the cross-disciplinary talent and large-scale community initiatives required to accelerate progress while rigorously ensuring biosecurity in an increasingly automated landscape.
 
           - **17:30** Reception
 
@@ -129,9 +129,11 @@ sections:
 
           - **14:00-14:30** Coffee Break
           - **14:30-15:30** Nona Talks (Douglas Densmore / Chris Krenz)
+          
+            The session will start with an introduction and presentations from NonaWorks hackathon teams on their software projects. We will then unveil Nona’s new software platform for publishing, discovering, and citing synthetic biology and bioinformatics tools. The session will end with project awards and a debrief on session topics and future Nona efforts/events.
           - **15:30-17:00** DevCell Discussion (Richard Murray)
 
-          In this session, Richard Murray and his colleagues will discuss the Schmidt Sciences DevCell project. The goal of the DevCell project is to demonstrate a model for biological systems engineering that can serve as a starting point for a larger effort in systems engineering of biological systems. The DevCell project is focused on proof-of-concept demonstrations using “developer cells”, a class of non-living biological machines, constructed from biological components such as lipids, amino acids, proteins, and DNA. Developer cells do not mutate or evolve, allowing more systematic and repeatable engineering, and also providing significant advantages in environments where it may not be desirable to deploy genetically engineered organisms. A major element of our work is the development of Nucleus, an open source platform that help “routinize” the creation of developer cells.
+            In this session, Richard Murray and his colleagues will discuss the Schmidt Sciences DevCell project. The goal of the DevCell project is to demonstrate a model for biological systems engineering that can serve as a starting point for a larger effort in systems engineering of biological systems. The DevCell project is focused on proof-of-concept demonstrations using “developer cells”, a class of non-living biological machines, constructed from biological components such as lipids, amino acids, proteins, and DNA. Developer cells do not mutate or evolve, allowing more systematic and repeatable engineering, and also providing significant advantages in environments where it may not be desirable to deploy genetically engineered organisms. A major element of our work is the development of Nucleus, an open source platform that help “routinize” the creation of developer cells.
 
           ## Saturday, June 20, 2026 - IWBDA Workshop. Location: ECCS 201
           - **08:30-09:00** Breakfast
