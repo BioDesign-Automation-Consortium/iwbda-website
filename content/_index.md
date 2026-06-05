@@ -105,8 +105,8 @@ sections:
               - **16:00-17:30** *Opportunities and Challenges for Bio-Design Automation*  
 
                 The panel opens with a retrospective on the two-decade trajectory of bio-design automation, identifying which bottlenecks we've cleared and which remain stubbornly in place. We will pivot quickly to the future: examining how AI and emerging technologies can break current deadlocks. Our discussion will focus on the cross-disciplinary talent and large-scale community initiatives required to accelerate progress while rigorously ensuring biosecurity in an increasingly automated landscape.
-
-          - **17:30** Reception
+          - **17:30-17:45** Allan Kuchinsky IWBDA Scholarship  
+          - **17:45** Reception
 
           ## Friday, June 19, 2026 - IWBDA Workshop. Location: ECCS 201
           - **08:30-09:00** Breakfast
