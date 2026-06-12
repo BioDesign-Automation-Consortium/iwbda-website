@@ -91,6 +91,9 @@ user_groups:
 ---
 ![IWBDA 2026 Logo](iwbda2026_logo.png)
 
+# Proceedings
+
+[Proceedings](uploads/IWBDA2026_Proceedings_full.pdf) available now!
 
 # Announcements
 
