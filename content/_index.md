@@ -5,6 +5,8 @@ date: 2022-10-24
 type: landing
 
 sections:
+
+
   - block: newabout26
     # block: about.biography
     id: cfp
@@ -12,6 +14,9 @@ sections:
       title: Biography
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: IWBDA-2026
+
+    design:
+      columns: '2'
 
   - block: people
     id: keynote
@@ -47,19 +52,7 @@ sections:
 
         All abstracts will undergo a single-blind peer review process on EasyChair. The accepted abstracts will be invited to present their work as a poster or a talk at the conference.
 
-    design:
-      columns: '2'
 
-  - block: markdown
-    id: special-issue
-    content:
-      title: ACS Synthetic Biology Virtual Special Issue
-      text: |-
-        IWBDA attendees are invited to submit manuscripts to the “IWBDA 2026” Virtual Special Issue of *ACS Synthetic Biology*. Submissions are welcome in any article type.
-
-        **Submission deadline: November 30, 2026**
-
-        Review the [IWBDA 2026 Virtual Special Issue invitation and submission instructions](/special-issues/2026/).
     design:
       columns: '2'
 
