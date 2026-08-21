@@ -47,7 +47,19 @@ sections:
 
         All abstracts will undergo a single-blind peer review process on EasyChair. The accepted abstracts will be invited to present their work as a poster or a talk at the conference.
 
-        We encourage abstracts for posters and/or talks at IWBDA 2026 on ongoing research that may be submitted as a full journal paper later. We are currently in talks with ACS Synthetic Biology to set up a special issue on bio-design automation for such extended journal submissions. For the full CFP and the latest information, please visit: https://www.iwbdaconf.org
+    design:
+      columns: '2'
+
+  - block: markdown
+    id: special-issue
+    content:
+      title: ACS Synthetic Biology Virtual Special Issue
+      text: |-
+        IWBDA attendees are invited to submit manuscripts to the “IWBDA 2026” Virtual Special Issue of *ACS Synthetic Biology*. Submissions are welcome in any article type.
+
+        **Submission deadline: November 30, 2026**
+
+        Review the [IWBDA 2026 Virtual Special Issue invitation and submission instructions](/special-issues/2026/).
     design:
       columns: '2'
 
