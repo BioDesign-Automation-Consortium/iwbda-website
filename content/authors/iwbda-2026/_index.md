@@ -95,6 +95,14 @@ user_groups:
 
 [Proceedings](uploads/IWBDA2026_Proceedings_full.pdf) available now!
 
+# ACS Synthetic Biology Virtual Special Issue
+
+IWBDA attendees are invited to submit manuscripts to the “IWBDA 2026” Virtual Special Issue of *ACS Synthetic Biology*. Submissions are welcome in any article type.
+
+**Submission deadline: November 30, 2026**
+
+[View the IWBDA 2026 Virtual Special Issue invitation and submission instructions](/special-issues/2026/).
+
 # Announcements
 
 ## IWBDA Scholarships

@@ -5,6 +5,8 @@ date: 2022-10-24
 type: landing
 
 sections:
+
+
   - block: newabout26
     # block: about.biography
     id: cfp
@@ -12,6 +14,9 @@ sections:
       title: Biography
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: IWBDA-2026
+
+    design:
+      columns: '2'
 
   - block: people
     id: keynote
@@ -47,7 +52,7 @@ sections:
 
         All abstracts will undergo a single-blind peer review process on EasyChair. The accepted abstracts will be invited to present their work as a poster or a talk at the conference.
 
-        We encourage abstracts for posters and/or talks at IWBDA 2026 on ongoing research that may be submitted as a full journal paper later. We are currently in talks with ACS Synthetic Biology to set up a special issue on bio-design automation for such extended journal submissions. For the full CFP and the latest information, please visit: https://www.iwbdaconf.org
+
     design:
       columns: '2'
 
