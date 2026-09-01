@@ -15,7 +15,7 @@ sections:
 
         **Submission deadline: November 30, 2026**
         [!NOTE]
-        > This issue is being set up, on the meantime please make sure to add your intention to submit to the special issue on the cover letter.
+        > This issue is being set up, in the meantime please make sure to add your intention to submit to the special issue in the cover letter.
 
         Submissions are welcome in any article type, including Articles, Technical Notes, and Viewpoints.
 
